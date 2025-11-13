@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Enemy
+  - DebugText2
   layers:
   - Default
   - TransparentFX
