@@ -223,7 +223,7 @@ Transform:
   m_GameObject: {fileID: 109865732}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.63, y: 0, z: -10}
+  m_LocalPosition: {x: -0.63, y: 0, z: 10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -643,14 +643,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1814169937}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: -1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: 23.8}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -30}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1147945827}
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: -180, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1814169942
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -663,12 +663,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 301fc44ce35663a4ca2f933d7a8abedb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
+  target: {fileID: 0}
   currentState: 0
   moveSpeed: 10
-  turnSpeed: 1.5
-  attackDistance: 20
-  retreatDistance: 10
+  turnSpeed: 4
+  attackRange: 10
+  retreatDistance: 5
+  projectile: {fileID: 6170375703390631332, guid: 0576afbe44b41834c9aa387484156ff8, type: 3}
+  marginOfError: 1.5
 --- !u!1001 &1890927879
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -699,7 +701,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f5b6451bfafb3d54981a1134765155e7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.507
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f5b6451bfafb3d54981a1134765155e7, type: 3}
       propertyPath: m_LocalRotation.w

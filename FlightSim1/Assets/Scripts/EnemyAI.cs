@@ -152,8 +152,10 @@ public class EnemyAI : MonoBehaviour
     // If the target is out of range, the enemy retreats.
     void RetreatBehaviour()
     {
-        Vector3 awayFromPlayer = transform.position - target.position;
-        MoveTowardsPlayer(transform.position + awayFromPlayer);
+        //Vector3 awayFromPlayer = transform.position - target.position;
+        //MoveTowardsPlayer(transform.position + awayFromPlayer);
+
+        transform.eulerAngles = new Vector3(transform.rotation.x, transform.rotation.y, 30.0f);
 
         if (DistanceToTarget() > attackRange * 1.5f)
         {
