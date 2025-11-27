@@ -26,6 +26,10 @@ public class EnemyAI : MonoBehaviour
     private Vector3 targetLastPos;
     private float interval = 5; // Time between attacks
     private float timer;
+    
+    // Turning when too close
+    private float turnTime = 1.0f;
+    private float startTime;
 
     void Start()
     {
@@ -47,20 +51,20 @@ public class EnemyAI : MonoBehaviour
         {
             case State.Idle:
                 IdleBehaviour();
-                Debug.Log("Currently Idle");
+                //Debug.Log("Currently Idle");
                 break;
             case State.LockOn:
                 LockOnBehaviour();
-                Debug.Log("Locking On!!");
+                //Debug.Log("Locking On!!");
                 break;
             case State.Attack:
                 AttackBehaviour();
                 Debug.DrawLine(transform.position, target.position, Color.blue);
-                Debug.Log("Attacking!!");
+                //Debug.Log("Attacking!!");
                 break;
             case State.Retreat:
                 RetreatBehaviour();
-                Debug.Log("Retreating...");
+                //Debug.Log("Retreating...");
                 break;
         }
     }
@@ -73,7 +77,10 @@ public class EnemyAI : MonoBehaviour
         if (timer > interval)
         {
             ResetTimer();
-            FireProjectile(aimedPosition);
+            if (currentState == State.Attack)
+            {
+                FireProjectile(aimedPosition);
+            }
         }
 
         timer += Time.deltaTime;
@@ -137,6 +144,11 @@ public class EnemyAI : MonoBehaviour
         {
             currentState = State.Attack;
         }
+        // If the target is too far away, the enemy loses them and idles
+        if (DistanceToTarget() > attackRange * 1.5f)
+        {
+            currentState = State.Idle;
+        }
     }
     // The enemy stays on target during the attack state.
     void AttackBehaviour()
@@ -147,15 +159,41 @@ public class EnemyAI : MonoBehaviour
         if (DistanceToTarget() < retreatDistance)
         {
             currentState = State.Retreat;
+            startTime = Time.time;
+        }
+        // If the target is out of the attack range but still inside the targeting range, the enemy continues to lock on.
+        if (DistanceToTarget() > attackRange && DistanceToTarget() < attackRange * 2)
+        {
+            currentState = State.LockOn;
         }
     }
     // If the target is out of range, the enemy retreats.
     void RetreatBehaviour()
     {
-        //Vector3 awayFromPlayer = transform.position - target.position;
-        //MoveTowardsPlayer(transform.position + awayFromPlayer);
+        //Debug.Log("Current pos: " + transform.position + " | Target pos: " + target.position + " | Distance: " + DistanceToTarget());
 
-        transform.eulerAngles = new Vector3(transform.rotation.x, transform.rotation.y, 30.0f);
+        if (DistanceToTarget() > 0)
+        {
+            Vector3 awayFromPlayer = transform.position + target.position;
+            MoveTowardsPlayer(transform.position + awayFromPlayer);
+        }
+        if (DistanceToTarget() < 0)
+        {
+            transform.position += transform.forward * moveSpeed * Time.deltaTime;
+        }
+
+        // Attempt at a Turning Circle
+        //Vector3 end = (target.position + new Vector3(5.0f, 0f, 0f));
+
+        //Vector3 center = (target.position + (target.position + end)) * 0.5f;
+        //center -= new Vector3(1, 0, 0);
+
+        //Vector3 targetRelCenter = target.position - center;
+        //Vector3 endRelCenter = end - center;
+        //float fracComplete = (Time.time - startTime) / turnTime;
+
+        //transform.position = Vector3.Slerp(targetRelCenter, endRelCenter, fracComplete);
+        //transform.position += center;
 
         if (DistanceToTarget() > attackRange * 1.5f)
         {
@@ -181,7 +219,7 @@ public class EnemyAI : MonoBehaviour
     {
         // [Targeting range]
         Gizmos.color = Color.green;
-        Gizmos.DrawWireSphere(transform.position, attackRange * 2);
+        Gizmos.DrawWireSphere(transform.position, attackRange * 1.5f);
 
         // [Shooting range]
         Gizmos.color = Color.red;
