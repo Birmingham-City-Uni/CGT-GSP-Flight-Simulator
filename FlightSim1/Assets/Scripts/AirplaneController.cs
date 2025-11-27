@@ -1,3 +1,5 @@
+using JetBrains.Annotations;
+using System;
 using Unity.Hierarchy;
 using UnityEngine;
 
@@ -5,8 +7,7 @@ public class AirplaneController : MonoBehaviour
 {
 
 
-    // https://www.youtube.com/watch?v=wq5YYldv1gw
-
+    [Header("Flight Settings")]
     public float Speed = 5; // Movement Speed Vaiable
 
     private float Yaw; // Yaw = Rotation of Y axis
@@ -20,12 +21,12 @@ public class AirplaneController : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
-    {
+    { //https://www.youtube.com/watch?v=wq5YYldv1gw
         transform.position += transform.forward * Speed * Time.deltaTime; // Automatically move forward to amount of Speed (+ DeltaTime)
 
         float Horizontalnput = Input.GetAxis("Horizontal"); // Get Horzontial inputs (A, D, Left Arrow, Right Arrow, Left & Right on Left Analog Stick)
@@ -37,8 +38,35 @@ public class AirplaneController : MonoBehaviour
 
         transform.localRotation = Quaternion.Euler(Vector3.up * Yaw + Vector3.right * Pitch + Vector3.forward * Roll); //Apply all rotations to player
 
+        if (Input.GetButton("Fire1"))
+        {
+            Debug.Log("FIRE1");
+        }
+
+        if (Input.GetButtonDown("Fire2"))
+        {
+            Debug.Log("FIRE2");
+            DropCargo();
+        }
+    }
+
+    [Header("Cargo Settings")]
+    public GameObject Cargo;
+    public float Offset = 0.0f; 
+    void DropCargo()
+    {
+        Debug.Log("Dropped Cargo");
+        
+        var CargoOffset = new Vector3(0, Offset, 0);
+        Instantiate(Cargo, transform.position - CargoOffset, Quaternion.identity);
+
 
     }
 
+        //TO DO LIST:
+        //
+        // CARGO DROPPING + PARACHUTE
+        // SHOOTING
+        //
 
-}
+    }
