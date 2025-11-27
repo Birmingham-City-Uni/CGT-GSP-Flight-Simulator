@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class bullets:MonoBehaviour
+public class Bullets:MonoBehaviour
 {
     public float speed = 100f;
     public float delay = 20f;
