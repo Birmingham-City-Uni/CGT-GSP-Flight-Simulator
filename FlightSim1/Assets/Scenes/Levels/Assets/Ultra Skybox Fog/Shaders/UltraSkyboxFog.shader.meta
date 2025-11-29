@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5e444cd13928b274babcaedb447ba3ef
+labels:
+- GalacticStudios
+timeCreated: 1522350233
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115414
+  packageName: Ultra Skybox Fog
+  packageVersion: 1.0
+  assetPath: Assets/Ultra Skybox Fog/Shaders/UltraSkyboxFog.shader
+  uploadId: 240731
