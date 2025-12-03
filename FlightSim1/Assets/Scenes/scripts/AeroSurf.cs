@@ -13,11 +13,11 @@ public class AeroSurf : MonoBehaviour
 
     public void SetFlapAngle(float angle)
     {
-        flapAngle = Mathf.Clamp(angle, -Mathf.Deg2Rad * 50, Math.Deg2Rad * 50);
+        flapAngle = Mathf.Clamp(angle, -Mathf.Deg2Rad * 50, -Mathf.Deg2Rad * 50);
     }
 
-    public BiVec3 CalculateForces(Vector3 worldAirVelocity,float airDensity,Vector3 relativePosition)
-    {
+//    public BiVec3 CalculateForces(Vector3 worldAirVelocity,float airDensity,Vector3 relativePosition)
+//    {
 
-    }
+//    }
 }
