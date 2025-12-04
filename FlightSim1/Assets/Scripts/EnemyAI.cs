@@ -24,7 +24,7 @@ public class EnemyAI : MonoBehaviour
     private float projectileSpeed = 25;
 
     private Vector3 targetLastPos;
-    private float interval = 5; // Time between attacks
+    private float interval = 3; // Time between attacks
     private float timer;
     
     // Turning when too close
@@ -89,7 +89,7 @@ public class EnemyAI : MonoBehaviour
     void ResetTimer()
     {
         timer -= interval;
-        interval = Random.Range(1f, 4f);
+        interval = Random.Range(1f, 2f);
     }
 
     #region [Calculating projectile aim]
@@ -181,19 +181,6 @@ public class EnemyAI : MonoBehaviour
         {
             transform.position += transform.forward * moveSpeed * Time.deltaTime;
         }
-
-        // Attempt at a Turning Circle
-        //Vector3 end = (target.position + new Vector3(5.0f, 0f, 0f));
-
-        //Vector3 center = (target.position + (target.position + end)) * 0.5f;
-        //center -= new Vector3(1, 0, 0);
-
-        //Vector3 targetRelCenter = target.position - center;
-        //Vector3 endRelCenter = end - center;
-        //float fracComplete = (Time.time - startTime) / turnTime;
-
-        //transform.position = Vector3.Slerp(targetRelCenter, endRelCenter, fracComplete);
-        //transform.position += center;
 
         if (DistanceToTarget() > attackRange * 1.5f)
         {

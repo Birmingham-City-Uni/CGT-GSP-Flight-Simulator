@@ -666,7 +666,7 @@ MonoBehaviour:
   target: {fileID: 0}
   currentState: 0
   moveSpeed: 10
-  turnSpeed: 4
+  turnSpeed: 2
   attackRange: 15
   retreatDistance: 5
   projectile: {fileID: 6170375703390631332, guid: 0576afbe44b41834c9aa387484156ff8, type: 3}
