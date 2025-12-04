@@ -2,8 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class ComponentHealthManager : MonoBehaviour
-{
-    float test = 100;
+{ 
     [SerializeField]
     private GameObject LWingUI;
     [SerializeField]
