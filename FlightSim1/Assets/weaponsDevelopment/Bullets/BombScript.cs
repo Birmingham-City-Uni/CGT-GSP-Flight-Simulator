@@ -1,8 +1,11 @@
+using System;
 using UnityEngine;
 
 public class BombScript : MonoBehaviour
 {
     [SerializeField] Rigidbody rb;
+    [SerializeField] GameObject explosionFX;
+    [SerializeField] MeshRenderer meshRenderer;
 
     void Start()
     {
@@ -18,6 +21,13 @@ public class BombScript : MonoBehaviour
 
     void Shoot()
     {
-        rb.AddForce(new Vector3(0, 500, 800));
+        rb.AddForce(new Vector3(0, 300, 500));
+    }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        meshRenderer.enabled = false;
+        rb.angularVelocity = Vector3.zero;
+        explosionFX.SetActive(true);
     }
 }
