@@ -1,10 +1,11 @@
+﻿using System.ComponentModel;
 using UnityEngine;
 
 public class TargetLock : MonoBehaviour
 {
     public Transform enemy;
 
-    public float detectAngle = 30f;
+    public float detectAngle = 60f;
     public float detectDistance = 1000f;
     public RectTransform hudRect;
     public Camera cam;
@@ -23,42 +24,38 @@ public class TargetLock : MonoBehaviour
     {
         if (IsInHud(enemy))
         {
-            currentLockTime = Time.deltaTime;
+            currentLockTime += Time.deltaTime;
+
             if (currentLockTime >= lockTime)
             {
-                lockedEnemy = enemy;
-                isLocked = true;
-            }
-            else
-            {
-                currentLockTime = 0f;
-                isLocked = false;
-                lockedEnemy = null;
+                if (!isLocked)
+                {
+                    isLocked = true;
+                    lockedEnemy = enemy;
+                    Debug.Log("Target LOCKED!");
+                }
             }
         }
-
-        //bool EnemyInTriangle(Transform enem)
-        //{
-        //    if(enem == null)
-        //    {
-        //        return false;
-        //    }
-
-        //    Vector3 dir = enem.position - transform.position;
-        //    float angle = Vector3.Angle(transform.forward, dir);
-
-        //    return (angle < detectAngle && dir.magnitude < detectDistance);
-        //}
+        else
+        {
+            
+            currentLockTime = 0f;
+            isLocked = false;
+            lockedEnemy = null;
+        }
 
         bool IsInHud (Transform enemy)
         {
             Vector3 screenPos = cam.WorldToScreenPoint(enemy.position);
+            //Debug.Log("Enemy screen pos = " + screenPos);
             if (screenPos.z < 0 )
             {
                 return false;
             }
 
-            return RectTransformUtility.RectangleContainsScreenPoint(hudRect, screenPos);
+            bool inside = RectTransformUtility.RectangleContainsScreenPoint(hudRect, screenPos);
+            //Debug.Log("Inside HUD? " + inside);
+            return inside;
         }
     }
 }

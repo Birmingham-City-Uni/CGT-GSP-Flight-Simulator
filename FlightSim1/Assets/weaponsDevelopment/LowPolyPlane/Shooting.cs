@@ -4,6 +4,7 @@ public class Shooting : MonoBehaviour
 {
     public GameObject bullets;
     public GameObject missile;
+    public GameObject blast;
     public Transform shootPoint;
     public Transform shootPoint_M;
     public TargetLock TargetLock;
@@ -41,10 +42,13 @@ public class Shooting : MonoBehaviour
     void Shoot()
     {
         Instantiate(bullets, shootPoint.position,shootPoint.rotation);
+        Instantiate(blast, shootPoint.position, Quaternion.identity);
     }
 
     void ShootMissile(Transform target)
     {
+        Debug.Log("MISSILE FIRED!");
+        Instantiate(blast, shootPoint_M.position, Quaternion.identity);
         GameObject m = Instantiate(missile, shootPoint_M.position, shootPoint_M.rotation);
         m.transform.LookAt(target);
         m.GetComponent<Missile>().target = target;

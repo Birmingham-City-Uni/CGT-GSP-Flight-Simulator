@@ -205,12 +205,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 30872464}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 8.02, z: -10}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 3.7600002, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 2069408889}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &30872468
 MonoBehaviour:
@@ -372,7 +372,7 @@ GameObject:
   - component: {fileID: 426722339}
   m_Layer: 0
   m_Name: Cube
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -392,7 +392,7 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -558,6 +558,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 5a669d434d6362248bf1ce5b5d8e1a9d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2032668197}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 5a669d434d6362248bf1ce5b5d8e1a9d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 30872467}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 5a669d434d6362248bf1ce5b5d8e1a9d, type: 3}
       insertIndex: -1
@@ -924,9 +927,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bullets: {fileID: 3088327312764250481, guid: ad995b3c54740ef40869ba9621a4cad0, type: 3}
   missile: {fileID: 4485069070768634505, guid: eb57e686237c4fb4596bc2b4645aa2e9, type: 3}
+  blast: {fileID: 2172149233579112159, guid: 7f396a83fb67a9a43ae54431975f15c3, type: 3}
   shootPoint: {fileID: 653590097}
   shootPoint_M: {fileID: 2032668197}
-  TargetLock: {fileID: 0}
+  TargetLock: {fileID: 2069408890}
   fireRate: 0.08
   fireRate_M: 0.01
 --- !u!4 &2069408889 stripped
@@ -951,7 +955,7 @@ MonoBehaviour:
   detectDistance: 100
   hudRect: {fileID: 2074989616}
   cam: {fileID: 30872466}
-  lockTime: 3
+  lockTime: 1
   isLocked: 0
   lockedEnemy: {fileID: 0}
 --- !u!1 &2074989615
@@ -1033,7 +1037,6 @@ CanvasRenderer:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
-  - {fileID: 30872467}
   - {fileID: 1503748357}
   - {fileID: 953607639}
   - {fileID: 1190999597}

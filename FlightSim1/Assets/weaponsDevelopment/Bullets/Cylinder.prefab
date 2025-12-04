@@ -126,6 +126,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed_M: 40
   delay_M: 10
+  target: {fileID: 0}
+  blast: {fileID: 2172149233579112159, guid: 45cd5faa067d9a94cbe990f8d79cf8a8, type: 3}
+  blast2: {fileID: 2172149233579112159, guid: c91c98cc130b46746a7484987431cd7f, type: 3}
+  blast3: {fileID: 2172149233579112159, guid: 34fd71e4357a1bd4387f503e781f229a, type: 3}
 --- !u!54 &6082996721641783692
 Rigidbody:
   m_ObjectHideFlags: 0
