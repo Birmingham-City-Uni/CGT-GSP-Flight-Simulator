@@ -6,6 +6,7 @@ public class Shooting : MonoBehaviour
     public GameObject missile;
     public Transform shootPoint;
     public Transform shootPoint_M;
+    public TargetLock TargetLock;
     public float fireRate = 0.01f;
     public float fireRate_M = 0.01f;
 
@@ -28,9 +29,12 @@ public class Shooting : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space)  && Time.time >= nextFireTime_M)
         {
-            ShootMissile();
-            nextFireTime_M = Time.time + fireRate_M;
-
+            if (TargetLock.isLocked)
+            {
+                ShootMissile(TargetLock.lockedEnemy);
+                nextFireTime_M = Time.time + fireRate_M;
+            }
+                
         }
     }
 
@@ -39,8 +43,10 @@ public class Shooting : MonoBehaviour
         Instantiate(bullets, shootPoint.position,shootPoint.rotation);
     }
 
-    void ShootMissile()
+    void ShootMissile(Transform target)
     {
-        Instantiate(missile, shootPoint_M.position, shootPoint_M.rotation);
+        GameObject m = Instantiate(missile, shootPoint_M.position, shootPoint_M.rotation);
+        m.transform.LookAt(target);
+        m.GetComponent<Missile>().target = target;
     }
 }
