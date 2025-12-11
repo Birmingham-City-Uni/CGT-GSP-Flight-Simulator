@@ -12,6 +12,9 @@ public class CutsceneVolume : MonoBehaviour
     [Header("Animation Length (in seconds)")]
     public float CutsceneDuration;
 
+    [Header("End Level after cutscene")]
+    public bool LevelEnd;
+    public GameObject LevelCompleteUI;
 
     [Header("DEBUG")]
     public float CurrentFrame = 0.0f;
@@ -30,10 +33,25 @@ public class CutsceneVolume : MonoBehaviour
 
             if (CurrentFrame >= CutsceneDuration)
             {
+                Debug.Log("CUTSCENE: Cutscene End"); //Ouput the Collision to the console
                 Cutscene = GameObject.FindWithTag("Cutscene");
                 Object.Destroy(Cutscene);
-                Object.Destroy(this.gameObject);
-                Player.GetComponent<AirplaneController>().Active = true;
+
+                switch(LevelEnd)
+                {
+                    case true:
+                        Instantiate(LevelCompleteUI);
+                        Debug.Log("CUTSCENE: Level Completed UI Spawned"); //Ouput the Collision to the console
+                        Object.Destroy(this.gameObject);
+                        break;
+
+                    case false:
+                        Player.GetComponent<AirplaneController>().Active = true;
+                        Debug.Log("CUTSCENE: Player Enabled"); //Ouput the Collision to the console
+                        Object.Destroy(this.gameObject);
+                        break;
+
+                }
             }
         }
     }

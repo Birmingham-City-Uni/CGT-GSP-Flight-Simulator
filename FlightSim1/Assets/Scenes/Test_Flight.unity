@@ -716,6 +716,18 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 716717181521860433, guid: 0980d3d891cd8ec44afada3dbc69164f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 150
+      objectReference: {fileID: 0}
+    - target: {fileID: 716717181521860433, guid: 0980d3d891cd8ec44afada3dbc69164f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 150
+      objectReference: {fileID: 0}
+    - target: {fileID: 716717181521860433, guid: 0980d3d891cd8ec44afada3dbc69164f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 150
+      objectReference: {fileID: 0}
+    - target: {fileID: 716717181521860433, guid: 0980d3d891cd8ec44afada3dbc69164f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -776,9 +788,17 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 7077285767304808886, guid: 4af87746df8089b46b2625ff3d61e2cb, type: 3}
     - target: {fileID: 1746507179548914318, guid: 0980d3d891cd8ec44afada3dbc69164f, type: 3}
+      propertyPath: LevelEnd
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1746507179548914318, guid: 0980d3d891cd8ec44afada3dbc69164f, type: 3}
       propertyPath: AnimationFrames
       value: 1200
       objectReference: {fileID: 0}
+    - target: {fileID: 1746507179548914318, guid: 0980d3d891cd8ec44afada3dbc69164f, type: 3}
+      propertyPath: LevelCompleteUI
+      value: 
+      objectReference: {fileID: 5934885368394481644, guid: 1382972dc71f336489a49df183a79b56, type: 3}
     - target: {fileID: 1746507179548914318, guid: 0980d3d891cd8ec44afada3dbc69164f, type: 3}
       propertyPath: CutsceneDuration
       value: 8.33

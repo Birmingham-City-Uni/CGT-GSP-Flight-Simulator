@@ -1,0 +1,26 @@
+How to Use: (if unsure use Test Cutscene as guide/reference)
+
+1. Create cutscenes in blender.
+
+2. Save Blend File in respective cutscene folder.
+
+3. Create animation controller with animation connected to "Entry".
+
+4. Place Blend file in scene.
+
+5. Attach animation controller to cutscene parent object.
+
+6. Convert cutscene object into prefab.
+
+7. Set cutscene prefab's tag to "Cutscene".
+
+8. Remove cutscene from scene.
+
+9. Place Cutscene Volume (in Assets/Prefabs) where you want the cutscene to be triggered.
+
+10. Attach Cutscene prefab to volume's "Cutscene".
+
+11. Set length of cutscene in volume's "Cutscene Duration".
+(total number of frames * framerate from blender = Animation Length in seconds)
+
+12. Set "Level End" to true if you want level to end after animation ends.
