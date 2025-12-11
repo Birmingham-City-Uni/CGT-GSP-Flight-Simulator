@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Enemy
   - DebugText2
+  - Cutscene
   layers:
   - Default
   - TransparentFX
