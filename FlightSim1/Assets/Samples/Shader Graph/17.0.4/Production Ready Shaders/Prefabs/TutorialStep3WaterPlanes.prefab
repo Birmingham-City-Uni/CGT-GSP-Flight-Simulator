@@ -122,16 +122,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7809346879080935076, guid: c4058e53767c32445a7b7cb7c5bc3dad, type: 3}
       propertyPath: m_text
-      value: "The stream itself is constructed from simple planes that are added
-        to the scene by right clicking in the Hierarchy panel and selecting 3D Object->Plane.
+      value: "The stream itself is constructed from simple planes that are added to
+        the scene by right clicking in the Hierarchy panel and selecting 3D Object->Plane.
         Then we apply the WaterStream material.  The planes are placed in the stream
         channel that\u2019s cut into the terrain, and then scaled along the Z axis
-        to stretch them along the length of the stream. Water flows in the local
-        -Z direction of the planes. Planes are scaled as long as they need to be
-        in order to reach from one stream height drop to the next.\r\n\r\nNotice
-        that the edges of the stream mesh are transparent at the start and at the
-        end.  This is to allow the stream meshes to blend together correctly with
-        the waterfall meshes that link the stream planes together.\r\n\n"
+        to stretch them along the length of the stream. Water flows in the local -Z
+        direction of the planes. Planes are scaled as long as they need to be in order
+        to reach from one stream height drop to the next.\r\n\r\nNotice that the edges
+        of the stream mesh are transparent at the start and at the end.  This is to
+        allow the stream meshes to blend together correctly with the waterfall meshes
+        that link the stream planes together.\r\n\n"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -127,28 +127,25 @@ PrefabInstance:
       propertyPath: m_text
       value: 'We start by blocking out the main shapes of the terrain. We use the
         Set Height brush to create a sloping terrain by creating a series of terraces
-        and then using the Smooth brush to smooth out the hard edges between the
-        terraces.
+        and then using the Smooth brush to smooth out the hard edges between the terraces.
 
 
 
-        Then we cut in our stream channel with the Set Height
-        brush in several different tiers heading down the slope. After cutting in
-        the stream, we smooth out the hard edges using the Smooth brush.
+        Then we cut in our stream channel with the Set Height brush in several different
+        tiers heading down the slope. After cutting in the stream, we smooth out the
+        hard edges using the Smooth brush.
 
 
 
-        We
-        finalize the terrain shape by adding polish using the Raise/Lower Height
+        We finalize the terrain shape by adding polish using the Raise/Lower Height
         brush and the Smooth brush to add touch-ups and variety.  In this process,
         we start out with large brushes and end up using small ones.
 
 
 
-        Once
-        this step is done, we do revisit the terrain shape occasionally to add additional
-        touch ups, especially after adding in the water meshes in steps 3 and 4,
-        to ensure that the water meshes and terrain shape work together.
+        Once this step is done, we do revisit the terrain shape occasionally to add
+        additional touch ups, especially after adding in the water meshes in steps
+        3 and 4, to ensure that the water meshes and terrain shape work together.
 
 '
       objectReference: {fileID: 0}

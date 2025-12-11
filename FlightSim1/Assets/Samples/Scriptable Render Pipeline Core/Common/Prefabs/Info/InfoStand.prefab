@@ -369,8 +369,8 @@ MonoBehaviour:
     dolor. Cras elementum ultrices diam. \n\nMaecenas ligula massa, varius a, semper
     congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est
     eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa,
-    scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in
-    risus volutpat libero pharetra tempor. "
+    scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus
+    volutpat libero pharetra tempor. "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2f7116f10747a67409388e93052ae222, type: 2}
   m_sharedMaterial: {fileID: -6055507529455485361, guid: 2f7116f10747a67409388e93052ae222, type: 2}

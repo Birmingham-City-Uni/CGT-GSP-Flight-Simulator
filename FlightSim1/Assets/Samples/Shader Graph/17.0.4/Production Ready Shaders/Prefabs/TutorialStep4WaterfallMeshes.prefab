@@ -126,8 +126,8 @@ PrefabInstance:
         to the next lower level. They are placed at the end of a stream plane and
         slope down to connect to the next stream plane. We rotate the waterfall meshes
         around the Y axis to align the waterfall mesh between the two stream planes.\r\n\r\nThe
-        pivot point of the waterfall is lined up vertically with the top portion
-        of the waterfall, so you can place the waterfall mesh at the exact same height
+        pivot point of the waterfall is lined up vertically with the top portion of
+        the waterfall, so you can place the waterfall mesh at the exact same height
         as the top stream plane, and then scale the waterfall mesh so that the bottom
         portion of the waterfall mesh aligns with the lower stream plane.\r\n \n\r\nNotice
         that the Sorting Priority parameter in the Advanced Options of the material

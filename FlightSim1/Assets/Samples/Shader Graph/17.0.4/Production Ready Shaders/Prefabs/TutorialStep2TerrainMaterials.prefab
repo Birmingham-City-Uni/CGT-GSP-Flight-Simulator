@@ -124,7 +124,7 @@ PrefabInstance:
       propertyPath: m_text
       value: "Next, it\u2019s time to add materials to our terrain.  We have four
         material layers - cobblestone rocks for our stream bed, dry dirt, rocky moss,
-        and mossy grass. To apply the materials, we begin by establishing guidelines. 
+        and mossy grass. To apply the materials, we begin by establishing guidelines.
         The stones material goes in the stream bed.  The dirt material goes along
         the banks of the stream. As a transition between the first and the grass,
         we use the rocky moss material. And finally, we use the grass material for
@@ -134,7 +134,7 @@ PrefabInstance:
         with a low opacity value to blend the two materials together.\r\n\r\nEven
         though our terrain materials exhibit tiling artifacts by themselves, we\u2019re
         able to hide the tiling by giving each material a different tiling frequency.
-        When the materials are blended, they break up each others tiling artifacts. 
+        When the materials are blended, they break up each others tiling artifacts.
         We also cover the terrain with detail meshes (step 7) which further hides
         the tiling.\r\n\n"
       objectReference: {fileID: 0}

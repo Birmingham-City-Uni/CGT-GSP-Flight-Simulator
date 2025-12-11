@@ -1605,10 +1605,10 @@ PrefabInstance:
       propertyPath: m_text
       value: "Apply this simple shader to a 1 meter cube.  You can then scale and
         stretch the cube to block out your level.  The grid projected on the cube
-        doesn't stretch but maintains its world-space projection so it's easy to
-        see distances and heights.  It's a great way to block out traversable paths,
-        obstacles, and level layouts.\n\nTurning on the EnableSlopeWarning parameter
-        will shade meshes red where they\u2019re too steep to traverse."
+        doesn't stretch but maintains its world-space projection so it's easy to see
+        distances and heights.  It's a great way to block out traversable paths, obstacles,
+        and level layouts.\n\nTurning on the EnableSlopeWarning parameter will shade
+        meshes red where they\u2019re too steep to traverse."
       objectReference: {fileID: 0}
     - target: {fileID: 5151998697988675438, guid: 217c64a5792b3cd45bbca2d0a6a3e16c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1877,8 +1877,7 @@ PrefabInstance:
         ice below the surface though there is no transparency or actual volume.
 
 
-        It
-        also users a Fresnel effect to brightness the edges and create a frosted
+        It also users a Fresnel effect to brightness the edges and create a frosted
         look. '
       objectReference: {fileID: 0}
     - target: {fileID: 5151998697988675438, guid: 217c64a5792b3cd45bbca2d0a6a3e16c, type: 3}

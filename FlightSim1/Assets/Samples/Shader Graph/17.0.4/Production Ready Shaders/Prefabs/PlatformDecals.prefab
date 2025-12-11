@@ -3287,9 +3287,8 @@ PrefabInstance:
         It projects materials correctly onto any mesh that intersects the decal volume.
 
 
-        It
-        could be used to apply terrain materials on to other objects like rocks so
-        that they blend in better with the terrain.'
+        It could be used to apply terrain materials on to other objects like rocks
+        so that they blend in better with the terrain.'
       objectReference: {fileID: 0}
     - target: {fileID: 4995077095936682008, guid: 217c64a5792b3cd45bbca2d0a6a3e16c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3454,15 +3453,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2759006676346111776, guid: 6c40ad478ff0e5a4c91d0b78f29e80e2, type: 3}
       propertyPath: m_text
-      value: "Decals allow you to apply local material modifications to specific
-        places in the world. You might think of things like applying graffiti tags
-        to a wall or scattering fallen leaves below a tree. But decals can be used
-        for a lot more. In these examples, we see decals making things look wet,
-        making surfaces appear to have flowing water across them, projecting water
-        caustics, and blending specific materials onto other objects.\r\n\r\nDecals
-        are available to use in both HDRP and URP, but they need to be enabled in
-        both render pipelines. To use decals, see the documentation in both HDRP
-        and URP.\r"
+      value: "Decals allow you to apply local material modifications to specific places
+        in the world. You might think of things like applying graffiti tags to a wall
+        or scattering fallen leaves below a tree. But decals can be used for a lot
+        more. In these examples, we see decals making things look wet, making surfaces
+        appear to have flowing water across them, projecting water caustics, and blending
+        specific materials onto other objects.\r\n\r\nDecals are available to use
+        in both HDRP and URP, but they need to be enabled in both render pipelines.
+        To use decals, see the documentation in both HDRP and URP.\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4135125235891897624, guid: 6c40ad478ff0e5a4c91d0b78f29e80e2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3606,8 +3604,8 @@ PrefabInstance:
       value: This decal creates the appearance of flowing water across whatever surfaces
         are inside the decal. It can be used on the banks of streams and around waterfalls
         to support the appearance of water flowing. With material parameters, you
-        can control the speed of the water flow, the opacity of both the wetness
-        and the water, and the strength of the flowing water normals.
+        can control the speed of the water flow, the opacity of both the wetness and
+        the water, and the strength of the flowing water normals.
       objectReference: {fileID: 0}
     - target: {fileID: 4995077095936682008, guid: 217c64a5792b3cd45bbca2d0a6a3e16c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -3866,8 +3864,8 @@ PrefabInstance:
       propertyPath: m_text
       value: The wetness decal makes surfaces look wet by darkening color and increasing
         smoothness. It uses very simple math and no texture samples so it is very
-        performance efficient. It can be used along the banks of bodies of water
-        to better integrate the water with the environment.
+        performance efficient. It can be used along the banks of bodies of water to
+        better integrate the water with the environment.
       objectReference: {fileID: 0}
     - target: {fileID: 4995077095936682008, guid: 217c64a5792b3cd45bbca2d0a6a3e16c, type: 3}
       propertyPath: m_StaticEditorFlags

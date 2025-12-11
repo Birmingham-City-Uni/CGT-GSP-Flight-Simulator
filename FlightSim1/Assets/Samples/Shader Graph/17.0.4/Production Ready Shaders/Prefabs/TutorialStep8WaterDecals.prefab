@@ -127,9 +127,9 @@ PrefabInstance:
         other meshes around the stream look like they\u2019re wet, and the Caustics
         decal imitates the appearance of lighting getting refracted by the surface
         of the water and getting focused in animated patterns on the bottom of the
-        stream.\r\n\r\nFor the Wetness decal, it should be created and scaled so
-        that the top of the decal extends around half a meter above the surface of
-        the water. The top of the Caustics decal should be just under the water.\r\n\r\nFor
+        stream.\r\n\r\nFor the Wetness decal, it should be created and scaled so that
+        the top of the decal extends around half a meter above the surface of the
+        water. The top of the Caustics decal should be just under the water.\r\n\r\nFor
         both decals, the decal volumes should be kept as small as possible in all
         three dimensions - just large enough to cover their intended use and no larger.
         You can also save some performance by lowering the Draw Distance parameter

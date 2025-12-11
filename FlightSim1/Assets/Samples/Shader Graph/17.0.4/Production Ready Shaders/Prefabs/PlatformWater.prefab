@@ -406,13 +406,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "The sample set comes with four different water shaders. Each one uses
-    reflection, refraction, surface ripples using scrolling normal maps, and depth
-    fog. Each also uses a few additional features that are unique to that type of
-    water.\n\nFor the water shaders to work correctly, ensure that you have Opaque
-    Texture and Depth Texture enabled on your render pipeline asset.\n\nFor more
-    information on how to use these water shaders, see the step by step build process
-    on display in this scene in the row behind this one. \r\n \n"
+  m_text: "The sample set comes with four different water shaders. Each one uses reflection,
+    refraction, surface ripples using scrolling normal maps, and depth fog. Each also
+    uses a few additional features that are unique to that type of water.\n\nFor the
+    water shaders to work correctly, ensure that you have Opaque Texture and Depth
+    Texture enabled on your render pipeline asset.\n\nFor more information on how
+    to use these water shaders, see the step by step build process on display in this
+    scene in the row behind this one. \r\n \n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2f7116f10747a67409388e93052ae222, type: 2}
   m_sharedMaterial: {fileID: -6055507529455485361, guid: 2f7116f10747a67409388e93052ae222, type: 2}
@@ -1612,12 +1612,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3580610915091520067, guid: 217c64a5792b3cd45bbca2d0a6a3e16c, type: 3}
       propertyPath: m_text
-      value: "This is the simplest water shader of the group.  Because it\u2019s
-        meant to be applied to larger bodies of water, it has two different sets
-        of scrolling normals for the surface ripples - one large, one small - to
-        break up the repetition of the ripples. It also fades the ripples out at
-        a distance both to hide the tiling patterns and to give the lake a mirror
-        finish at a distance."
+      value: "This is the simplest water shader of the group.  Because it\u2019s meant
+        to be applied to larger bodies of water, it has two different sets of scrolling
+        normals for the surface ripples - one large, one small - to break up the repetition
+        of the ripples. It also fades the ripples out at a distance both to hide the
+        tiling patterns and to give the lake a mirror finish at a distance."
       objectReference: {fileID: 0}
     - target: {fileID: 5151998697988675438, guid: 217c64a5792b3cd45bbca2d0a6a3e16c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1752,12 +1751,12 @@ PrefabInstance:
     - target: {fileID: 2759006676346111776, guid: 6c40ad478ff0e5a4c91d0b78f29e80e2, type: 3}
       propertyPath: m_text
       value: "The sample set comes with four different water shaders. Each one uses
-        reflection, refraction, surface ripples using scrolling normal maps, and
-        depth fog. Each also uses a few additional features that are unique to that
-        type of water.\n\nFor the water shaders to work correctly, ensure that you
-        have Opaque Texture and Depth Texture enabled on your render pipeline asset.\n\nFor
-        more information on how to use these water shaders, see the step by step
-        build process on display in this scene in the row behind this one. \r\n \n"
+        reflection, refraction, surface ripples using scrolling normal maps, and depth
+        fog. Each also uses a few additional features that are unique to that type
+        of water.\n\nFor the water shaders to work correctly, ensure that you have
+        Opaque Texture and Depth Texture enabled on your render pipeline asset.\n\nFor
+        more information on how to use these water shaders, see the step by step build
+        process on display in this scene in the row behind this one. \r\n \n"
       objectReference: {fileID: 0}
     - target: {fileID: 4135125235891897624, guid: 6c40ad478ff0e5a4c91d0b78f29e80e2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2063,12 +2062,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3580610915091520067, guid: 217c64a5792b3cd45bbca2d0a6a3e16c, type: 3}
       propertyPath: m_text
-      value: "This is the same shader as the WaterStream, but it\u2019s intended
-        to be used on a waterfall mesh. It fades out at the start and the end of
-        the mesh so that it can be blended in with the stream meshes at the top and
-        bottom of the falls, and it adds foam where the falls are vertical.\n\nThe
-        mesh can be scaled on the Y axis to match the height between water planes
-        in the stream."
+      value: "This is the same shader as the WaterStream, but it\u2019s intended to
+        be used on a waterfall mesh. It fades out at the start and the end of the
+        mesh so that it can be blended in with the stream meshes at the top and bottom
+        of the falls, and it adds foam where the falls are vertical.\n\nThe mesh can
+        be scaled on the Y axis to match the height between water planes in the stream."
       objectReference: {fileID: 0}
     - target: {fileID: 5151998697988675438, guid: 217c64a5792b3cd45bbca2d0a6a3e16c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2197,7 +2195,7 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: ddd5d40721fa7284c86c63e8d65cb985, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: d0c428a854da0604a893e19cef2d06b6, type: 2}
     - target: {fileID: 919132149155446097, guid: ddd5d40721fa7284c86c63e8d65cb985, type: 3}

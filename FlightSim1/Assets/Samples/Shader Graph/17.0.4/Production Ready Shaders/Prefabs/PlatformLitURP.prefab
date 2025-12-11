@@ -188,20 +188,20 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "The most commonly used shader for each of the SRPs is called Lit. For
-    projects that use it, it\u2019s often applied to just about every mesh in the
-    game. Both the HDRP and URP versions of the Lit shader are very full-featured. 
-    However, sometimes users want to add additional features to get just the look
-    they\u2019re trying to achieve, or remove unused features to optimize performance.
-    For users who aren\u2019t familiar with shader code, this can be very difficult.\r\n\r\nFor
-    that reason, we\u2019ve included Shader Graph versions of the Lit shader for
-    both URP and HDRP in this sample pack. Users will be able to make a copy of the
-    Shader Graph shader, and then change any material that\u2019s currently referencing
-    the code version of the Lit shader with the Shader Graph version. All of the
-    material settings will correctly be applied and continue to work.  They\u2019ll
-    then be able to make changes to the Shader Graph version as needed. Previously,
-    this process required first building the Shader Graph version from scratch -
-    which was quite a complex process.\r\n"
+  m_text: "The most commonly used shader for each of the SRPs is called Lit. For projects
+    that use it, it\u2019s often applied to just about every mesh in the game. Both
+    the HDRP and URP versions of the Lit shader are very full-featured. However, sometimes
+    users want to add additional features to get just the look they\u2019re trying
+    to achieve, or remove unused features to optimize performance. For users who aren\u2019t
+    familiar with shader code, this can be very difficult.\r\n\r\nFor that reason,
+    we\u2019ve included Shader Graph versions of the Lit shader for both URP and HDRP
+    in this sample pack. Users will be able to make a copy of the Shader Graph shader,
+    and then change any material that\u2019s currently referencing the code version
+    of the Lit shader with the Shader Graph version. All of the material settings
+    will correctly be applied and continue to work.  They\u2019ll then be able to
+    make changes to the Shader Graph version as needed. Previously, this process required
+    first building the Shader Graph version from scratch - which was quite a complex
+    process.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2f7116f10747a67409388e93052ae222, type: 2}
   m_sharedMaterial: {fileID: -6055507529455485361, guid: 2f7116f10747a67409388e93052ae222, type: 2}
@@ -1663,11 +1663,11 @@ PrefabInstance:
       propertyPath: m_text
       value: "Just like the code version, this shader offers the Metallic workflow
         or the Specular workflow. Shaders can be either opaque or transparent, and
-        there are options for Alpha Clipping, Cast Shadows, and Receive Shadows.
-        For the main surface, users can apply a base map, metallic or specular map,
-        normal map, height map, occlusion map, and emission map. Parameters are available
-        to control the strength of the smoothness, height, normal, and occlusion
-        and control the tiling and offset of the textures.\r"
+        there are options for Alpha Clipping, Cast Shadows, and Receive Shadows. For
+        the main surface, users can apply a base map, metallic or specular map, normal
+        map, height map, occlusion map, and emission map. Parameters are available
+        to control the strength of the smoothness, height, normal, and occlusion and
+        control the tiling and offset of the textures.\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4995077095936682008, guid: 217c64a5792b3cd45bbca2d0a6a3e16c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1831,19 +1831,18 @@ PrefabInstance:
       propertyPath: m_text
       value: "The most commonly used shader for each of the SRPs is called Lit. For
         projects that use it, it\u2019s often applied to just about every mesh in
-        the game. Both the HDRP and URP versions of the Lit shader are very full-featured. 
-        However, sometimes users want to add additional features to get just the
-        look they\u2019re trying to achieve, or remove unused features to optimize
-        performance. For users who aren\u2019t familiar with shader code, this can
-        be very difficult.\r\n\r\nFor that reason, we\u2019ve included Shader Graph
-        versions of the Lit shader for both URP and HDRP in this sample pack. Users
-        will be able to make a copy of the Shader Graph shader, and then change any
-        material that\u2019s currently referencing the code version of the Lit shader
-        with the Shader Graph version. All of the material settings will correctly
-        be applied and continue to work.  They\u2019ll then be able to make changes
-        to the Shader Graph version as needed. Previously, this process required
-        first building the Shader Graph version from scratch - which was quite a
-        complex process.\r\n"
+        the game. Both the HDRP and URP versions of the Lit shader are very full-featured.
+        However, sometimes users want to add additional features to get just the look
+        they\u2019re trying to achieve, or remove unused features to optimize performance.
+        For users who aren\u2019t familiar with shader code, this can be very difficult.\r\n\r\nFor
+        that reason, we\u2019ve included Shader Graph versions of the Lit shader for
+        both URP and HDRP in this sample pack. Users will be able to make a copy of
+        the Shader Graph shader, and then change any material that\u2019s currently
+        referencing the code version of the Lit shader with the Shader Graph version.
+        All of the material settings will correctly be applied and continue to work.
+        \ They\u2019ll then be able to make changes to the Shader Graph version as
+        needed. Previously, this process required first building the Shader Graph
+        version from scratch - which was quite a complex process.\r\n"
       objectReference: {fileID: 0}
     - target: {fileID: 4135125235891897624, guid: 6c40ad478ff0e5a4c91d0b78f29e80e2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -1917,8 +1916,8 @@ PrefabInstance:
     - target: {fileID: 1736223423933981007, guid: 96048391e5bc0af49b1edfa6e3a2427c, type: 3}
       propertyPath: m_text
       value: "To create a more user-friendly GUI in the material, this shader uses
-        the same Custom Editor GUI that the code version uses.  At the bottom of
-        the Graph Inspector, you\u2019ll see the following under Custom Editor GUI:\r\n\r\nUnityEditor.Rendering.Universal.ShaderGUI.LitShader\r\n\r\nIf
+        the same Custom Editor GUI that the code version uses.  At the bottom of the
+        Graph Inspector, you\u2019ll see the following under Custom Editor GUI:\r\n\r\nUnityEditor.Rendering.Universal.ShaderGUI.LitShader\r\n\r\nIf
         you need to add or remove parameters, we recommend removing the Custom Editor
         GUI.  It depends on many of the parameters and won\u2019t function properly
         if they\u2019re removed.\r\n\r\n\r"

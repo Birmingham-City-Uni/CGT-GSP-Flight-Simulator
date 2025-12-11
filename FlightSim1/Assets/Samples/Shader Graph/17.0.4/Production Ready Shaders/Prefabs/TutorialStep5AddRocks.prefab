@@ -124,8 +124,8 @@ PrefabInstance:
       propertyPath: m_text
       value: "Streams are often filled with rocks that have been pushed by the current.
         To save memory and reduce draw calls, we\u2019re using just two rock meshes
-        that both use the same texture set.  The rocks are rotated and scaled to
-        give a variety of appearances.\n\nNotice that we\u2019ve created visual variety
+        that both use the same texture set.  The rocks are rotated and scaled to give
+        a variety of appearances.\n\nNotice that we\u2019ve created visual variety
         by creating two different sizes of rocks - large boulders, and smaller rocks.
         Overall, the rocks break up the shape of the stream and change the pattern
         of the foam on the water surface.\n"

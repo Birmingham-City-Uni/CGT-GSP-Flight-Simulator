@@ -298,11 +298,10 @@ MonoBehaviour:
       m_Calls: []
   m_text: "This sample comes with a full set of weather-related subgraphs (rain and
     snow) that can be mixed and matched depending on the requirements of the object
-    type they\u2019re applied to.\r\n\nThere are several subgraphs that generate
-    rain effects. Each has a different subset of the available rain effects. Applying
-    all of the effects at once is a bit expensive on performance, so it\u2019s best
-    to choose the option with just the effects you need for the specific type of
-    object/surface."
+    type they\u2019re applied to.\r\n\nThere are several subgraphs that generate rain
+    effects. Each has a different subset of the available rain effects. Applying all
+    of the effects at once is a bit expensive on performance, so it\u2019s best to
+    choose the option with just the effects you need for the specific type of object/surface."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2f7116f10747a67409388e93052ae222, type: 2}
   m_sharedMaterial: {fileID: -6055507529455485361, guid: 2f7116f10747a67409388e93052ae222, type: 2}
@@ -1939,8 +1938,8 @@ PrefabInstance:
       value: "The Rain subgraph combines all of the rain effect - drops, drips, puddles,
         wetness - to create a really nice rain weather effect - but it\u2019s the
         most expensive on performance. Puddles are a bit expensive to generate as
-        are drips, so this version should only be used on objects that will have
-        both flat horizontal surfaces as well as vertical surfaces."
+        are drips, so this version should only be used on objects that will have both
+        flat horizontal surfaces as well as vertical surfaces."
       objectReference: {fileID: 0}
     - target: {fileID: 5151998697988675438, guid: 217c64a5792b3cd45bbca2d0a6a3e16c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2107,12 +2106,12 @@ PrefabInstance:
     - target: {fileID: 2759006676346111776, guid: 6c40ad478ff0e5a4c91d0b78f29e80e2, type: 3}
       propertyPath: m_text
       value: "This sample comes with a full set of weather-related subgraphs (rain
-        and snow) that can be mixed and matched depending on the requirements of
-        the object type they\u2019re applied to.\r\n\nThere are several subgraphs
-        that generate rain effects. Each has a different subset of the available
-        rain effects. Applying all of the effects at once is a bit expensive on performance,
-        so it\u2019s best to choose the option with just the effects you need for
-        the specific type of object/surface."
+        and snow) that can be mixed and matched depending on the requirements of the
+        object type they\u2019re applied to.\r\n\nThere are several subgraphs that
+        generate rain effects. Each has a different subset of the available rain effects.
+        Applying all of the effects at once is a bit expensive on performance, so
+        it\u2019s best to choose the option with just the effects you need for the
+        specific type of object/surface."
       objectReference: {fileID: 0}
     - target: {fileID: 4135125235891897624, guid: 6c40ad478ff0e5a4c91d0b78f29e80e2, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2241,8 +2240,8 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3580610915091520067, guid: 217c64a5792b3cd45bbca2d0a6a3e16c, type: 3}
       propertyPath: m_text
-      value: "The Rain Props subgraph has the drop and drip effects but does not
-        include the puddles.  It\u2019s best for small prop objects. "
+      value: "The Rain Props subgraph has the drop and drip effects but does not include
+        the puddles.  It\u2019s best for small prop objects. "
       objectReference: {fileID: 0}
     - target: {fileID: 5151998697988675438, guid: 217c64a5792b3cd45bbca2d0a6a3e16c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2338,8 +2337,7 @@ PrefabInstance:
       propertyPath: m_text
       value: The Rain Rocks subgraph has been specifically tuned for use on rocks.
         It includes drips and drops, but not puddles. It also includes the LOD0 parameter
-        that is meant to turn off close-up features on LODs other than the first
-        one.
+        that is meant to turn off close-up features on LODs other than the first one.
       objectReference: {fileID: 0}
     - target: {fileID: 5151998697988675438, guid: 217c64a5792b3cd45bbca2d0a6a3e16c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2566,8 +2564,8 @@ PrefabInstance:
     - target: {fileID: 3580610915091520067, guid: 217c64a5792b3cd45bbca2d0a6a3e16c, type: 3}
       propertyPath: m_text
       value: The Snow subgraph creates a snow effect and applies it to the tops of
-        objects. The snow material includes color, smoothness, normal, metallic,
-        and emissive - where the emissive is used to apply sparkles to the snow.
+        objects. The snow material includes color, smoothness, normal, metallic, and
+        emissive - where the emissive is used to apply sparkles to the snow.
       objectReference: {fileID: 0}
     - target: {fileID: 5151998697988675438, guid: 217c64a5792b3cd45bbca2d0a6a3e16c, type: 3}
       propertyPath: m_LocalPosition.x

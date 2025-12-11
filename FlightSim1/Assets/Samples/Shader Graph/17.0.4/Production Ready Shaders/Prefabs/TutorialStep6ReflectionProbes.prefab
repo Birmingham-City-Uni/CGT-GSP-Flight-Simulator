@@ -124,17 +124,16 @@ PrefabInstance:
       propertyPath: m_text
       value: 'Reflections are a critical component of realistic-looking water. To
         improve the appearance of the water reflections, we create a Reflection Probe
-        for each of the stream segments and place it at about head height and in
-        the middle of the stream. If were are objects like rocks and trees nearby,
-        they will be captured in the Reflection Probes and then reflected more accurately
+        for each of the stream segments and place it at about head height and in the
+        middle of the stream. If were are objects like rocks and trees nearby, they
+        will be captured in the Reflection Probes and then reflected more accurately
         in the water.
 
 
 
-        Especially notice how water to the right of this
-        point is correctly reflecting the high bank behind the signs while water
-        to the left is only reflecting the sky. This additional realism is contributed
-        by the Reflection Probes.
+        Especially notice how water to the right of this point is correctly reflecting
+        the high bank behind the signs while water to the left is only reflecting
+        the sky. This additional realism is contributed by the Reflection Probes.
 
 
 '

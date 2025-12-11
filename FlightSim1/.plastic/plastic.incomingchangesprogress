@@ -1,0 +1,5596 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      6
+    ],
+    "SourceCsetId": 8,
+    "DestinationCsetId": 6,
+    "FileConflicts": [
+      {
+        "Path": "/ProjectSettings/ProjectSettings.asset",
+        "ItemId": 148,
+        "ParentItemId": 131,
+        "BaseRevId": 117,
+        "SourceRevId": 4205,
+        "DestinationRevId": 117
+      },
+      {
+        "Path": "/ProjectSettings/SceneTemplateSettings.json",
+        "ItemId": 1208,
+        "ParentItemId": 131,
+        "BaseRevId": 2915,
+        "SourceRevId": 4206,
+        "DestinationRevId": 2915
+      },
+      {
+        "Path": "/Assets/Flight Simulator/Black.mat",
+        "ItemId": 1209,
+        "ParentItemId": 1140,
+        "BaseRevId": 2169,
+        "SourceRevId": 3295,
+        "DestinationRevId": 2169
+      },
+      {
+        "Path": "/Assets/Flight Simulator/Black.mat.meta",
+        "ItemId": 1210,
+        "ParentItemId": 1140,
+        "BaseRevId": 2170,
+        "SourceRevId": 3296,
+        "DestinationRevId": 2170
+      },
+      {
+        "Path": "/Assets/Flight Simulator/GlobalVolumeProfile.asset",
+        "ItemId": 1211,
+        "ParentItemId": 1140,
+        "BaseRevId": 2171,
+        "SourceRevId": 3297,
+        "DestinationRevId": 2171
+      },
+      {
+        "Path": "/Assets/Flight Simulator/GlobalVolumeProfile.asset.meta",
+        "ItemId": 1212,
+        "ParentItemId": 1140,
+        "BaseRevId": 2172,
+        "SourceRevId": 3298,
+        "DestinationRevId": 2172
+      },
+      {
+        "Path": "/Assets/Flight Simulator/Gold.mat",
+        "ItemId": 1213,
+        "ParentItemId": 1140,
+        "BaseRevId": 2173,
+        "SourceRevId": 3299,
+        "DestinationRevId": 2173
+      },
+      {
+        "Path": "/Assets/Flight Simulator/Gold.mat.meta",
+        "ItemId": 1214,
+        "ParentItemId": 1140,
+        "BaseRevId": 2174,
+        "SourceRevId": 3300,
+        "DestinationRevId": 2174
+      },
+      {
+        "Path": "/Assets/Flight Simulator/Ground.mat",
+        "ItemId": 1215,
+        "ParentItemId": 1140,
+        "BaseRevId": 2175,
+        "SourceRevId": 3301,
+        "DestinationRevId": 2175
+      },
+      {
+        "Path": "/Assets/Flight Simulator/Ground.mat.meta",
+        "ItemId": 1216,
+        "ParentItemId": 1140,
+        "BaseRevId": 2176,
+        "SourceRevId": 3302,
+        "DestinationRevId": 2176
+      },
+      {
+        "Path": "/Assets/Flight Simulator/LightingData.asset.meta",
+        "ItemId": 1218,
+        "ParentItemId": 1140,
+        "BaseRevId": 2177,
+        "SourceRevId": 3303,
+        "DestinationRevId": 2177
+      },
+      {
+        "Path": "/Assets/Flight Simulator/Lit.mat",
+        "ItemId": 1219,
+        "ParentItemId": 1140,
+        "BaseRevId": 2178,
+        "SourceRevId": 3304,
+        "DestinationRevId": 2178
+      },
+      {
+        "Path": "/Assets/Flight Simulator/Lit.mat.meta",
+        "ItemId": 1220,
+        "ParentItemId": 1140,
+        "BaseRevId": 2179,
+        "SourceRevId": 3305,
+        "DestinationRevId": 2179
+      },
+      {
+        "Path": "/Assets/Flight Simulator/ReflectionProbe-0.exr.meta",
+        "ItemId": 1222,
+        "ParentItemId": 1140,
+        "BaseRevId": 2180,
+        "SourceRevId": 3306,
+        "DestinationRevId": 2180
+      },
+      {
+        "Path": "/Assets/Flight Simulator/White.mat",
+        "ItemId": 1223,
+        "ParentItemId": 1140,
+        "BaseRevId": 2181,
+        "SourceRevId": 3307,
+        "DestinationRevId": 2181
+      },
+      {
+        "Path": "/Assets/Flight Simulator/White.mat.meta",
+        "ItemId": 1224,
+        "ParentItemId": 1140,
+        "BaseRevId": 2182,
+        "SourceRevId": 3308,
+        "DestinationRevId": 2182
+      },
+      {
+        "Path": "/Assets/Flight Simulator.meta",
+        "ItemId": 1142,
+        "ParentItemId": 198,
+        "BaseRevId": 2166,
+        "SourceRevId": 3292,
+        "DestinationRevId": 2166
+      },
+      {
+        "Path": "/Assets/Flight Simulator.unity.meta",
+        "ItemId": 1144,
+        "ParentItemId": 198,
+        "BaseRevId": 2168,
+        "SourceRevId": 3294,
+        "DestinationRevId": 2168
+      },
+      {
+        "Path": "/Assets/Models/New_Plant_High_detail_Cinnamomum_Camphora_Decorative corona.FBX.meta",
+        "ItemId": 2928,
+        "ParentItemId": 1145,
+        "BaseRevId": 2185,
+        "SourceRevId": 3310,
+        "DestinationRevId": 2185
+      },
+      {
+        "Path": "/Assets/Models.meta",
+        "ItemId": 1147,
+        "ParentItemId": 198,
+        "BaseRevId": 2183,
+        "SourceRevId": 3309,
+        "DestinationRevId": 2183
+      },
+      {
+        "Path": "/Assets/New Terrain.asset.meta",
+        "ItemId": 1149,
+        "ParentItemId": 198,
+        "BaseRevId": 2186,
+        "SourceRevId": 3311,
+        "DestinationRevId": 2186
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core.meta",
+        "ItemId": 1227,
+        "ParentItemId": 1150,
+        "BaseRevId": 2188,
+        "SourceRevId": 3313,
+        "DestinationRevId": 2188
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common.meta",
+        "ItemId": 1250,
+        "ParentItemId": 1225,
+        "BaseRevId": 2189,
+        "SourceRevId": 3314,
+        "DestinationRevId": 2189
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials.meta",
+        "ItemId": 1262,
+        "ParentItemId": 1248,
+        "BaseRevId": 2190,
+        "SourceRevId": 3315,
+        "DestinationRevId": 2190
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Samples_BackdropFabric.mat",
+        "ItemId": 1298,
+        "ParentItemId": 1260,
+        "BaseRevId": 2191,
+        "SourceRevId": 3316,
+        "DestinationRevId": 2191
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Samples_BackdropFabric.mat.meta",
+        "ItemId": 1299,
+        "ParentItemId": 1260,
+        "BaseRevId": 2192,
+        "SourceRevId": 3317,
+        "DestinationRevId": 2192
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Samples_BackdropFabric_Red.mat",
+        "ItemId": 1300,
+        "ParentItemId": 1260,
+        "BaseRevId": 2193,
+        "SourceRevId": 3318,
+        "DestinationRevId": 2193
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Samples_BackdropFabric_Red.mat.meta",
+        "ItemId": 1301,
+        "ParentItemId": 1260,
+        "BaseRevId": 2194,
+        "SourceRevId": 3319,
+        "DestinationRevId": 2194
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Samples_BlackPaint.mat",
+        "ItemId": 1302,
+        "ParentItemId": 1260,
+        "BaseRevId": 2195,
+        "SourceRevId": 3320,
+        "DestinationRevId": 2195
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Samples_BlackPaint.mat.meta",
+        "ItemId": 1303,
+        "ParentItemId": 1260,
+        "BaseRevId": 2196,
+        "SourceRevId": 3321,
+        "DestinationRevId": 2196
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Samples_Checker.mat",
+        "ItemId": 1304,
+        "ParentItemId": 1260,
+        "BaseRevId": 2197,
+        "SourceRevId": 3322,
+        "DestinationRevId": 2197
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Samples_Checker.mat.meta",
+        "ItemId": 1305,
+        "ParentItemId": 1260,
+        "BaseRevId": 2198,
+        "SourceRevId": 3323,
+        "DestinationRevId": 2198
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Samples_Curtain.mat",
+        "ItemId": 1306,
+        "ParentItemId": 1260,
+        "BaseRevId": 2199,
+        "SourceRevId": 3324,
+        "DestinationRevId": 2199
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Samples_Curtain.mat.meta",
+        "ItemId": 1307,
+        "ParentItemId": 1260,
+        "BaseRevId": 2200,
+        "SourceRevId": 3325,
+        "DestinationRevId": 2200
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Samples_Platform.mat",
+        "ItemId": 1308,
+        "ParentItemId": 1260,
+        "BaseRevId": 2201,
+        "SourceRevId": 3326,
+        "DestinationRevId": 2201
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Samples_Platform.mat.meta",
+        "ItemId": 1309,
+        "ParentItemId": 1260,
+        "BaseRevId": 2202,
+        "SourceRevId": 3327,
+        "DestinationRevId": 2202
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Samples_RoughGrey.mat",
+        "ItemId": 1310,
+        "ParentItemId": 1260,
+        "BaseRevId": 2203,
+        "SourceRevId": 3328,
+        "DestinationRevId": 2203
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Samples_RoughGrey.mat.meta",
+        "ItemId": 1311,
+        "ParentItemId": 1260,
+        "BaseRevId": 2204,
+        "SourceRevId": 3329,
+        "DestinationRevId": 2204
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Samples_RoughSteel.mat",
+        "ItemId": 1312,
+        "ParentItemId": 1260,
+        "BaseRevId": 2205,
+        "SourceRevId": 3330,
+        "DestinationRevId": 2205
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Samples_RoughSteel.mat.meta",
+        "ItemId": 1313,
+        "ParentItemId": 1260,
+        "BaseRevId": 2206,
+        "SourceRevId": 3331,
+        "DestinationRevId": 2206
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Samples_Tripod.mat",
+        "ItemId": 1314,
+        "ParentItemId": 1260,
+        "BaseRevId": 2207,
+        "SourceRevId": 3332,
+        "DestinationRevId": 2207
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Samples_Tripod.mat.meta",
+        "ItemId": 1315,
+        "ParentItemId": 1260,
+        "BaseRevId": 2208,
+        "SourceRevId": 3333,
+        "DestinationRevId": 2208
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/SamplesFixtureEmissive.mat",
+        "ItemId": 1316,
+        "ParentItemId": 1260,
+        "BaseRevId": 2209,
+        "SourceRevId": 3334,
+        "DestinationRevId": 2209
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/SamplesFixtureEmissive.mat.meta",
+        "ItemId": 1317,
+        "ParentItemId": 1260,
+        "BaseRevId": 2210,
+        "SourceRevId": 3335,
+        "DestinationRevId": 2210
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/SamplesRoughBlack.mat",
+        "ItemId": 1318,
+        "ParentItemId": 1260,
+        "BaseRevId": 2211,
+        "SourceRevId": 3336,
+        "DestinationRevId": 2211
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/SamplesRoughBlack.mat.meta",
+        "ItemId": 1319,
+        "ParentItemId": 1260,
+        "BaseRevId": 2212,
+        "SourceRevId": 3337,
+        "DestinationRevId": 2212
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/SamplesSpotlightEmissive.mat",
+        "ItemId": 1320,
+        "ParentItemId": 1260,
+        "BaseRevId": 2213,
+        "SourceRevId": 3338,
+        "DestinationRevId": 2213
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/SamplesSpotlightEmissive.mat.meta",
+        "ItemId": 1321,
+        "ParentItemId": 1260,
+        "BaseRevId": 2214,
+        "SourceRevId": 3339,
+        "DestinationRevId": 2214
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/SamplesTurntable_White.mat",
+        "ItemId": 1322,
+        "ParentItemId": 1260,
+        "BaseRevId": 2215,
+        "SourceRevId": 3340,
+        "DestinationRevId": 2215
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/SamplesTurntable_White.mat.meta",
+        "ItemId": 1323,
+        "ParentItemId": 1260,
+        "BaseRevId": 2216,
+        "SourceRevId": 3341,
+        "DestinationRevId": 2216
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shader Graphs_MaterialBall_Black.mat",
+        "ItemId": 1324,
+        "ParentItemId": 1260,
+        "BaseRevId": 2217,
+        "SourceRevId": 3342,
+        "DestinationRevId": 2217
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shader Graphs_MaterialBall_Black.mat.meta",
+        "ItemId": 1325,
+        "ParentItemId": 1260,
+        "BaseRevId": 2218,
+        "SourceRevId": 3343,
+        "DestinationRevId": 2218
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shader Graphs_MaterialBall_Gold.mat",
+        "ItemId": 1326,
+        "ParentItemId": 1260,
+        "BaseRevId": 2219,
+        "SourceRevId": 3344,
+        "DestinationRevId": 2219
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shader Graphs_MaterialBall_Gold.mat.meta",
+        "ItemId": 1327,
+        "ParentItemId": 1260,
+        "BaseRevId": 2220,
+        "SourceRevId": 3345,
+        "DestinationRevId": 2220
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shader Graphs_MaterialBall_White.mat",
+        "ItemId": 1328,
+        "ParentItemId": 1260,
+        "BaseRevId": 2221,
+        "SourceRevId": 3346,
+        "DestinationRevId": 2221
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shader Graphs_MaterialBall_White.mat.meta",
+        "ItemId": 1329,
+        "ParentItemId": 1260,
+        "BaseRevId": 2222,
+        "SourceRevId": 3347,
+        "DestinationRevId": 2222
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shaders.meta",
+        "ItemId": 1332,
+        "ParentItemId": 1260,
+        "BaseRevId": 2223,
+        "SourceRevId": 3348,
+        "DestinationRevId": 2223
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shaders/MaterialBall.shadergraph",
+        "ItemId": 1618,
+        "ParentItemId": 1330,
+        "BaseRevId": 2224,
+        "SourceRevId": 3349,
+        "DestinationRevId": 2224
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shaders/MaterialBall.shadergraph.meta",
+        "ItemId": 1619,
+        "ParentItemId": 1330,
+        "BaseRevId": 2225,
+        "SourceRevId": 3350,
+        "DestinationRevId": 2225
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shaders/SamplesArrow.shadergraph",
+        "ItemId": 1620,
+        "ParentItemId": 1330,
+        "BaseRevId": 2226,
+        "SourceRevId": 3351,
+        "DestinationRevId": 2226
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shaders/SamplesArrow.shadergraph.meta",
+        "ItemId": 1621,
+        "ParentItemId": 1330,
+        "BaseRevId": 2227,
+        "SourceRevId": 3352,
+        "DestinationRevId": 2227
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shaders/SamplesBackdrop.shadergraph",
+        "ItemId": 1622,
+        "ParentItemId": 1330,
+        "BaseRevId": 2228,
+        "SourceRevId": 3353,
+        "DestinationRevId": 2228
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shaders/SamplesBackdrop.shadergraph.meta",
+        "ItemId": 1623,
+        "ParentItemId": 1330,
+        "BaseRevId": 2229,
+        "SourceRevId": 3354,
+        "DestinationRevId": 2229
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shaders/SamplesChecker.shadergraph",
+        "ItemId": 1624,
+        "ParentItemId": 1330,
+        "BaseRevId": 2230,
+        "SourceRevId": 3355,
+        "DestinationRevId": 2230
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shaders/SamplesChecker.shadergraph.meta",
+        "ItemId": 1625,
+        "ParentItemId": 1330,
+        "BaseRevId": 2231,
+        "SourceRevId": 3356,
+        "DestinationRevId": 2231
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shaders/SamplesCrossLit.shadergraph",
+        "ItemId": 1626,
+        "ParentItemId": 1330,
+        "BaseRevId": 2232,
+        "SourceRevId": 3357,
+        "DestinationRevId": 2232
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shaders/SamplesCrossLit.shadergraph.meta",
+        "ItemId": 1627,
+        "ParentItemId": 1330,
+        "BaseRevId": 2233,
+        "SourceRevId": 3358,
+        "DestinationRevId": 2233
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shaders/SamplesCyclo.shadergraph",
+        "ItemId": 1628,
+        "ParentItemId": 1330,
+        "BaseRevId": 2234,
+        "SourceRevId": 3359,
+        "DestinationRevId": 2234
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shaders/SamplesCyclo.shadergraph.meta",
+        "ItemId": 1629,
+        "ParentItemId": 1330,
+        "BaseRevId": 2235,
+        "SourceRevId": 3360,
+        "DestinationRevId": 2235
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shaders/SamplesEmissive.shadergraph",
+        "ItemId": 1630,
+        "ParentItemId": 1330,
+        "BaseRevId": 2236,
+        "SourceRevId": 3361,
+        "DestinationRevId": 2236
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shaders/SamplesEmissive.shadergraph.meta",
+        "ItemId": 1631,
+        "ParentItemId": 1330,
+        "BaseRevId": 2237,
+        "SourceRevId": 3362,
+        "DestinationRevId": 2237
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shaders/SamplesGenericTextured.shadergraph",
+        "ItemId": 1632,
+        "ParentItemId": 1330,
+        "BaseRevId": 2238,
+        "SourceRevId": 3363,
+        "DestinationRevId": 2238
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shaders/SamplesGenericTextured.shadergraph.meta",
+        "ItemId": 1633,
+        "ParentItemId": 1330,
+        "BaseRevId": 2239,
+        "SourceRevId": 3364,
+        "DestinationRevId": 2239
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shaders/SamplesTransparentInfos.shadergraph",
+        "ItemId": 1634,
+        "ParentItemId": 1330,
+        "BaseRevId": 2240,
+        "SourceRevId": 3365,
+        "DestinationRevId": 2240
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shaders/SamplesTransparentInfos.shadergraph.meta",
+        "ItemId": 1635,
+        "ParentItemId": 1330,
+        "BaseRevId": 2241,
+        "SourceRevId": 3366,
+        "DestinationRevId": 2241
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shaders/SamplesTurntable.shadergraph",
+        "ItemId": 1636,
+        "ParentItemId": 1330,
+        "BaseRevId": 2242,
+        "SourceRevId": 3367,
+        "DestinationRevId": 2242
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Materials/Shaders/SamplesTurntable.shadergraph.meta",
+        "ItemId": 1637,
+        "ParentItemId": 1330,
+        "BaseRevId": 2243,
+        "SourceRevId": 3368,
+        "DestinationRevId": 2243
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Models.meta",
+        "ItemId": 1265,
+        "ParentItemId": 1248,
+        "BaseRevId": 2244,
+        "SourceRevId": 3369,
+        "DestinationRevId": 2244
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Models/Backdrop.fbx.meta",
+        "ItemId": 1334,
+        "ParentItemId": 1263,
+        "BaseRevId": 2245,
+        "SourceRevId": 3370,
+        "DestinationRevId": 2245
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Models/BackgroundMesh.fbx.meta",
+        "ItemId": 1336,
+        "ParentItemId": 1263,
+        "BaseRevId": 2246,
+        "SourceRevId": 3371,
+        "DestinationRevId": 2246
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Models/CubePanel.fbx.meta",
+        "ItemId": 1338,
+        "ParentItemId": 1263,
+        "BaseRevId": 2247,
+        "SourceRevId": 3372,
+        "DestinationRevId": 2247
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Models/Curtain.fbx.meta",
+        "ItemId": 1340,
+        "ParentItemId": 1263,
+        "BaseRevId": 2248,
+        "SourceRevId": 3373,
+        "DestinationRevId": 2248
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Models/FrameCorner.fbx.meta",
+        "ItemId": 1342,
+        "ParentItemId": 1263,
+        "BaseRevId": 2249,
+        "SourceRevId": 3374,
+        "DestinationRevId": 2249
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Models/FrameSide.fbx.meta",
+        "ItemId": 1344,
+        "ParentItemId": 1263,
+        "BaseRevId": 2250,
+        "SourceRevId": 3375,
+        "DestinationRevId": 2250
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Models/InfosStand.fbx.meta",
+        "ItemId": 1346,
+        "ParentItemId": 1263,
+        "BaseRevId": 2251,
+        "SourceRevId": 3376,
+        "DestinationRevId": 2251
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Models/Lion.fbx.meta",
+        "ItemId": 1348,
+        "ParentItemId": 1263,
+        "BaseRevId": 2252,
+        "SourceRevId": 3377,
+        "DestinationRevId": 2252
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Models/NameHolder.fbx.meta",
+        "ItemId": 1350,
+        "ParentItemId": 1263,
+        "BaseRevId": 2253,
+        "SourceRevId": 3378,
+        "DestinationRevId": 2253
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Models/Panel.fbx.meta",
+        "ItemId": 1352,
+        "ParentItemId": 1263,
+        "BaseRevId": 2254,
+        "SourceRevId": 3379,
+        "DestinationRevId": 2254
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Models/platform_Turntable.fbx.meta",
+        "ItemId": 1354,
+        "ParentItemId": 1263,
+        "BaseRevId": 2255,
+        "SourceRevId": 3380,
+        "DestinationRevId": 2255
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Models/SamplesFixture.fbx.meta",
+        "ItemId": 1356,
+        "ParentItemId": 1263,
+        "BaseRevId": 2256,
+        "SourceRevId": 3381,
+        "DestinationRevId": 2256
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Models/SamplesFloorSpotlight.fbx.meta",
+        "ItemId": 1358,
+        "ParentItemId": 1263,
+        "BaseRevId": 2257,
+        "SourceRevId": 3382,
+        "DestinationRevId": 2257
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Models/SamplesSpotlightModel.fbx.meta",
+        "ItemId": 1360,
+        "ParentItemId": 1263,
+        "BaseRevId": 2258,
+        "SourceRevId": 3383,
+        "DestinationRevId": 2258
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Models/TurntableBackdrop.fbx.meta",
+        "ItemId": 1362,
+        "ParentItemId": 1263,
+        "BaseRevId": 2259,
+        "SourceRevId": 3384,
+        "DestinationRevId": 2259
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Models/UnityLogo.fbx.meta",
+        "ItemId": 1364,
+        "ParentItemId": 1263,
+        "BaseRevId": 2260,
+        "SourceRevId": 3385,
+        "DestinationRevId": 2260
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Models/UnityMaterialBall.fbx.meta",
+        "ItemId": 1366,
+        "ParentItemId": 1263,
+        "BaseRevId": 2261,
+        "SourceRevId": 3386,
+        "DestinationRevId": 2261
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Prefabs.meta",
+        "ItemId": 1268,
+        "ParentItemId": 1248,
+        "BaseRevId": 2262,
+        "SourceRevId": 3387,
+        "DestinationRevId": 2262
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Prefabs/Info.meta",
+        "ItemId": 1369,
+        "ParentItemId": 1266,
+        "BaseRevId": 2263,
+        "SourceRevId": 3388,
+        "DestinationRevId": 2263
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Prefabs/Info/Arrow.prefab.meta",
+        "ItemId": 1639,
+        "ParentItemId": 1367,
+        "BaseRevId": 2265,
+        "SourceRevId": 3390,
+        "DestinationRevId": 2265
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Prefabs/Info/FloatingInfo.prefab.meta",
+        "ItemId": 1641,
+        "ParentItemId": 1367,
+        "BaseRevId": 2267,
+        "SourceRevId": 3392,
+        "DestinationRevId": 2267
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Prefabs/Info/InfoPanel.prefab.meta",
+        "ItemId": 1643,
+        "ParentItemId": 1367,
+        "BaseRevId": 2269,
+        "SourceRevId": 3394,
+        "DestinationRevId": 2269
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Prefabs/Info/InfoStand.prefab.meta",
+        "ItemId": 1645,
+        "ParentItemId": 1367,
+        "BaseRevId": 2271,
+        "SourceRevId": 3396,
+        "DestinationRevId": 2271
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Prefabs/Info/NameHolder.prefab.meta",
+        "ItemId": 1647,
+        "ParentItemId": 1367,
+        "BaseRevId": 2273,
+        "SourceRevId": 3398,
+        "DestinationRevId": 2273
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Prefabs/Info/TitlePanel.prefab.meta",
+        "ItemId": 1649,
+        "ParentItemId": 1367,
+        "BaseRevId": 2275,
+        "SourceRevId": 3400,
+        "DestinationRevId": 2275
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Prefabs/Presentation.meta",
+        "ItemId": 1372,
+        "ParentItemId": 1266,
+        "BaseRevId": 2276,
+        "SourceRevId": 3401,
+        "DestinationRevId": 2276
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Prefabs/Presentation/Backdrop.prefab.meta",
+        "ItemId": 1651,
+        "ParentItemId": 1370,
+        "BaseRevId": 2278,
+        "SourceRevId": 3403,
+        "DestinationRevId": 2278
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Prefabs/Presentation/CubePanel.prefab.meta",
+        "ItemId": 1653,
+        "ParentItemId": 1370,
+        "BaseRevId": 2280,
+        "SourceRevId": 3405,
+        "DestinationRevId": 2280
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Prefabs/Presentation/Curtain.prefab.meta",
+        "ItemId": 1655,
+        "ParentItemId": 1370,
+        "BaseRevId": 2282,
+        "SourceRevId": 3407,
+        "DestinationRevId": 2282
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Prefabs/Presentation/Open45Stand.prefab.meta",
+        "ItemId": 1657,
+        "ParentItemId": 1370,
+        "BaseRevId": 2284,
+        "SourceRevId": 3409,
+        "DestinationRevId": 2284
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Prefabs/Presentation/Panel.prefab.meta",
+        "ItemId": 1659,
+        "ParentItemId": 1370,
+        "BaseRevId": 2286,
+        "SourceRevId": 3411,
+        "DestinationRevId": 2286
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Prefabs/Presentation/Platform.prefab.meta",
+        "ItemId": 1661,
+        "ParentItemId": 1370,
+        "BaseRevId": 2288,
+        "SourceRevId": 3413,
+        "DestinationRevId": 2288
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Prefabs/Presentation/Turntable.prefab.meta",
+        "ItemId": 1663,
+        "ParentItemId": 1370,
+        "BaseRevId": 2290,
+        "SourceRevId": 3415,
+        "DestinationRevId": 2290
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Prefabs/Presentation/TurntableWithBackdrop.prefab.meta",
+        "ItemId": 1665,
+        "ParentItemId": 1370,
+        "BaseRevId": 2292,
+        "SourceRevId": 3417,
+        "DestinationRevId": 2292
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Prefabs/Presentation/UnityLogo.prefab.meta",
+        "ItemId": 1667,
+        "ParentItemId": 1370,
+        "BaseRevId": 2294,
+        "SourceRevId": 3419,
+        "DestinationRevId": 2294
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Prefabs/UnityBall.meta",
+        "ItemId": 1375,
+        "ParentItemId": 1266,
+        "BaseRevId": 2295,
+        "SourceRevId": 3420,
+        "DestinationRevId": 2295
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Prefabs/UnityBall/UnityMaterialBall_Black.prefab.meta",
+        "ItemId": 1669,
+        "ParentItemId": 1373,
+        "BaseRevId": 2297,
+        "SourceRevId": 3422,
+        "DestinationRevId": 2297
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Prefabs/UnityBall/UnityMaterialBall_Gold.prefab.meta",
+        "ItemId": 1671,
+        "ParentItemId": 1373,
+        "BaseRevId": 2299,
+        "SourceRevId": 3424,
+        "DestinationRevId": 2299
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts.meta",
+        "ItemId": 1271,
+        "ParentItemId": 1248,
+        "BaseRevId": 2300,
+        "SourceRevId": 3425,
+        "DestinationRevId": 2300
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/AlignSceneView.cs",
+        "ItemId": 1376,
+        "ParentItemId": 1269,
+        "BaseRevId": 2301,
+        "SourceRevId": 3426,
+        "DestinationRevId": 2301
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/AlignSceneView.cs.meta",
+        "ItemId": 1377,
+        "ParentItemId": 1269,
+        "BaseRevId": 2302,
+        "SourceRevId": 3427,
+        "DestinationRevId": 2302
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/Editor.meta",
+        "ItemId": 1380,
+        "ParentItemId": 1269,
+        "BaseRevId": 2303,
+        "SourceRevId": 3428,
+        "DestinationRevId": 2303
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/Editor/SamplesShowcaseEditor.cs",
+        "ItemId": 1672,
+        "ParentItemId": 1378,
+        "BaseRevId": 2304,
+        "SourceRevId": 3429,
+        "DestinationRevId": 2304
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/Editor/SamplesShowcaseEditor.cs.meta",
+        "ItemId": 1673,
+        "ParentItemId": 1378,
+        "BaseRevId": 2305,
+        "SourceRevId": 3430,
+        "DestinationRevId": 2305
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/Editor/SamplesShowcaseEditorWindow.cs",
+        "ItemId": 1674,
+        "ParentItemId": 1378,
+        "BaseRevId": 2306,
+        "SourceRevId": 3431,
+        "DestinationRevId": 2306
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/Editor/SamplesShowcaseEditorWindow.cs.meta",
+        "ItemId": 1675,
+        "ParentItemId": 1378,
+        "BaseRevId": 2307,
+        "SourceRevId": 3432,
+        "DestinationRevId": 2307
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/Editor/Unity.RenderPipelines.Core.Samples.Editor.asmdef",
+        "ItemId": 1676,
+        "ParentItemId": 1378,
+        "BaseRevId": 2308,
+        "SourceRevId": 3433,
+        "DestinationRevId": 2308
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/Editor/Unity.RenderPipelines.Core.Samples.Editor.asmdef.meta",
+        "ItemId": 1677,
+        "ParentItemId": 1378,
+        "BaseRevId": 2309,
+        "SourceRevId": 3434,
+        "DestinationRevId": 2309
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/GetSampleInfos.cs",
+        "ItemId": 1381,
+        "ParentItemId": 1269,
+        "BaseRevId": 2310,
+        "SourceRevId": 3435,
+        "DestinationRevId": 2310
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/GetSampleInfos.cs.meta",
+        "ItemId": 1382,
+        "ParentItemId": 1269,
+        "BaseRevId": 2311,
+        "SourceRevId": 3436,
+        "DestinationRevId": 2311
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/RequiredSettings.meta",
+        "ItemId": 1385,
+        "ParentItemId": 1269,
+        "BaseRevId": 2312,
+        "SourceRevId": 3437,
+        "DestinationRevId": 2312
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/RequiredSettings/IRequiredSetting.cs",
+        "ItemId": 1678,
+        "ParentItemId": 1383,
+        "BaseRevId": 2313,
+        "SourceRevId": 3438,
+        "DestinationRevId": 2313
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/RequiredSettings/IRequiredSetting.cs.meta",
+        "ItemId": 1679,
+        "ParentItemId": 1383,
+        "BaseRevId": 2314,
+        "SourceRevId": 3439,
+        "DestinationRevId": 2314
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/RequiredSettings/RequiredSettingBase.cs",
+        "ItemId": 1680,
+        "ParentItemId": 1383,
+        "BaseRevId": 2315,
+        "SourceRevId": 3440,
+        "DestinationRevId": 2315
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/RequiredSettings/RequiredSettingBase.cs.meta",
+        "ItemId": 1681,
+        "ParentItemId": 1383,
+        "BaseRevId": 2316,
+        "SourceRevId": 3441,
+        "DestinationRevId": 2316
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/RequiredSettings/RequiredSettingsSOT.cs",
+        "ItemId": 1682,
+        "ParentItemId": 1383,
+        "BaseRevId": 2317,
+        "SourceRevId": 3442,
+        "DestinationRevId": 2317
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/RequiredSettings/RequiredSettingsSOT.cs.meta",
+        "ItemId": 1683,
+        "ParentItemId": 1383,
+        "BaseRevId": 2318,
+        "SourceRevId": 3443,
+        "DestinationRevId": 2318
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/Resources.meta",
+        "ItemId": 1388,
+        "ParentItemId": 1269,
+        "BaseRevId": 2319,
+        "SourceRevId": 3444,
+        "DestinationRevId": 2319
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/Resources/SamplesSelectionUSS.uss",
+        "ItemId": 1684,
+        "ParentItemId": 1386,
+        "BaseRevId": 2320,
+        "SourceRevId": 3445,
+        "DestinationRevId": 2320
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/Resources/SamplesSelectionUSS.uss.meta",
+        "ItemId": 1685,
+        "ParentItemId": 1386,
+        "BaseRevId": 2321,
+        "SourceRevId": 3446,
+        "DestinationRevId": 2321
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/Resources/SamplesSelectionUXML.uxml",
+        "ItemId": 1686,
+        "ParentItemId": 1386,
+        "BaseRevId": 2322,
+        "SourceRevId": 3447,
+        "DestinationRevId": 2322
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/Resources/SamplesSelectionUXML.uxml.meta",
+        "ItemId": 1687,
+        "ParentItemId": 1386,
+        "BaseRevId": 2323,
+        "SourceRevId": 3448,
+        "DestinationRevId": 2323
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/Samples.cs",
+        "ItemId": 1389,
+        "ParentItemId": 1269,
+        "BaseRevId": 2324,
+        "SourceRevId": 3449,
+        "DestinationRevId": 2324
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/Samples.cs.meta",
+        "ItemId": 1390,
+        "ParentItemId": 1269,
+        "BaseRevId": 2325,
+        "SourceRevId": 3450,
+        "DestinationRevId": 2325
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/SamplesFreeCamera.cs",
+        "ItemId": 1391,
+        "ParentItemId": 1269,
+        "BaseRevId": 2326,
+        "SourceRevId": 3451,
+        "DestinationRevId": 2326
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/SamplesFreeCamera.cs.meta",
+        "ItemId": 1392,
+        "ParentItemId": 1269,
+        "BaseRevId": 2327,
+        "SourceRevId": 3452,
+        "DestinationRevId": 2327
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/SamplesLinkLightToEmissive.cs",
+        "ItemId": 1393,
+        "ParentItemId": 1269,
+        "BaseRevId": 2328,
+        "SourceRevId": 3453,
+        "DestinationRevId": 2328
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/SamplesLinkLightToEmissive.cs.meta",
+        "ItemId": 1394,
+        "ParentItemId": 1269,
+        "BaseRevId": 2329,
+        "SourceRevId": 3454,
+        "DestinationRevId": 2329
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/SamplesShowcase.cs",
+        "ItemId": 1395,
+        "ParentItemId": 1269,
+        "BaseRevId": 2330,
+        "SourceRevId": 3455,
+        "DestinationRevId": 2330
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/SamplesShowcase.cs.meta",
+        "ItemId": 1396,
+        "ParentItemId": 1269,
+        "BaseRevId": 2331,
+        "SourceRevId": 3456,
+        "DestinationRevId": 2331
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/Unity.RenderPipelines.Core.Samples.Runtime.asmdef",
+        "ItemId": 1397,
+        "ParentItemId": 1269,
+        "BaseRevId": 2332,
+        "SourceRevId": 3457,
+        "DestinationRevId": 2332
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Scripts/Unity.RenderPipelines.Core.Samples.Runtime.asmdef.meta",
+        "ItemId": 1398,
+        "ParentItemId": 1269,
+        "BaseRevId": 2333,
+        "SourceRevId": 3458,
+        "DestinationRevId": 2333
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/TextMesh Pro.meta",
+        "ItemId": 1274,
+        "ParentItemId": 1248,
+        "BaseRevId": 2334,
+        "SourceRevId": 3459,
+        "DestinationRevId": 2334
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/TextMesh Pro/Resources.meta",
+        "ItemId": 1401,
+        "ParentItemId": 1272,
+        "BaseRevId": 2335,
+        "SourceRevId": 3460,
+        "DestinationRevId": 2335
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/TextMesh Pro/Resources/Fonts & Materials.meta",
+        "ItemId": 1690,
+        "ParentItemId": 1399,
+        "BaseRevId": 2336,
+        "SourceRevId": 3461,
+        "DestinationRevId": 2336
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/TextMesh Pro/Resources/Fonts & Materials/Inter-LICENSE.txt",
+        "ItemId": 1852,
+        "ParentItemId": 1688,
+        "BaseRevId": 2337,
+        "SourceRevId": 3462,
+        "DestinationRevId": 2337
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/TextMesh Pro/Resources/Fonts & Materials/Inter-LICENSE.txt.meta",
+        "ItemId": 1853,
+        "ParentItemId": 1688,
+        "BaseRevId": 2338,
+        "SourceRevId": 3463,
+        "DestinationRevId": 2338
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/TextMesh Pro/Resources/Fonts & Materials/Inter-Regular SDF Emissive Variant.mat",
+        "ItemId": 1854,
+        "ParentItemId": 1688,
+        "BaseRevId": 2339,
+        "SourceRevId": 3464,
+        "DestinationRevId": 2339
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/TextMesh Pro/Resources/Fonts & Materials/Inter-Regular SDF Emissive Variant.mat.meta",
+        "ItemId": 1855,
+        "ParentItemId": 1688,
+        "BaseRevId": 2340,
+        "SourceRevId": 3465,
+        "DestinationRevId": 2340
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/TextMesh Pro/Resources/Fonts & Materials/Inter-Regular SDF.asset",
+        "ItemId": 1856,
+        "ParentItemId": 1688,
+        "BaseRevId": 2341,
+        "SourceRevId": 3466,
+        "DestinationRevId": 2341
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/TextMesh Pro/Resources/Fonts & Materials/Inter-Regular SDF.asset.meta",
+        "ItemId": 1857,
+        "ParentItemId": 1688,
+        "BaseRevId": 2342,
+        "SourceRevId": 3467,
+        "DestinationRevId": 2342
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/TextMesh Pro/Resources/Fonts & Materials/Inter-Regular.otf.meta",
+        "ItemId": 1859,
+        "ParentItemId": 1688,
+        "BaseRevId": 2343,
+        "SourceRevId": 3468,
+        "DestinationRevId": 2343
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/TextMesh Pro/Resources/Fonts & Materials/SamplesLit_Inter.shadergraph",
+        "ItemId": 1860,
+        "ParentItemId": 1688,
+        "BaseRevId": 2344,
+        "SourceRevId": 3469,
+        "DestinationRevId": 2344
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/TextMesh Pro/Resources/Fonts & Materials/SamplesLit_Inter.shadergraph.meta",
+        "ItemId": 1861,
+        "ParentItemId": 1688,
+        "BaseRevId": 2345,
+        "SourceRevId": 3470,
+        "DestinationRevId": 2345
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/TextMesh Pro/Resources/Fonts & Materials/TMP_Node.hlsl",
+        "ItemId": 1862,
+        "ParentItemId": 1688,
+        "BaseRevId": 2346,
+        "SourceRevId": 3471,
+        "DestinationRevId": 2346
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/TextMesh Pro/Resources/Fonts & Materials/TMP_Node.hlsl.meta",
+        "ItemId": 1863,
+        "ParentItemId": 1688,
+        "BaseRevId": 2347,
+        "SourceRevId": 3472,
+        "DestinationRevId": 2347
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/TextMesh Pro/Resources/TMP Settings.asset",
+        "ItemId": 1691,
+        "ParentItemId": 1399,
+        "BaseRevId": 2348,
+        "SourceRevId": 3473,
+        "DestinationRevId": 2348
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/TextMesh Pro/Resources/TMP Settings.asset.meta",
+        "ItemId": 1692,
+        "ParentItemId": 1399,
+        "BaseRevId": 2349,
+        "SourceRevId": 3474,
+        "DestinationRevId": 2349
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Textures.meta",
+        "ItemId": 1277,
+        "ParentItemId": 1248,
+        "BaseRevId": 2350,
+        "SourceRevId": 3475,
+        "DestinationRevId": 2350
+      },
+      {
+        "Path": "/Assets/Samples/Scriptable Render Pipeline Core/Common/Textures/Samples_FractalNoises.png.meta",
+        "ItemId": 1403,
+        "ParentItemId": 1275,
+        "BaseRevId": 2351,
+        "SourceRevId": 3476,
+        "DestinationRevId": 2351
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph.meta",
+        "ItemId": 1230,
+        "ParentItemId": 1150,
+        "BaseRevId": 2352,
+        "SourceRevId": 3477,
+        "DestinationRevId": 2352
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4.meta",
+        "ItemId": 1253,
+        "ParentItemId": 1228,
+        "BaseRevId": 2353,
+        "SourceRevId": 3478,
+        "DestinationRevId": 2353
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders.meta",
+        "ItemId": 1280,
+        "ParentItemId": 1251,
+        "BaseRevId": 2354,
+        "SourceRevId": 3479,
+        "DestinationRevId": 2354
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/.sample.json",
+        "ItemId": 1404,
+        "ParentItemId": 1278,
+        "BaseRevId": 2355,
+        "SourceRevId": 3480,
+        "DestinationRevId": 2355
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment.meta",
+        "ItemId": 1407,
+        "ParentItemId": 1278,
+        "BaseRevId": 2356,
+        "SourceRevId": 3481,
+        "DestinationRevId": 2356
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Decals.meta",
+        "ItemId": 1695,
+        "ParentItemId": 1405,
+        "BaseRevId": 2357,
+        "SourceRevId": 3482,
+        "DestinationRevId": 2357
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Decals/DecalMaterialProjection.shadergraph",
+        "ItemId": 1864,
+        "ParentItemId": 1693,
+        "BaseRevId": 2358,
+        "SourceRevId": 3483,
+        "DestinationRevId": 2358
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Decals/DecalMaterialProjection.shadergraph.meta",
+        "ItemId": 1865,
+        "ParentItemId": 1693,
+        "BaseRevId": 2359,
+        "SourceRevId": 3484,
+        "DestinationRevId": 2359
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Decals/DecalMaterialProjectionCobblestones.mat",
+        "ItemId": 1866,
+        "ParentItemId": 1693,
+        "BaseRevId": 2360,
+        "SourceRevId": 3485,
+        "DestinationRevId": 2360
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Decals/DecalMaterialProjectionCobblestones.mat.meta",
+        "ItemId": 1867,
+        "ParentItemId": 1693,
+        "BaseRevId": 2361,
+        "SourceRevId": 3486,
+        "DestinationRevId": 2361
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Decals/DecalWaterCaustics.shadergraph",
+        "ItemId": 1868,
+        "ParentItemId": 1693,
+        "BaseRevId": 2362,
+        "SourceRevId": 3487,
+        "DestinationRevId": 2362
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Decals/DecalWaterCaustics.shadergraph.meta",
+        "ItemId": 1869,
+        "ParentItemId": 1693,
+        "BaseRevId": 2363,
+        "SourceRevId": 3488,
+        "DestinationRevId": 2363
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Decals/DecalWaterfall.mat",
+        "ItemId": 1870,
+        "ParentItemId": 1693,
+        "BaseRevId": 2364,
+        "SourceRevId": 3489,
+        "DestinationRevId": 2364
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Decals/DecalWaterfall.mat.meta",
+        "ItemId": 1871,
+        "ParentItemId": 1693,
+        "BaseRevId": 2365,
+        "SourceRevId": 3490,
+        "DestinationRevId": 2365
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Decals/DecalWaterfallDemo.mat",
+        "ItemId": 1872,
+        "ParentItemId": 1693,
+        "BaseRevId": 2366,
+        "SourceRevId": 3491,
+        "DestinationRevId": 2366
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Decals/DecalWaterfallDemo.mat.meta",
+        "ItemId": 1873,
+        "ParentItemId": 1693,
+        "BaseRevId": 2367,
+        "SourceRevId": 3492,
+        "DestinationRevId": 2367
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Decals/DecalWaterRunning.shadergraph",
+        "ItemId": 1874,
+        "ParentItemId": 1693,
+        "BaseRevId": 2368,
+        "SourceRevId": 3493,
+        "DestinationRevId": 2368
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Decals/DecalWaterRunning.shadergraph.meta",
+        "ItemId": 1875,
+        "ParentItemId": 1693,
+        "BaseRevId": 2369,
+        "SourceRevId": 3494,
+        "DestinationRevId": 2369
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Decals/DecalWaterWetness.shadergraph",
+        "ItemId": 1876,
+        "ParentItemId": 1693,
+        "BaseRevId": 2370,
+        "SourceRevId": 3495,
+        "DestinationRevId": 2370
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Decals/DecalWaterWetness.shadergraph.meta",
+        "ItemId": 1877,
+        "ParentItemId": 1693,
+        "BaseRevId": 2371,
+        "SourceRevId": 3496,
+        "DestinationRevId": 2371
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details.meta",
+        "ItemId": 1698,
+        "ParentItemId": 1405,
+        "BaseRevId": 2372,
+        "SourceRevId": 3497,
+        "DestinationRevId": 2372
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/clover.meta",
+        "ItemId": 1880,
+        "ParentItemId": 1696,
+        "BaseRevId": 2373,
+        "SourceRevId": 3498,
+        "DestinationRevId": 2373
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/clover/clover.FBX.meta",
+        "ItemId": 2044,
+        "ParentItemId": 1878,
+        "BaseRevId": 2374,
+        "SourceRevId": 3499,
+        "DestinationRevId": 2374
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/clover/clover.png.meta",
+        "ItemId": 2046,
+        "ParentItemId": 1878,
+        "BaseRevId": 2375,
+        "SourceRevId": 3500,
+        "DestinationRevId": 2375
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/clover/clover.shadergraph",
+        "ItemId": 2047,
+        "ParentItemId": 1878,
+        "BaseRevId": 2376,
+        "SourceRevId": 3501,
+        "DestinationRevId": 2376
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/clover/clover.shadergraph.meta",
+        "ItemId": 2048,
+        "ParentItemId": 1878,
+        "BaseRevId": 2377,
+        "SourceRevId": 3502,
+        "DestinationRevId": 2377
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Ferns.meta",
+        "ItemId": 1883,
+        "ParentItemId": 1696,
+        "BaseRevId": 2378,
+        "SourceRevId": 3503,
+        "DestinationRevId": 2378
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Ferns/Fern.asset",
+        "ItemId": 2049,
+        "ParentItemId": 1881,
+        "BaseRevId": 2379,
+        "SourceRevId": 3504,
+        "DestinationRevId": 2379
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Ferns/Fern.asset.meta",
+        "ItemId": 2050,
+        "ParentItemId": 1881,
+        "BaseRevId": 2380,
+        "SourceRevId": 3505,
+        "DestinationRevId": 2380
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Ferns/Fern.shadergraph",
+        "ItemId": 2051,
+        "ParentItemId": 1881,
+        "BaseRevId": 2381,
+        "SourceRevId": 3506,
+        "DestinationRevId": 2381
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Ferns/Fern.shadergraph.meta",
+        "ItemId": 2052,
+        "ParentItemId": 1881,
+        "BaseRevId": 2382,
+        "SourceRevId": 3507,
+        "DestinationRevId": 2382
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Ferns/Fern_A.asset",
+        "ItemId": 2053,
+        "ParentItemId": 1881,
+        "BaseRevId": 2383,
+        "SourceRevId": 3508,
+        "DestinationRevId": 2383
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Ferns/Fern_A.asset.meta",
+        "ItemId": 2054,
+        "ParentItemId": 1881,
+        "BaseRevId": 2384,
+        "SourceRevId": 3509,
+        "DestinationRevId": 2384
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Ferns/Fern_A.prefab.meta",
+        "ItemId": 2056,
+        "ParentItemId": 1881,
+        "BaseRevId": 2386,
+        "SourceRevId": 3511,
+        "DestinationRevId": 2386
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Ferns/Fern_B.asset",
+        "ItemId": 2057,
+        "ParentItemId": 1881,
+        "BaseRevId": 2387,
+        "SourceRevId": 3512,
+        "DestinationRevId": 2387
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Ferns/Fern_B.asset.meta",
+        "ItemId": 2058,
+        "ParentItemId": 1881,
+        "BaseRevId": 2388,
+        "SourceRevId": 3513,
+        "DestinationRevId": 2388
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Ferns/Fern_B.prefab.meta",
+        "ItemId": 2060,
+        "ParentItemId": 1881,
+        "BaseRevId": 2390,
+        "SourceRevId": 3515,
+        "DestinationRevId": 2390
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Ferns/Fern_C.asset",
+        "ItemId": 2061,
+        "ParentItemId": 1881,
+        "BaseRevId": 2391,
+        "SourceRevId": 3516,
+        "DestinationRevId": 2391
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Ferns/Fern_C.asset.meta",
+        "ItemId": 2062,
+        "ParentItemId": 1881,
+        "BaseRevId": 2392,
+        "SourceRevId": 3517,
+        "DestinationRevId": 2392
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Ferns/Fern_C.prefab.meta",
+        "ItemId": 2064,
+        "ParentItemId": 1881,
+        "BaseRevId": 2394,
+        "SourceRevId": 3519,
+        "DestinationRevId": 2394
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Ferns/Textures.meta",
+        "ItemId": 2067,
+        "ParentItemId": 1881,
+        "BaseRevId": 2395,
+        "SourceRevId": 3520,
+        "DestinationRevId": 2395
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Ferns/Textures/Fern_BaseColor.png.meta",
+        "ItemId": 2159,
+        "ParentItemId": 2065,
+        "BaseRevId": 2396,
+        "SourceRevId": 3521,
+        "DestinationRevId": 2396
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Ferns/Textures/Fern_MaskMap.png.meta",
+        "ItemId": 2161,
+        "ParentItemId": 2065,
+        "BaseRevId": 2397,
+        "SourceRevId": 3522,
+        "DestinationRevId": 2397
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Ferns/Textures/Fern_Normal.png.meta",
+        "ItemId": 2163,
+        "ParentItemId": 2065,
+        "BaseRevId": 2398,
+        "SourceRevId": 3523,
+        "DestinationRevId": 2398
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Ferns/Textures/Fern_Thickness.png.meta",
+        "ItemId": 2165,
+        "ParentItemId": 2065,
+        "BaseRevId": 2399,
+        "SourceRevId": 3524,
+        "DestinationRevId": 2399
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Grass.meta",
+        "ItemId": 1886,
+        "ParentItemId": 1696,
+        "BaseRevId": 2400,
+        "SourceRevId": 3525,
+        "DestinationRevId": 2400
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Grass/grass_bladeNoLOD10.FBX.meta",
+        "ItemId": 2069,
+        "ParentItemId": 1884,
+        "BaseRevId": 2401,
+        "SourceRevId": 3526,
+        "DestinationRevId": 2401
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Grass/grass_bladeNoLOD15.FBX.meta",
+        "ItemId": 2071,
+        "ParentItemId": 1884,
+        "BaseRevId": 2402,
+        "SourceRevId": 3527,
+        "DestinationRevId": 2402
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Grass/grass_bladeNoLOD30.FBX.meta",
+        "ItemId": 2073,
+        "ParentItemId": 1884,
+        "BaseRevId": 2403,
+        "SourceRevId": 3528,
+        "DestinationRevId": 2403
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Grass/GrassWindTerrainDetails.shadergraph",
+        "ItemId": 2074,
+        "ParentItemId": 1884,
+        "BaseRevId": 2404,
+        "SourceRevId": 3529,
+        "DestinationRevId": 2404
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Grass/GrassWindTerrainDetails.shadergraph.meta",
+        "ItemId": 2075,
+        "ParentItemId": 1884,
+        "BaseRevId": 2405,
+        "SourceRevId": 3530,
+        "DestinationRevId": 2405
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Grass/GrassWindTerrainDetails10.mat",
+        "ItemId": 2076,
+        "ParentItemId": 1884,
+        "BaseRevId": 2406,
+        "SourceRevId": 3531,
+        "DestinationRevId": 2406
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Grass/GrassWindTerrainDetails10.mat.meta",
+        "ItemId": 2077,
+        "ParentItemId": 1884,
+        "BaseRevId": 2407,
+        "SourceRevId": 3532,
+        "DestinationRevId": 2407
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Grass/GrassWindTerrainDetails15.mat",
+        "ItemId": 2078,
+        "ParentItemId": 1884,
+        "BaseRevId": 2408,
+        "SourceRevId": 3533,
+        "DestinationRevId": 2408
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Grass/GrassWindTerrainDetails15.mat.meta",
+        "ItemId": 2079,
+        "ParentItemId": 1884,
+        "BaseRevId": 2409,
+        "SourceRevId": 3534,
+        "DestinationRevId": 2409
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Grass/GrassWindTerrainDetails30.mat",
+        "ItemId": 2080,
+        "ParentItemId": 1884,
+        "BaseRevId": 2410,
+        "SourceRevId": 3535,
+        "DestinationRevId": 2410
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Grass/GrassWindTerrainDetails30.mat.meta",
+        "ItemId": 2081,
+        "ParentItemId": 1884,
+        "BaseRevId": 2411,
+        "SourceRevId": 3536,
+        "DestinationRevId": 2411
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Nettle.meta",
+        "ItemId": 1889,
+        "ParentItemId": 1696,
+        "BaseRevId": 2412,
+        "SourceRevId": 3537,
+        "DestinationRevId": 2412
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Nettle/Nettle.mat",
+        "ItemId": 2082,
+        "ParentItemId": 1887,
+        "BaseRevId": 2413,
+        "SourceRevId": 3538,
+        "DestinationRevId": 2413
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Nettle/Nettle.mat.meta",
+        "ItemId": 2083,
+        "ParentItemId": 1887,
+        "BaseRevId": 2414,
+        "SourceRevId": 3539,
+        "DestinationRevId": 2414
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Nettle/nettle_na.png.meta",
+        "ItemId": 2085,
+        "ParentItemId": 1887,
+        "BaseRevId": 2415,
+        "SourceRevId": 3540,
+        "DestinationRevId": 2415
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Nettle/nettle1.fbx.meta",
+        "ItemId": 2087,
+        "ParentItemId": 1887,
+        "BaseRevId": 2416,
+        "SourceRevId": 3541,
+        "DestinationRevId": 2416
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Nettle/TerrainNettle.shadergraph",
+        "ItemId": 2088,
+        "ParentItemId": 1887,
+        "BaseRevId": 2417,
+        "SourceRevId": 3542,
+        "DestinationRevId": 2417
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Nettle/TerrainNettle.shadergraph.meta",
+        "ItemId": 2089,
+        "ParentItemId": 1887,
+        "BaseRevId": 2418,
+        "SourceRevId": 3543,
+        "DestinationRevId": 2418
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Pebbles.meta",
+        "ItemId": 1892,
+        "ParentItemId": 1696,
+        "BaseRevId": 2419,
+        "SourceRevId": 3544,
+        "DestinationRevId": 2419
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Pebbles/pebbles.FBX.meta",
+        "ItemId": 2091,
+        "ParentItemId": 1890,
+        "BaseRevId": 2420,
+        "SourceRevId": 3545,
+        "DestinationRevId": 2420
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Pebbles/pebbles.mat",
+        "ItemId": 2092,
+        "ParentItemId": 1890,
+        "BaseRevId": 2421,
+        "SourceRevId": 3546,
+        "DestinationRevId": 2421
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Pebbles/pebbles.mat.meta",
+        "ItemId": 2093,
+        "ParentItemId": 1890,
+        "BaseRevId": 2422,
+        "SourceRevId": 3547,
+        "DestinationRevId": 2422
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Pebbles/pebbles.shadergraph",
+        "ItemId": 2094,
+        "ParentItemId": 1890,
+        "BaseRevId": 2423,
+        "SourceRevId": 3548,
+        "DestinationRevId": 2423
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Details/Pebbles/pebbles.shadergraph.meta",
+        "ItemId": 2095,
+        "ParentItemId": 1890,
+        "BaseRevId": 2424,
+        "SourceRevId": 3549,
+        "DestinationRevId": 2424
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Ice.meta",
+        "ItemId": 1701,
+        "ParentItemId": 1405,
+        "BaseRevId": 2425,
+        "SourceRevId": 3550,
+        "DestinationRevId": 2425
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Ice/Ice Shader.mat",
+        "ItemId": 1893,
+        "ParentItemId": 1699,
+        "BaseRevId": 2426,
+        "SourceRevId": 3551,
+        "DestinationRevId": 2426
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Ice/Ice Shader.mat.meta",
+        "ItemId": 1894,
+        "ParentItemId": 1699,
+        "BaseRevId": 2427,
+        "SourceRevId": 3552,
+        "DestinationRevId": 2427
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Ice/IceShader.shadergraph",
+        "ItemId": 1895,
+        "ParentItemId": 1699,
+        "BaseRevId": 2428,
+        "SourceRevId": 3553,
+        "DestinationRevId": 2428
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Ice/IceShader.shadergraph.meta",
+        "ItemId": 1896,
+        "ParentItemId": 1699,
+        "BaseRevId": 2429,
+        "SourceRevId": 3554,
+        "DestinationRevId": 2429
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Ice/Textures.meta",
+        "ItemId": 1899,
+        "ParentItemId": 1699,
+        "BaseRevId": 2430,
+        "SourceRevId": 3555,
+        "DestinationRevId": 2430
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Ice/Textures/Ice_NS.png.meta",
+        "ItemId": 2097,
+        "ParentItemId": 1897,
+        "BaseRevId": 2431,
+        "SourceRevId": 3556,
+        "DestinationRevId": 2431
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Ice/Textures/Main_sub_bubble1_bubble2.png.meta",
+        "ItemId": 2099,
+        "ParentItemId": 1897,
+        "BaseRevId": 2432,
+        "SourceRevId": 3557,
+        "DestinationRevId": 2432
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Ice/TransmissionVector.shadersubgraph",
+        "ItemId": 1900,
+        "ParentItemId": 1699,
+        "BaseRevId": 2433,
+        "SourceRevId": 3558,
+        "DestinationRevId": 2433
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Ice/TransmissionVector.shadersubgraph.meta",
+        "ItemId": 1901,
+        "ParentItemId": 1699,
+        "BaseRevId": 2434,
+        "SourceRevId": 3559,
+        "DestinationRevId": 2434
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/LevelBlockout.meta",
+        "ItemId": 1704,
+        "ParentItemId": 1405,
+        "BaseRevId": 2435,
+        "SourceRevId": 3560,
+        "DestinationRevId": 2435
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/LevelBlockout/Blockout.png.meta",
+        "ItemId": 1903,
+        "ParentItemId": 1702,
+        "BaseRevId": 2436,
+        "SourceRevId": 3561,
+        "DestinationRevId": 2436
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/LevelBlockout/BlockoutGrid.mat",
+        "ItemId": 1904,
+        "ParentItemId": 1702,
+        "BaseRevId": 2437,
+        "SourceRevId": 3562,
+        "DestinationRevId": 2437
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/LevelBlockout/BlockoutGrid.mat.meta",
+        "ItemId": 1905,
+        "ParentItemId": 1702,
+        "BaseRevId": 2438,
+        "SourceRevId": 3563,
+        "DestinationRevId": 2438
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/LevelBlockout/BlockoutGrid.shadergraph",
+        "ItemId": 1906,
+        "ParentItemId": 1702,
+        "BaseRevId": 2439,
+        "SourceRevId": 3564,
+        "DestinationRevId": 2439
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/LevelBlockout/BlockoutGrid.shadergraph.meta",
+        "ItemId": 1907,
+        "ParentItemId": 1702,
+        "BaseRevId": 2440,
+        "SourceRevId": 3565,
+        "DestinationRevId": 2440
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Particles.meta",
+        "ItemId": 1707,
+        "ParentItemId": 1405,
+        "BaseRevId": 2441,
+        "SourceRevId": 3566,
+        "DestinationRevId": 2441
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Particles/WaterfallMist.mat",
+        "ItemId": 1908,
+        "ParentItemId": 1705,
+        "BaseRevId": 2442,
+        "SourceRevId": 3567,
+        "DestinationRevId": 2442
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Particles/WaterfallMist.mat.meta",
+        "ItemId": 1909,
+        "ParentItemId": 1705,
+        "BaseRevId": 2443,
+        "SourceRevId": 3568,
+        "DestinationRevId": 2443
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Particles/WaterfallSplash.mat",
+        "ItemId": 1910,
+        "ParentItemId": 1705,
+        "BaseRevId": 2444,
+        "SourceRevId": 3569,
+        "DestinationRevId": 2444
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Particles/WaterfallSplash.mat.meta",
+        "ItemId": 1911,
+        "ParentItemId": 1705,
+        "BaseRevId": 2445,
+        "SourceRevId": 3570,
+        "DestinationRevId": 2445
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock.meta",
+        "ItemId": 1710,
+        "ParentItemId": 1405,
+        "BaseRevId": 2446,
+        "SourceRevId": 3571,
+        "DestinationRevId": 2446
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/Materials.meta",
+        "ItemId": 1914,
+        "ParentItemId": 1708,
+        "BaseRevId": 2447,
+        "SourceRevId": 3572,
+        "DestinationRevId": 2447
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/Materials/Rock_BaseTextures.mat",
+        "ItemId": 2100,
+        "ParentItemId": 1912,
+        "BaseRevId": 2448,
+        "SourceRevId": 3573,
+        "DestinationRevId": 2448
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/Materials/Rock_BaseTextures.mat.meta",
+        "ItemId": 2101,
+        "ParentItemId": 1912,
+        "BaseRevId": 2449,
+        "SourceRevId": 3574,
+        "DestinationRevId": 2449
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/Materials/Rock_ColorProjections.mat",
+        "ItemId": 2102,
+        "ParentItemId": 1912,
+        "BaseRevId": 2450,
+        "SourceRevId": 3575,
+        "DestinationRevId": 2450
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/Materials/Rock_ColorProjections.mat.meta",
+        "ItemId": 2103,
+        "ParentItemId": 1912,
+        "BaseRevId": 2451,
+        "SourceRevId": 3576,
+        "DestinationRevId": 2451
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/Materials/Rock_DepositionMoss.mat",
+        "ItemId": 2104,
+        "ParentItemId": 1912,
+        "BaseRevId": 2452,
+        "SourceRevId": 3577,
+        "DestinationRevId": 2452
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/Materials/Rock_DepositionMoss.mat.meta",
+        "ItemId": 2105,
+        "ParentItemId": 1912,
+        "BaseRevId": 2453,
+        "SourceRevId": 3578,
+        "DestinationRevId": 2453
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/Materials/Rock_MacroDetail.mat",
+        "ItemId": 2106,
+        "ParentItemId": 1912,
+        "BaseRevId": 2454,
+        "SourceRevId": 3579,
+        "DestinationRevId": 2454
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/Materials/Rock_MacroDetail.mat.meta",
+        "ItemId": 2107,
+        "ParentItemId": 1912,
+        "BaseRevId": 2455,
+        "SourceRevId": 3580,
+        "DestinationRevId": 2455
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/Materials/Rock_MicroDetail.mat",
+        "ItemId": 2108,
+        "ParentItemId": 1912,
+        "BaseRevId": 2456,
+        "SourceRevId": 3581,
+        "DestinationRevId": 2456
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/Materials/Rock_MicroDetail.mat.meta",
+        "ItemId": 2109,
+        "ParentItemId": 1912,
+        "BaseRevId": 2457,
+        "SourceRevId": 3582,
+        "DestinationRevId": 2457
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/Materials/Rock_Rain.mat",
+        "ItemId": 2110,
+        "ParentItemId": 1912,
+        "BaseRevId": 2458,
+        "SourceRevId": 3583,
+        "DestinationRevId": 2458
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/Materials/Rock_Rain.mat.meta",
+        "ItemId": 2111,
+        "ParentItemId": 1912,
+        "BaseRevId": 2459,
+        "SourceRevId": 3584,
+        "DestinationRevId": 2459
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/Materials/Rock_Rain_LOD0.mat",
+        "ItemId": 2112,
+        "ParentItemId": 1912,
+        "BaseRevId": 2460,
+        "SourceRevId": 3585,
+        "DestinationRevId": 2460
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/Materials/Rock_Rain_LOD0.mat.meta",
+        "ItemId": 2113,
+        "ParentItemId": 1912,
+        "BaseRevId": 2461,
+        "SourceRevId": 3586,
+        "DestinationRevId": 2461
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/Materials/Rock_Small.mat",
+        "ItemId": 2114,
+        "ParentItemId": 1912,
+        "BaseRevId": 2462,
+        "SourceRevId": 3587,
+        "DestinationRevId": 2462
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/Materials/Rock_Small.mat.meta",
+        "ItemId": 2115,
+        "ParentItemId": 1912,
+        "BaseRevId": 2463,
+        "SourceRevId": 3588,
+        "DestinationRevId": 2463
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/Materials/Rock_Small_LOD0.mat",
+        "ItemId": 2116,
+        "ParentItemId": 1912,
+        "BaseRevId": 2464,
+        "SourceRevId": 3589,
+        "DestinationRevId": 2464
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/Materials/Rock_Small_LOD0.mat.meta",
+        "ItemId": 2117,
+        "ParentItemId": 1912,
+        "BaseRevId": 2465,
+        "SourceRevId": 3590,
+        "DestinationRevId": 2465
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/Rock.shadergraph",
+        "ItemId": 1915,
+        "ParentItemId": 1708,
+        "BaseRevId": 2466,
+        "SourceRevId": 3591,
+        "DestinationRevId": 2466
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/Rock.shadergraph.meta",
+        "ItemId": 1916,
+        "ParentItemId": 1708,
+        "BaseRevId": 2467,
+        "SourceRevId": 3592,
+        "DestinationRevId": 2467
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/RockColorProjection.shadersubgraph",
+        "ItemId": 1917,
+        "ParentItemId": 1708,
+        "BaseRevId": 2468,
+        "SourceRevId": 3593,
+        "DestinationRevId": 2468
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/RockColorProjection.shadersubgraph.meta",
+        "ItemId": 1918,
+        "ParentItemId": 1708,
+        "BaseRevId": 2469,
+        "SourceRevId": 3594,
+        "DestinationRevId": 2469
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/RockDepositionMoss.shadersubgraph",
+        "ItemId": 1919,
+        "ParentItemId": 1708,
+        "BaseRevId": 2470,
+        "SourceRevId": 3595,
+        "DestinationRevId": 2470
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/RockDepositionMoss.shadersubgraph.meta",
+        "ItemId": 1920,
+        "ParentItemId": 1708,
+        "BaseRevId": 2471,
+        "SourceRevId": 3596,
+        "DestinationRevId": 2471
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/RockMacroDetail.shadersubgraph",
+        "ItemId": 1921,
+        "ParentItemId": 1708,
+        "BaseRevId": 2472,
+        "SourceRevId": 3597,
+        "DestinationRevId": 2472
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/RockMacroDetail.shadersubgraph.meta",
+        "ItemId": 1922,
+        "ParentItemId": 1708,
+        "BaseRevId": 2473,
+        "SourceRevId": 3598,
+        "DestinationRevId": 2473
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/RockMicroDetail.shadersubgraph",
+        "ItemId": 1923,
+        "ParentItemId": 1708,
+        "BaseRevId": 2474,
+        "SourceRevId": 3599,
+        "DestinationRevId": 2474
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Rock/RockMicroDetail.shadersubgraph.meta",
+        "ItemId": 1924,
+        "ParentItemId": 1708,
+        "BaseRevId": 2475,
+        "SourceRevId": 3600,
+        "DestinationRevId": 2475
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water.meta",
+        "ItemId": 1713,
+        "ParentItemId": 1405,
+        "BaseRevId": 2476,
+        "SourceRevId": 3601,
+        "DestinationRevId": 2476
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/foam_detail_tiling.png.meta",
+        "ItemId": 1926,
+        "ParentItemId": 1711,
+        "BaseRevId": 2477,
+        "SourceRevId": 3602,
+        "DestinationRevId": 2477
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/foam_mask.png.meta",
+        "ItemId": 1928,
+        "ParentItemId": 1711,
+        "BaseRevId": 2478,
+        "SourceRevId": 3603,
+        "DestinationRevId": 2478
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/ocean_foam_blend_ramp.tga.meta",
+        "ItemId": 1930,
+        "ParentItemId": 1711,
+        "BaseRevId": 2479,
+        "SourceRevId": 3604,
+        "DestinationRevId": 2479
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/Water.mat",
+        "ItemId": 1931,
+        "ParentItemId": 1711,
+        "BaseRevId": 2480,
+        "SourceRevId": 3605,
+        "DestinationRevId": 2480
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/Water.mat.meta",
+        "ItemId": 1932,
+        "ParentItemId": 1711,
+        "BaseRevId": 2481,
+        "SourceRevId": 3606,
+        "DestinationRevId": 2481
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/water_caustics.png.meta",
+        "ItemId": 1934,
+        "ParentItemId": 1711,
+        "BaseRevId": 2482,
+        "SourceRevId": 3607,
+        "DestinationRevId": 2482
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/WaterFall.FBX.meta",
+        "ItemId": 1936,
+        "ParentItemId": 1711,
+        "BaseRevId": 2483,
+        "SourceRevId": 3608,
+        "DestinationRevId": 2483
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/waterFall2.fbx.meta",
+        "ItemId": 1938,
+        "ParentItemId": 1711,
+        "BaseRevId": 2484,
+        "SourceRevId": 3609,
+        "DestinationRevId": 2484
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/WaterLake.mat",
+        "ItemId": 1939,
+        "ParentItemId": 1711,
+        "BaseRevId": 2485,
+        "SourceRevId": 3610,
+        "DestinationRevId": 2485
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/WaterLake.mat.meta",
+        "ItemId": 1940,
+        "ParentItemId": 1711,
+        "BaseRevId": 2486,
+        "SourceRevId": 3611,
+        "DestinationRevId": 2486
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/WaterLake.shadergraph",
+        "ItemId": 1941,
+        "ParentItemId": 1711,
+        "BaseRevId": 2487,
+        "SourceRevId": 3612,
+        "DestinationRevId": 2487
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/WaterLake.shadergraph.meta",
+        "ItemId": 1942,
+        "ParentItemId": 1711,
+        "BaseRevId": 2488,
+        "SourceRevId": 3613,
+        "DestinationRevId": 2488
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/WaterMuseum.mat",
+        "ItemId": 1943,
+        "ParentItemId": 1711,
+        "BaseRevId": 2489,
+        "SourceRevId": 3614,
+        "DestinationRevId": 2489
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/WaterMuseum.mat.meta",
+        "ItemId": 1944,
+        "ParentItemId": 1711,
+        "BaseRevId": 2490,
+        "SourceRevId": 3615,
+        "DestinationRevId": 2490
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/WaterPlane.FBX.meta",
+        "ItemId": 1946,
+        "ParentItemId": 1711,
+        "BaseRevId": 2491,
+        "SourceRevId": 3616,
+        "DestinationRevId": 2491
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/WaterSimple_FoamMask.shadergraph",
+        "ItemId": 1947,
+        "ParentItemId": 1711,
+        "BaseRevId": 2492,
+        "SourceRevId": 3617,
+        "DestinationRevId": 2492
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/WaterSimple_FoamMask.shadergraph.meta",
+        "ItemId": 1948,
+        "ParentItemId": 1711,
+        "BaseRevId": 2493,
+        "SourceRevId": 3618,
+        "DestinationRevId": 2493
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/WaterStream.mat",
+        "ItemId": 1949,
+        "ParentItemId": 1711,
+        "BaseRevId": 2494,
+        "SourceRevId": 3619,
+        "DestinationRevId": 2494
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/WaterStream.mat.meta",
+        "ItemId": 1950,
+        "ParentItemId": 1711,
+        "BaseRevId": 2495,
+        "SourceRevId": 3620,
+        "DestinationRevId": 2495
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/WaterStream.shadergraph",
+        "ItemId": 1951,
+        "ParentItemId": 1711,
+        "BaseRevId": 2496,
+        "SourceRevId": 3621,
+        "DestinationRevId": 2496
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/WaterStream.shadergraph.meta",
+        "ItemId": 1952,
+        "ParentItemId": 1711,
+        "BaseRevId": 2497,
+        "SourceRevId": 3622,
+        "DestinationRevId": 2497
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/WaterStreamFalls.mat",
+        "ItemId": 1953,
+        "ParentItemId": 1711,
+        "BaseRevId": 2498,
+        "SourceRevId": 3623,
+        "DestinationRevId": 2498
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/WaterStreamFalls.mat.meta",
+        "ItemId": 1954,
+        "ParentItemId": 1711,
+        "BaseRevId": 2499,
+        "SourceRevId": 3624,
+        "DestinationRevId": 2499
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/WaterStreamFalls.shadergraph",
+        "ItemId": 1955,
+        "ParentItemId": 1711,
+        "BaseRevId": 2500,
+        "SourceRevId": 3625,
+        "DestinationRevId": 2500
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Environment/Water/WaterStreamFalls.shadergraph.meta",
+        "ItemId": 1956,
+        "ParentItemId": 1711,
+        "BaseRevId": 2501,
+        "SourceRevId": 3626,
+        "DestinationRevId": 2501
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Lit.meta",
+        "ItemId": 1410,
+        "ParentItemId": 1278,
+        "BaseRevId": 2502,
+        "SourceRevId": 3627,
+        "DestinationRevId": 2502
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Lit/HDRPLit.mat",
+        "ItemId": 1714,
+        "ParentItemId": 1408,
+        "BaseRevId": 2503,
+        "SourceRevId": 3628,
+        "DestinationRevId": 2503
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Lit/HDRPLit.mat.meta",
+        "ItemId": 1715,
+        "ParentItemId": 1408,
+        "BaseRevId": 2504,
+        "SourceRevId": 3629,
+        "DestinationRevId": 2504
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Lit/HDRPLit.shadergraph",
+        "ItemId": 1716,
+        "ParentItemId": 1408,
+        "BaseRevId": 2505,
+        "SourceRevId": 3630,
+        "DestinationRevId": 2505
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Lit/HDRPLit.shadergraph.meta",
+        "ItemId": 1717,
+        "ParentItemId": 1408,
+        "BaseRevId": 2506,
+        "SourceRevId": 3631,
+        "DestinationRevId": 2506
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Lit/HDRPLitEmissiveDetail.mat",
+        "ItemId": 1718,
+        "ParentItemId": 1408,
+        "BaseRevId": 2507,
+        "SourceRevId": 3632,
+        "DestinationRevId": 2507
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Lit/HDRPLitEmissiveDetail.mat.meta",
+        "ItemId": 1719,
+        "ParentItemId": 1408,
+        "BaseRevId": 2508,
+        "SourceRevId": 3633,
+        "DestinationRevId": 2508
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Lit/URP Lit Emissive Detail.mat",
+        "ItemId": 1720,
+        "ParentItemId": 1408,
+        "BaseRevId": 2509,
+        "SourceRevId": 3634,
+        "DestinationRevId": 2509
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Lit/URP Lit Emissive Detail.mat.meta",
+        "ItemId": 1721,
+        "ParentItemId": 1408,
+        "BaseRevId": 2510,
+        "SourceRevId": 3635,
+        "DestinationRevId": 2510
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Lit/URP Lit.mat",
+        "ItemId": 1722,
+        "ParentItemId": 1408,
+        "BaseRevId": 2511,
+        "SourceRevId": 3636,
+        "DestinationRevId": 2511
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Lit/URP Lit.mat.meta",
+        "ItemId": 1723,
+        "ParentItemId": 1408,
+        "BaseRevId": 2512,
+        "SourceRevId": 3637,
+        "DestinationRevId": 2512
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Lit/URPLit.shadergraph",
+        "ItemId": 1724,
+        "ParentItemId": 1408,
+        "BaseRevId": 2513,
+        "SourceRevId": 3638,
+        "DestinationRevId": 2513
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Lit/URPLit.shadergraph.meta",
+        "ItemId": 1725,
+        "ParentItemId": 1408,
+        "BaseRevId": 2514,
+        "SourceRevId": 3639,
+        "DestinationRevId": 2514
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/PostProcess.meta",
+        "ItemId": 1413,
+        "ParentItemId": 1278,
+        "BaseRevId": 2515,
+        "SourceRevId": 3640,
+        "DestinationRevId": 2515
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/PostProcess/PostProcessEdgeDetection.shadergraph",
+        "ItemId": 1726,
+        "ParentItemId": 1411,
+        "BaseRevId": 2516,
+        "SourceRevId": 3641,
+        "DestinationRevId": 2516
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/PostProcess/PostProcessEdgeDetection.shadergraph.meta",
+        "ItemId": 1727,
+        "ParentItemId": 1411,
+        "BaseRevId": 2517,
+        "SourceRevId": 3642,
+        "DestinationRevId": 2517
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/PostProcess/PostProcessHalfTone.shadergraph",
+        "ItemId": 1728,
+        "ParentItemId": 1411,
+        "BaseRevId": 2518,
+        "SourceRevId": 3643,
+        "DestinationRevId": 2518
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/PostProcess/PostProcessHalfTone.shadergraph.meta",
+        "ItemId": 1729,
+        "ParentItemId": 1411,
+        "BaseRevId": 2519,
+        "SourceRevId": 3644,
+        "DestinationRevId": 2519
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/PostProcess/PostProcessRainOnLens.shadergraph",
+        "ItemId": 1730,
+        "ParentItemId": 1411,
+        "BaseRevId": 2520,
+        "SourceRevId": 3645,
+        "DestinationRevId": 2520
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/PostProcess/PostProcessRainOnLens.shadergraph.meta",
+        "ItemId": 1731,
+        "ParentItemId": 1411,
+        "BaseRevId": 2521,
+        "SourceRevId": 3646,
+        "DestinationRevId": 2521
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/PostProcess/PostProcessUnderwater.shadergraph",
+        "ItemId": 1732,
+        "ParentItemId": 1411,
+        "BaseRevId": 2522,
+        "SourceRevId": 3647,
+        "DestinationRevId": 2522
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/PostProcess/PostProcessUnderwater.shadergraph.meta",
+        "ItemId": 1733,
+        "ParentItemId": 1411,
+        "BaseRevId": 2523,
+        "SourceRevId": 3648,
+        "DestinationRevId": 2523
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/PostProcess/PostProcessVHS.shadergraph",
+        "ItemId": 1734,
+        "ParentItemId": 1411,
+        "BaseRevId": 2524,
+        "SourceRevId": 3649,
+        "DestinationRevId": 2524
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/PostProcess/PostProcessVHS.shadergraph.meta",
+        "ItemId": 1735,
+        "ParentItemId": 1411,
+        "BaseRevId": 2525,
+        "SourceRevId": 3650,
+        "DestinationRevId": 2525
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/PostProcess/Shader Graphs_PostProcessHalfTone.mat",
+        "ItemId": 1736,
+        "ParentItemId": 1411,
+        "BaseRevId": 2526,
+        "SourceRevId": 3651,
+        "DestinationRevId": 2526
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/PostProcess/Shader Graphs_PostProcessHalfTone.mat.meta",
+        "ItemId": 1737,
+        "ParentItemId": 1411,
+        "BaseRevId": 2527,
+        "SourceRevId": 3652,
+        "DestinationRevId": 2527
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs.meta",
+        "ItemId": 1416,
+        "ParentItemId": 1278,
+        "BaseRevId": 2528,
+        "SourceRevId": 3653,
+        "DestinationRevId": 2528
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs/DefaultHDMaterial.mat",
+        "ItemId": 1738,
+        "ParentItemId": 1414,
+        "BaseRevId": 2529,
+        "SourceRevId": 3654,
+        "DestinationRevId": 2529
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs/DefaultHDMaterial.mat.meta",
+        "ItemId": 1739,
+        "ParentItemId": 1414,
+        "BaseRevId": 2530,
+        "SourceRevId": 3655,
+        "DestinationRevId": 2530
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs/Demo.prefab.meta",
+        "ItemId": 1741,
+        "ParentItemId": 1414,
+        "BaseRevId": 2532,
+        "SourceRevId": 3657,
+        "DestinationRevId": 2532
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs/Environment.prefab.meta",
+        "ItemId": 1743,
+        "ParentItemId": 1414,
+        "BaseRevId": 2534,
+        "SourceRevId": 3659,
+        "DestinationRevId": 2534
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs/LevelContent.prefab.meta",
+        "ItemId": 1745,
+        "ParentItemId": 1414,
+        "BaseRevId": 2536,
+        "SourceRevId": 3661,
+        "DestinationRevId": 2536
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs/Platform.prefab.meta",
+        "ItemId": 1747,
+        "ParentItemId": 1414,
+        "BaseRevId": 2538,
+        "SourceRevId": 3663,
+        "DestinationRevId": 2538
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs/PlatformDecals.prefab.meta",
+        "ItemId": 1749,
+        "ParentItemId": 1414,
+        "BaseRevId": 2540,
+        "SourceRevId": 3665,
+        "DestinationRevId": 2540
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs/PlatformDetails.prefab.meta",
+        "ItemId": 1751,
+        "ParentItemId": 1414,
+        "BaseRevId": 2542,
+        "SourceRevId": 3667,
+        "DestinationRevId": 2542
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs/PlatformLitHDRP.prefab.meta",
+        "ItemId": 1753,
+        "ParentItemId": 1414,
+        "BaseRevId": 2544,
+        "SourceRevId": 3669,
+        "DestinationRevId": 2544
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs/PlatformLitURP.prefab.meta",
+        "ItemId": 1755,
+        "ParentItemId": 1414,
+        "BaseRevId": 2546,
+        "SourceRevId": 3671,
+        "DestinationRevId": 2546
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs/PlatformMisc.prefab.meta",
+        "ItemId": 1757,
+        "ParentItemId": 1414,
+        "BaseRevId": 2548,
+        "SourceRevId": 3673,
+        "DestinationRevId": 2548
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs/PlatformRock.prefab.meta",
+        "ItemId": 1759,
+        "ParentItemId": 1414,
+        "BaseRevId": 2550,
+        "SourceRevId": 3675,
+        "DestinationRevId": 2550
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs/PlatformWater.prefab.meta",
+        "ItemId": 1761,
+        "ParentItemId": 1414,
+        "BaseRevId": 2552,
+        "SourceRevId": 3677,
+        "DestinationRevId": 2552
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs/PlatformWeather.prefab.meta",
+        "ItemId": 1763,
+        "ParentItemId": 1414,
+        "BaseRevId": 2554,
+        "SourceRevId": 3679,
+        "DestinationRevId": 2554
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs/TutorialStep.prefab.meta",
+        "ItemId": 1765,
+        "ParentItemId": 1414,
+        "BaseRevId": 2556,
+        "SourceRevId": 3681,
+        "DestinationRevId": 2556
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs/TutorialStep1SculptTerrain.prefab.meta",
+        "ItemId": 1767,
+        "ParentItemId": 1414,
+        "BaseRevId": 2558,
+        "SourceRevId": 3683,
+        "DestinationRevId": 2558
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs/TutorialStep2TerrainMaterials.prefab.meta",
+        "ItemId": 1769,
+        "ParentItemId": 1414,
+        "BaseRevId": 2560,
+        "SourceRevId": 3685,
+        "DestinationRevId": 2560
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs/TutorialStep3WaterPlanes.prefab.meta",
+        "ItemId": 1771,
+        "ParentItemId": 1414,
+        "BaseRevId": 2562,
+        "SourceRevId": 3687,
+        "DestinationRevId": 2562
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs/TutorialStep4WaterfallMeshes.prefab.meta",
+        "ItemId": 1773,
+        "ParentItemId": 1414,
+        "BaseRevId": 2564,
+        "SourceRevId": 3689,
+        "DestinationRevId": 2564
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs/TutorialStep5AddRocks.prefab.meta",
+        "ItemId": 1775,
+        "ParentItemId": 1414,
+        "BaseRevId": 2566,
+        "SourceRevId": 3691,
+        "DestinationRevId": 2566
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs/TutorialStep6ReflectionProbes.prefab.meta",
+        "ItemId": 1777,
+        "ParentItemId": 1414,
+        "BaseRevId": 2568,
+        "SourceRevId": 3693,
+        "DestinationRevId": 2568
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs/TutorialStep7TerrainDetailMeshes.prefab.meta",
+        "ItemId": 1779,
+        "ParentItemId": 1414,
+        "BaseRevId": 2570,
+        "SourceRevId": 3695,
+        "DestinationRevId": 2570
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Prefabs/TutorialStep8WaterDecals.prefab.meta",
+        "ItemId": 1781,
+        "ParentItemId": 1414,
+        "BaseRevId": 2572,
+        "SourceRevId": 3697,
+        "DestinationRevId": 2572
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes.meta",
+        "ItemId": 1419,
+        "ParentItemId": 1278,
+        "BaseRevId": 2573,
+        "SourceRevId": 3698,
+        "DestinationRevId": 2573
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/DefaultMaterial.shadergraph",
+        "ItemId": 1782,
+        "ParentItemId": 1417,
+        "BaseRevId": 2574,
+        "SourceRevId": 3699,
+        "DestinationRevId": 2574
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/DefaultMaterial.shadergraph.meta",
+        "ItemId": 1783,
+        "ParentItemId": 1417,
+        "BaseRevId": 2575,
+        "SourceRevId": 3700,
+        "DestinationRevId": 2575
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/HDRPProductionReadyShaders.meta",
+        "ItemId": 1786,
+        "ParentItemId": 1417,
+        "BaseRevId": 2576,
+        "SourceRevId": 3701,
+        "DestinationRevId": 2576
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/HDRPProductionReadyShaders.unity.meta",
+        "ItemId": 1788,
+        "ParentItemId": 1417,
+        "BaseRevId": 2578,
+        "SourceRevId": 3703,
+        "DestinationRevId": 2578
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/HDRPProductionReadyShaders/HDRPProductionReadyShaders Baking Set.asset",
+        "ItemId": 1957,
+        "ParentItemId": 1784,
+        "BaseRevId": 2579,
+        "SourceRevId": 3704,
+        "DestinationRevId": 2579
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/HDRPProductionReadyShaders/HDRPProductionReadyShaders Baking Set.asset.meta",
+        "ItemId": 1958,
+        "ParentItemId": 1784,
+        "BaseRevId": 2580,
+        "SourceRevId": 3705,
+        "DestinationRevId": 2580
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/HDRPProductionReadyShaders/HDRPSettingsVolumeProfile.asset",
+        "ItemId": 1959,
+        "ParentItemId": 1784,
+        "BaseRevId": 2581,
+        "SourceRevId": 3706,
+        "DestinationRevId": 2581
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/HDRPProductionReadyShaders/HDRPSettingsVolumeProfile.asset.meta",
+        "ItemId": 1960,
+        "ParentItemId": 1784,
+        "BaseRevId": 2582,
+        "SourceRevId": 3707,
+        "DestinationRevId": 2582
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/HDRPProductionReadyShaders/Lighting Settings.lighting",
+        "ItemId": 1961,
+        "ParentItemId": 1784,
+        "BaseRevId": 2583,
+        "SourceRevId": 3708,
+        "DestinationRevId": 2583
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/HDRPProductionReadyShaders/Lighting Settings.lighting.meta",
+        "ItemId": 1962,
+        "ParentItemId": 1784,
+        "BaseRevId": 2584,
+        "SourceRevId": 3709,
+        "DestinationRevId": 2584
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/HDRPProductionReadyShaders/LightingData.asset.meta",
+        "ItemId": 1964,
+        "ParentItemId": 1784,
+        "BaseRevId": 2585,
+        "SourceRevId": 3710,
+        "DestinationRevId": 2585
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/HDRPProductionReadyShaders/ReflectionProbe-0.exr.meta",
+        "ItemId": 1966,
+        "ParentItemId": 1784,
+        "BaseRevId": 2586,
+        "SourceRevId": 3711,
+        "DestinationRevId": 2586
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/HDRPProductionReadyShaders/ReflectionProbe-1.exr.meta",
+        "ItemId": 1968,
+        "ParentItemId": 1784,
+        "BaseRevId": 2587,
+        "SourceRevId": 3712,
+        "DestinationRevId": 2587
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/HDRPProductionReadyShaders/ReflectionProbe-2.exr.meta",
+        "ItemId": 1970,
+        "ParentItemId": 1784,
+        "BaseRevId": 2588,
+        "SourceRevId": 3713,
+        "DestinationRevId": 2588
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/HDRPProductionReadyShaders/SkyandFogSettingsProfile.asset",
+        "ItemId": 1971,
+        "ParentItemId": 1784,
+        "BaseRevId": 2589,
+        "SourceRevId": 3714,
+        "DestinationRevId": 2589
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/HDRPProductionReadyShaders/SkyandFogSettingsProfile.asset.meta",
+        "ItemId": 1972,
+        "ParentItemId": 1784,
+        "BaseRevId": 2590,
+        "SourceRevId": 3715,
+        "DestinationRevId": 2590
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/HDRPProductionReadyShaders/TerrainLit.mat",
+        "ItemId": 1973,
+        "ParentItemId": 1784,
+        "BaseRevId": 2591,
+        "SourceRevId": 3716,
+        "DestinationRevId": 2591
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/HDRPProductionReadyShaders/TerrainLit.mat.meta",
+        "ItemId": 1974,
+        "ParentItemId": 1784,
+        "BaseRevId": 2592,
+        "SourceRevId": 3717,
+        "DestinationRevId": 2592
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/New Terrain.asset.meta",
+        "ItemId": 1790,
+        "ParentItemId": 1417,
+        "BaseRevId": 2593,
+        "SourceRevId": 3718,
+        "DestinationRevId": 2593
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/ProductionReadySamplesDescriptions.json",
+        "ItemId": 1791,
+        "ParentItemId": 1417,
+        "BaseRevId": 2594,
+        "SourceRevId": 3719,
+        "DestinationRevId": 2594
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/ProductionReadySamplesDescriptions.json.meta",
+        "ItemId": 1792,
+        "ParentItemId": 1417,
+        "BaseRevId": 2595,
+        "SourceRevId": 3720,
+        "DestinationRevId": 2595
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/URPProductionReadyShaders.meta",
+        "ItemId": 1795,
+        "ParentItemId": 1417,
+        "BaseRevId": 2596,
+        "SourceRevId": 3721,
+        "DestinationRevId": 2596
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/URPProductionReadyShaders.unity.meta",
+        "ItemId": 1797,
+        "ParentItemId": 1417,
+        "BaseRevId": 2598,
+        "SourceRevId": 3723,
+        "DestinationRevId": 2598
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/URPProductionReadyShaders/LightingData.asset.meta",
+        "ItemId": 1976,
+        "ParentItemId": 1793,
+        "BaseRevId": 2599,
+        "SourceRevId": 3724,
+        "DestinationRevId": 2599
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/URPProductionReadyShaders/ReflectionProbe-0.exr.meta",
+        "ItemId": 1978,
+        "ParentItemId": 1793,
+        "BaseRevId": 2600,
+        "SourceRevId": 3725,
+        "DestinationRevId": 2600
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/URPProductionReadyShaders/ReflectionProbe-1.exr.meta",
+        "ItemId": 1980,
+        "ParentItemId": 1793,
+        "BaseRevId": 2601,
+        "SourceRevId": 3726,
+        "DestinationRevId": 2601
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/URPProductionReadyShaders/ReflectionProbe-2.exr.meta",
+        "ItemId": 1982,
+        "ParentItemId": 1793,
+        "BaseRevId": 2602,
+        "SourceRevId": 3727,
+        "DestinationRevId": 2602
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/URPProductionReadyShaders/ReflectionProbe-3.exr.meta",
+        "ItemId": 1984,
+        "ParentItemId": 1793,
+        "BaseRevId": 2603,
+        "SourceRevId": 3728,
+        "DestinationRevId": 2603
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/URPProductionReadyShaders/TerrainLit.mat",
+        "ItemId": 1985,
+        "ParentItemId": 1793,
+        "BaseRevId": 2604,
+        "SourceRevId": 3729,
+        "DestinationRevId": 2604
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/URPProductionReadyShaders/TerrainLit.mat.meta",
+        "ItemId": 1986,
+        "ParentItemId": 1793,
+        "BaseRevId": 2605,
+        "SourceRevId": 3730,
+        "DestinationRevId": 2605
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/URPProductionReadyShaders/URPVolumeProfile.asset",
+        "ItemId": 1987,
+        "ParentItemId": 1793,
+        "BaseRevId": 2606,
+        "SourceRevId": 3731,
+        "DestinationRevId": 2606
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Scenes/URPProductionReadyShaders/URPVolumeProfile.asset.meta",
+        "ItemId": 1988,
+        "ParentItemId": 1793,
+        "BaseRevId": 2607,
+        "SourceRevId": 3732,
+        "DestinationRevId": 2607
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather.meta",
+        "ItemId": 1422,
+        "ParentItemId": 1278,
+        "BaseRevId": 2608,
+        "SourceRevId": 3733,
+        "DestinationRevId": 2608
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain.meta",
+        "ItemId": 1800,
+        "ParentItemId": 1420,
+        "BaseRevId": 2609,
+        "SourceRevId": 3734,
+        "DestinationRevId": 2609
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Components.meta",
+        "ItemId": 1991,
+        "ParentItemId": 1798,
+        "BaseRevId": 2610,
+        "SourceRevId": 3735,
+        "DestinationRevId": 2610
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Components/Puddles.shadersubgraph",
+        "ItemId": 2118,
+        "ParentItemId": 1989,
+        "BaseRevId": 2611,
+        "SourceRevId": 3736,
+        "DestinationRevId": 2611
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Components/Puddles.shadersubgraph.meta",
+        "ItemId": 2119,
+        "ParentItemId": 1989,
+        "BaseRevId": 2612,
+        "SourceRevId": 3737,
+        "DestinationRevId": 2612
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Components/PuddleWindRipples.shadersubgraph",
+        "ItemId": 2120,
+        "ParentItemId": 1989,
+        "BaseRevId": 2613,
+        "SourceRevId": 3738,
+        "DestinationRevId": 2613
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Components/PuddleWindRipples.shadersubgraph.meta",
+        "ItemId": 2121,
+        "ParentItemId": 1989,
+        "BaseRevId": 2614,
+        "SourceRevId": 3739,
+        "DestinationRevId": 2614
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Components/Rain_Drips.shadersubgraph",
+        "ItemId": 2122,
+        "ParentItemId": 1989,
+        "BaseRevId": 2615,
+        "SourceRevId": 3740,
+        "DestinationRevId": 2615
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Components/Rain_Drips.shadersubgraph.meta",
+        "ItemId": 2123,
+        "ParentItemId": 1989,
+        "BaseRevId": 2616,
+        "SourceRevId": 3741,
+        "DestinationRevId": 2616
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Components/Rain_DripsOnTheLens.shadersubgraph",
+        "ItemId": 2124,
+        "ParentItemId": 1989,
+        "BaseRevId": 2617,
+        "SourceRevId": 3742,
+        "DestinationRevId": 2617
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Components/Rain_DripsOnTheLens.shadersubgraph.meta",
+        "ItemId": 2125,
+        "ParentItemId": 1989,
+        "BaseRevId": 2618,
+        "SourceRevId": 3743,
+        "DestinationRevId": 2618
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Components/Rain_Drops.shadersubgraph",
+        "ItemId": 2126,
+        "ParentItemId": 1989,
+        "BaseRevId": 2619,
+        "SourceRevId": 3744,
+        "DestinationRevId": 2619
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Components/Rain_Drops.shadersubgraph.meta",
+        "ItemId": 2127,
+        "ParentItemId": 1989,
+        "BaseRevId": 2620,
+        "SourceRevId": 3745,
+        "DestinationRevId": 2620
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Components/Rain_Parameters.shadersubgraph",
+        "ItemId": 2128,
+        "ParentItemId": 1989,
+        "BaseRevId": 2621,
+        "SourceRevId": 3746,
+        "DestinationRevId": 2621
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Components/Rain_Parameters.shadersubgraph.meta",
+        "ItemId": 2129,
+        "ParentItemId": 1989,
+        "BaseRevId": 2622,
+        "SourceRevId": 3747,
+        "DestinationRevId": 2622
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Components/RainDropsOnTheLens.shadersubgraph",
+        "ItemId": 2130,
+        "ParentItemId": 1989,
+        "BaseRevId": 2623,
+        "SourceRevId": 3748,
+        "DestinationRevId": 2623
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Components/RainDropsOnTheLens.shadersubgraph.meta",
+        "ItemId": 2131,
+        "ParentItemId": 1989,
+        "BaseRevId": 2624,
+        "SourceRevId": 3749,
+        "DestinationRevId": 2624
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Components/RainRipple.shadersubgraph",
+        "ItemId": 2132,
+        "ParentItemId": 1989,
+        "BaseRevId": 2625,
+        "SourceRevId": 3750,
+        "DestinationRevId": 2625
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Components/RainRipple.shadersubgraph.meta",
+        "ItemId": 2133,
+        "ParentItemId": 1989,
+        "BaseRevId": 2626,
+        "SourceRevId": 3751,
+        "DestinationRevId": 2626
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Components/RainRipples.shadersubgraph",
+        "ItemId": 2134,
+        "ParentItemId": 1989,
+        "BaseRevId": 2627,
+        "SourceRevId": 3752,
+        "DestinationRevId": 2627
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Components/RainRipples.shadersubgraph.meta",
+        "ItemId": 2135,
+        "ParentItemId": 1989,
+        "BaseRevId": 2628,
+        "SourceRevId": 3753,
+        "DestinationRevId": 2628
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Components/Wet.shadersubgraph",
+        "ItemId": 2136,
+        "ParentItemId": 1989,
+        "BaseRevId": 2629,
+        "SourceRevId": 3754,
+        "DestinationRevId": 2629
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Components/Wet.shadersubgraph.meta",
+        "ItemId": 2137,
+        "ParentItemId": 1989,
+        "BaseRevId": 2630,
+        "SourceRevId": 3755,
+        "DestinationRevId": 2630
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Rain.shadersubgraph",
+        "ItemId": 1992,
+        "ParentItemId": 1798,
+        "BaseRevId": 2631,
+        "SourceRevId": 3756,
+        "DestinationRevId": 2631
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Rain.shadersubgraph.meta",
+        "ItemId": 1993,
+        "ParentItemId": 1798,
+        "BaseRevId": 2632,
+        "SourceRevId": 3757,
+        "DestinationRevId": 2632
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/RainFloor.shadersubgraph",
+        "ItemId": 1994,
+        "ParentItemId": 1798,
+        "BaseRevId": 2633,
+        "SourceRevId": 3758,
+        "DestinationRevId": 2633
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/RainFloor.shadersubgraph.meta",
+        "ItemId": 1995,
+        "ParentItemId": 1798,
+        "BaseRevId": 2634,
+        "SourceRevId": 3759,
+        "DestinationRevId": 2634
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/RainProps.shadersubgraph",
+        "ItemId": 1996,
+        "ParentItemId": 1798,
+        "BaseRevId": 2635,
+        "SourceRevId": 3760,
+        "DestinationRevId": 2635
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/RainProps.shadersubgraph.meta",
+        "ItemId": 1997,
+        "ParentItemId": 1798,
+        "BaseRevId": 2636,
+        "SourceRevId": 3761,
+        "DestinationRevId": 2636
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/RainRocks.shadersubgraph",
+        "ItemId": 1998,
+        "ParentItemId": 1798,
+        "BaseRevId": 2637,
+        "SourceRevId": 3762,
+        "DestinationRevId": 2637
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/RainRocks.shadersubgraph.meta",
+        "ItemId": 1999,
+        "ParentItemId": 1798,
+        "BaseRevId": 2638,
+        "SourceRevId": 3763,
+        "DestinationRevId": 2638
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Textures.meta",
+        "ItemId": 2002,
+        "ParentItemId": 1798,
+        "BaseRevId": 2639,
+        "SourceRevId": 3764,
+        "DestinationRevId": 2639
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Textures/clouds.png.meta",
+        "ItemId": 2139,
+        "ParentItemId": 2000,
+        "BaseRevId": 2640,
+        "SourceRevId": 3765,
+        "DestinationRevId": 2640
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Textures/puddle_norm.png.meta",
+        "ItemId": 2141,
+        "ParentItemId": 2000,
+        "BaseRevId": 2641,
+        "SourceRevId": 3766,
+        "DestinationRevId": 2641
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Textures/rain_drips.png.meta",
+        "ItemId": 2143,
+        "ParentItemId": 2000,
+        "BaseRevId": 2642,
+        "SourceRevId": 3767,
+        "DestinationRevId": 2642
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Textures/rain_drips_mask.png.meta",
+        "ItemId": 2145,
+        "ParentItemId": 2000,
+        "BaseRevId": 2643,
+        "SourceRevId": 3768,
+        "DestinationRevId": 2643
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Textures/rain_drops.png.meta",
+        "ItemId": 2147,
+        "ParentItemId": 2000,
+        "BaseRevId": 2644,
+        "SourceRevId": 3769,
+        "DestinationRevId": 2644
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Rain/Textures/rain_ripples.png.meta",
+        "ItemId": 2149,
+        "ParentItemId": 2000,
+        "BaseRevId": 2645,
+        "SourceRevId": 3770,
+        "DestinationRevId": 2645
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/RainExample.mat",
+        "ItemId": 1801,
+        "ParentItemId": 1420,
+        "BaseRevId": 2646,
+        "SourceRevId": 3771,
+        "DestinationRevId": 2646
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/RainExample.mat.meta",
+        "ItemId": 1802,
+        "ParentItemId": 1420,
+        "BaseRevId": 2647,
+        "SourceRevId": 3772,
+        "DestinationRevId": 2647
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/RainExample.shadergraph",
+        "ItemId": 1803,
+        "ParentItemId": 1420,
+        "BaseRevId": 2648,
+        "SourceRevId": 3773,
+        "DestinationRevId": 2648
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/RainExample.shadergraph.meta",
+        "ItemId": 1804,
+        "ParentItemId": 1420,
+        "BaseRevId": 2649,
+        "SourceRevId": 3774,
+        "DestinationRevId": 2649
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/RainFloorExample.mat",
+        "ItemId": 1805,
+        "ParentItemId": 1420,
+        "BaseRevId": 2650,
+        "SourceRevId": 3775,
+        "DestinationRevId": 2650
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/RainFloorExample.mat.meta",
+        "ItemId": 1806,
+        "ParentItemId": 1420,
+        "BaseRevId": 2651,
+        "SourceRevId": 3776,
+        "DestinationRevId": 2651
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/RainFloorExample.shadergraph",
+        "ItemId": 1807,
+        "ParentItemId": 1420,
+        "BaseRevId": 2652,
+        "SourceRevId": 3777,
+        "DestinationRevId": 2652
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/RainFloorExample.shadergraph.meta",
+        "ItemId": 1808,
+        "ParentItemId": 1420,
+        "BaseRevId": 2653,
+        "SourceRevId": 3778,
+        "DestinationRevId": 2653
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/RainPropsExample.mat",
+        "ItemId": 1809,
+        "ParentItemId": 1420,
+        "BaseRevId": 2654,
+        "SourceRevId": 3779,
+        "DestinationRevId": 2654
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/RainPropsExample.mat.meta",
+        "ItemId": 1810,
+        "ParentItemId": 1420,
+        "BaseRevId": 2655,
+        "SourceRevId": 3780,
+        "DestinationRevId": 2655
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/RainPropsExample.shadergraph",
+        "ItemId": 1811,
+        "ParentItemId": 1420,
+        "BaseRevId": 2656,
+        "SourceRevId": 3781,
+        "DestinationRevId": 2656
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/RainPropsExample.shadergraph.meta",
+        "ItemId": 1812,
+        "ParentItemId": 1420,
+        "BaseRevId": 2657,
+        "SourceRevId": 3782,
+        "DestinationRevId": 2657
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/RainRockExample.mat",
+        "ItemId": 1813,
+        "ParentItemId": 1420,
+        "BaseRevId": 2658,
+        "SourceRevId": 3783,
+        "DestinationRevId": 2658
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/RainRockExample.mat.meta",
+        "ItemId": 1814,
+        "ParentItemId": 1420,
+        "BaseRevId": 2659,
+        "SourceRevId": 3784,
+        "DestinationRevId": 2659
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/RainRocksExample.shadergraph",
+        "ItemId": 1815,
+        "ParentItemId": 1420,
+        "BaseRevId": 2660,
+        "SourceRevId": 3785,
+        "DestinationRevId": 2660
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/RainRocksExample.shadergraph.meta",
+        "ItemId": 1816,
+        "ParentItemId": 1420,
+        "BaseRevId": 2661,
+        "SourceRevId": 3786,
+        "DestinationRevId": 2661
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Snow.meta",
+        "ItemId": 1819,
+        "ParentItemId": 1420,
+        "BaseRevId": 2662,
+        "SourceRevId": 3787,
+        "DestinationRevId": 2662
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Snow/Components.meta",
+        "ItemId": 2005,
+        "ParentItemId": 1817,
+        "BaseRevId": 2663,
+        "SourceRevId": 3788,
+        "DestinationRevId": 2663
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Snow/Components/Snow_Mask.shadersubgraph",
+        "ItemId": 2150,
+        "ParentItemId": 2003,
+        "BaseRevId": 2664,
+        "SourceRevId": 3789,
+        "DestinationRevId": 2664
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Snow/Components/Snow_Mask.shadersubgraph.meta",
+        "ItemId": 2151,
+        "ParentItemId": 2003,
+        "BaseRevId": 2665,
+        "SourceRevId": 3790,
+        "DestinationRevId": 2665
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Snow/Components/Snow_Sparkles.shadersubgraph",
+        "ItemId": 2152,
+        "ParentItemId": 2003,
+        "BaseRevId": 2666,
+        "SourceRevId": 3791,
+        "DestinationRevId": 2666
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Snow/Components/Snow_Sparkles.shadersubgraph.meta",
+        "ItemId": 2153,
+        "ParentItemId": 2003,
+        "BaseRevId": 2667,
+        "SourceRevId": 3792,
+        "DestinationRevId": 2667
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Snow/Snow.shadersubgraph",
+        "ItemId": 2006,
+        "ParentItemId": 1817,
+        "BaseRevId": 2668,
+        "SourceRevId": 3793,
+        "DestinationRevId": 2668
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Snow/Snow.shadersubgraph.meta",
+        "ItemId": 2007,
+        "ParentItemId": 1817,
+        "BaseRevId": 2669,
+        "SourceRevId": 3794,
+        "DestinationRevId": 2669
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Snow/Textures.meta",
+        "ItemId": 2010,
+        "ParentItemId": 1817,
+        "BaseRevId": 2670,
+        "SourceRevId": 3795,
+        "DestinationRevId": 2670
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Snow/Textures/snow_ncs.png.meta",
+        "ItemId": 2155,
+        "ParentItemId": 2008,
+        "BaseRevId": 2671,
+        "SourceRevId": 3796,
+        "DestinationRevId": 2671
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/Snow/Textures/Snow_Sparkle_Mask.png.meta",
+        "ItemId": 2157,
+        "ParentItemId": 2008,
+        "BaseRevId": 2672,
+        "SourceRevId": 3797,
+        "DestinationRevId": 2672
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/SnowExample.shadergraph",
+        "ItemId": 1820,
+        "ParentItemId": 1420,
+        "BaseRevId": 2673,
+        "SourceRevId": 3798,
+        "DestinationRevId": 2673
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/17.0.4/Production Ready Shaders/Weather/SnowExample.shadergraph.meta",
+        "ItemId": 1821,
+        "ParentItemId": 1420,
+        "BaseRevId": 2674,
+        "SourceRevId": 3799,
+        "DestinationRevId": 2674
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common.meta",
+        "ItemId": 1256,
+        "ParentItemId": 1228,
+        "BaseRevId": 2675,
+        "SourceRevId": 3800,
+        "DestinationRevId": 2675
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes.meta",
+        "ItemId": 1283,
+        "ParentItemId": 1254,
+        "BaseRevId": 2676,
+        "SourceRevId": 3801,
+        "DestinationRevId": 2676
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes/Billboard.meta",
+        "ItemId": 1425,
+        "ParentItemId": 1281,
+        "BaseRevId": 2677,
+        "SourceRevId": 3802,
+        "DestinationRevId": 2677
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes/Billboard/NegativeX.FBX.meta",
+        "ItemId": 1823,
+        "ParentItemId": 1423,
+        "BaseRevId": 2678,
+        "SourceRevId": 3803,
+        "DestinationRevId": 2678
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes/Billboard/NegativeY.FBX.meta",
+        "ItemId": 1825,
+        "ParentItemId": 1423,
+        "BaseRevId": 2679,
+        "SourceRevId": 3804,
+        "DestinationRevId": 2679
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes/Billboard/NegativeZ.FBX.meta",
+        "ItemId": 1827,
+        "ParentItemId": 1423,
+        "BaseRevId": 2680,
+        "SourceRevId": 3805,
+        "DestinationRevId": 2680
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes/Billboard/PositiveX.FBX.meta",
+        "ItemId": 1829,
+        "ParentItemId": 1423,
+        "BaseRevId": 2681,
+        "SourceRevId": 3806,
+        "DestinationRevId": 2681
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes/Billboard/PositiveY.FBX.meta",
+        "ItemId": 1831,
+        "ParentItemId": 1423,
+        "BaseRevId": 2682,
+        "SourceRevId": 3807,
+        "DestinationRevId": 2682
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes/Billboard/PositiveZ.FBX.meta",
+        "ItemId": 1833,
+        "ParentItemId": 1423,
+        "BaseRevId": 2683,
+        "SourceRevId": 3808,
+        "DestinationRevId": 2683
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes/flag.fbx.meta",
+        "ItemId": 1427,
+        "ParentItemId": 1281,
+        "BaseRevId": 2684,
+        "SourceRevId": 3809,
+        "DestinationRevId": 2684
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes/grass_bladeNoLOD10.FBX.meta",
+        "ItemId": 1429,
+        "ParentItemId": 1281,
+        "BaseRevId": 2685,
+        "SourceRevId": 3810,
+        "DestinationRevId": 2685
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes/Particles.meta",
+        "ItemId": 1432,
+        "ParentItemId": 1281,
+        "BaseRevId": 2686,
+        "SourceRevId": 3811,
+        "DestinationRevId": 2686
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes/Particles/ParticleStack100.FBX.meta",
+        "ItemId": 1835,
+        "ParentItemId": 1430,
+        "BaseRevId": 2687,
+        "SourceRevId": 3812,
+        "DestinationRevId": 2687
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes/Particles/ParticleStack25.FBX.meta",
+        "ItemId": 1837,
+        "ParentItemId": 1430,
+        "BaseRevId": 2688,
+        "SourceRevId": 3813,
+        "DestinationRevId": 2688
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes/Particles/ParticleStack50.FBX.meta",
+        "ItemId": 1839,
+        "ParentItemId": 1430,
+        "BaseRevId": 2689,
+        "SourceRevId": 3814,
+        "DestinationRevId": 2689
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes/Rock.mat",
+        "ItemId": 1433,
+        "ParentItemId": 1281,
+        "BaseRevId": 2690,
+        "SourceRevId": 3815,
+        "DestinationRevId": 2690
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes/Rock.mat.meta",
+        "ItemId": 1434,
+        "ParentItemId": 1281,
+        "BaseRevId": 2691,
+        "SourceRevId": 3816,
+        "DestinationRevId": 2691
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes/Rock_A_01.fbx.meta",
+        "ItemId": 1436,
+        "ParentItemId": 1281,
+        "BaseRevId": 2692,
+        "SourceRevId": 3817,
+        "DestinationRevId": 2692
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes/Rock_A_01.prefab.meta",
+        "ItemId": 1438,
+        "ParentItemId": 1281,
+        "BaseRevId": 2694,
+        "SourceRevId": 3819,
+        "DestinationRevId": 2694
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes/Rock_A_02.fbx.meta",
+        "ItemId": 1440,
+        "ParentItemId": 1281,
+        "BaseRevId": 2695,
+        "SourceRevId": 3820,
+        "DestinationRevId": 2695
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes/Rock_A_02.prefab.meta",
+        "ItemId": 1442,
+        "ParentItemId": 1281,
+        "BaseRevId": 2697,
+        "SourceRevId": 3822,
+        "DestinationRevId": 2697
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes/Rock_LOD0.mat",
+        "ItemId": 1443,
+        "ParentItemId": 1281,
+        "BaseRevId": 2698,
+        "SourceRevId": 3823,
+        "DestinationRevId": 2698
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes/Rock_LOD0.mat.meta",
+        "ItemId": 1444,
+        "ParentItemId": 1281,
+        "BaseRevId": 2699,
+        "SourceRevId": 3824,
+        "DestinationRevId": 2699
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes/teapot.fbx.meta",
+        "ItemId": 1446,
+        "ParentItemId": 1281,
+        "BaseRevId": 2700,
+        "SourceRevId": 3825,
+        "DestinationRevId": 2700
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Meshes/waterPlane2x2.fbx.meta",
+        "ItemId": 1448,
+        "ParentItemId": 1281,
+        "BaseRevId": 2701,
+        "SourceRevId": 3826,
+        "DestinationRevId": 2701
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Scripts.meta",
+        "ItemId": 1286,
+        "ParentItemId": 1254,
+        "BaseRevId": 2702,
+        "SourceRevId": 3827,
+        "DestinationRevId": 2702
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Scripts/DisableGizmos.cs",
+        "ItemId": 1449,
+        "ParentItemId": 1284,
+        "BaseRevId": 2703,
+        "SourceRevId": 3828,
+        "DestinationRevId": 2703
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Scripts/DisableGizmos.cs.meta",
+        "ItemId": 1450,
+        "ParentItemId": 1284,
+        "BaseRevId": 2704,
+        "SourceRevId": 3829,
+        "DestinationRevId": 2704
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Scripts/Rotate.cs",
+        "ItemId": 1451,
+        "ParentItemId": 1284,
+        "BaseRevId": 2705,
+        "SourceRevId": 3830,
+        "DestinationRevId": 2705
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Scripts/Rotate.cs.meta",
+        "ItemId": 1452,
+        "ParentItemId": 1284,
+        "BaseRevId": 2706,
+        "SourceRevId": 3831,
+        "DestinationRevId": 2706
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Shaders.meta",
+        "ItemId": 1289,
+        "ParentItemId": 1254,
+        "BaseRevId": 2707,
+        "SourceRevId": 3832,
+        "DestinationRevId": 2707
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Shaders/ParticleEffect.shadergraph",
+        "ItemId": 1453,
+        "ParentItemId": 1287,
+        "BaseRevId": 2708,
+        "SourceRevId": 3833,
+        "DestinationRevId": 2708
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Shaders/ParticleEffect.shadergraph.meta",
+        "ItemId": 1454,
+        "ParentItemId": 1287,
+        "BaseRevId": 2709,
+        "SourceRevId": 3834,
+        "DestinationRevId": 2709
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs.meta",
+        "ItemId": 1292,
+        "ParentItemId": 1254,
+        "BaseRevId": 2710,
+        "SourceRevId": 3835,
+        "DestinationRevId": 2710
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/AlphaMerge.shadersubgraph",
+        "ItemId": 1455,
+        "ParentItemId": 1290,
+        "BaseRevId": 2711,
+        "SourceRevId": 3836,
+        "DestinationRevId": 2711
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/AlphaMerge.shadersubgraph.meta",
+        "ItemId": 1456,
+        "ParentItemId": 1290,
+        "BaseRevId": 2712,
+        "SourceRevId": 3837,
+        "DestinationRevId": 2712
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/AlphaSplit.shadersubgraph",
+        "ItemId": 1457,
+        "ParentItemId": 1290,
+        "BaseRevId": 2713,
+        "SourceRevId": 3838,
+        "DestinationRevId": 2713
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/AlphaSplit.shadersubgraph.meta",
+        "ItemId": 1458,
+        "ParentItemId": 1290,
+        "BaseRevId": 2714,
+        "SourceRevId": 3839,
+        "DestinationRevId": 2714
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/AltitudeMask.shadersubgraph",
+        "ItemId": 1459,
+        "ParentItemId": 1290,
+        "BaseRevId": 2715,
+        "SourceRevId": 3840,
+        "DestinationRevId": 2715
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/AltitudeMask.shadersubgraph.meta",
+        "ItemId": 1460,
+        "ParentItemId": 1290,
+        "BaseRevId": 2716,
+        "SourceRevId": 3841,
+        "DestinationRevId": 2716
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/AngleMask.shadersubgraph",
+        "ItemId": 1461,
+        "ParentItemId": 1290,
+        "BaseRevId": 2717,
+        "SourceRevId": 3842,
+        "DestinationRevId": 2717
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/AngleMask.shadersubgraph.meta",
+        "ItemId": 1462,
+        "ParentItemId": 1290,
+        "BaseRevId": 2718,
+        "SourceRevId": 3843,
+        "DestinationRevId": 2718
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/AnimatedGrassPhase.shadersubgraph",
+        "ItemId": 1463,
+        "ParentItemId": 1290,
+        "BaseRevId": 2719,
+        "SourceRevId": 3844,
+        "DestinationRevId": 2719
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/AnimatedGrassPhase.shadersubgraph.meta",
+        "ItemId": 1464,
+        "ParentItemId": 1290,
+        "BaseRevId": 2720,
+        "SourceRevId": 3845,
+        "DestinationRevId": 2720
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/BendDeformer.shadersubgraph",
+        "ItemId": 1465,
+        "ParentItemId": 1290,
+        "BaseRevId": 2721,
+        "SourceRevId": 3846,
+        "DestinationRevId": 2721
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/BendDeformer.shadersubgraph.meta",
+        "ItemId": 1466,
+        "ParentItemId": 1290,
+        "BaseRevId": 2722,
+        "SourceRevId": 3847,
+        "DestinationRevId": 2722
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/Billboard.shadersubgraph",
+        "ItemId": 1467,
+        "ParentItemId": 1290,
+        "BaseRevId": 2723,
+        "SourceRevId": 3848,
+        "DestinationRevId": 2723
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/Billboard.shadersubgraph.meta",
+        "ItemId": 1468,
+        "ParentItemId": 1290,
+        "BaseRevId": 2724,
+        "SourceRevId": 3849,
+        "DestinationRevId": 2724
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/BillboardCylindrical.shadersubgraph",
+        "ItemId": 1469,
+        "ParentItemId": 1290,
+        "BaseRevId": 2725,
+        "SourceRevId": 3850,
+        "DestinationRevId": 2725
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/BillboardCylindrical.shadersubgraph.meta",
+        "ItemId": 1470,
+        "ParentItemId": 1290,
+        "BaseRevId": 2726,
+        "SourceRevId": 3851,
+        "DestinationRevId": 2726
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/BiplanarSample.shadersubgraph",
+        "ItemId": 1471,
+        "ParentItemId": 1290,
+        "BaseRevId": 2727,
+        "SourceRevId": 3852,
+        "DestinationRevId": 2727
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/BiplanarSample.shadersubgraph.meta",
+        "ItemId": 1472,
+        "ParentItemId": 1290,
+        "BaseRevId": 2728,
+        "SourceRevId": 3853,
+        "DestinationRevId": 2728
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/BranchOnRP.shadersubgraph",
+        "ItemId": 1473,
+        "ParentItemId": 1290,
+        "BaseRevId": 2729,
+        "SourceRevId": 3854,
+        "DestinationRevId": 2729
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/BranchOnRP.shadersubgraph.meta",
+        "ItemId": 1474,
+        "ParentItemId": 1290,
+        "BaseRevId": 2730,
+        "SourceRevId": 3855,
+        "DestinationRevId": 2730
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/BrightnessContrast.shadersubgraph",
+        "ItemId": 1475,
+        "ParentItemId": 1290,
+        "BaseRevId": 2731,
+        "SourceRevId": 3856,
+        "DestinationRevId": 2731
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/BrightnessContrast.shadersubgraph.meta",
+        "ItemId": 1476,
+        "ParentItemId": 1290,
+        "BaseRevId": 2732,
+        "SourceRevId": 3857,
+        "DestinationRevId": 2732
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/CameraDistanceMask.shadersubgraph",
+        "ItemId": 1477,
+        "ParentItemId": 1290,
+        "BaseRevId": 2733,
+        "SourceRevId": 3858,
+        "DestinationRevId": 2733
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/CameraDistanceMask.shadersubgraph.meta",
+        "ItemId": 1478,
+        "ParentItemId": 1290,
+        "BaseRevId": 2734,
+        "SourceRevId": 3859,
+        "DestinationRevId": 2734
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/ColorToGrayscale.shadersubgraph",
+        "ItemId": 1479,
+        "ParentItemId": 1290,
+        "BaseRevId": 2735,
+        "SourceRevId": 3860,
+        "DestinationRevId": 2735
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/ColorToGrayscale.shadersubgraph.meta",
+        "ItemId": 1480,
+        "ParentItemId": 1290,
+        "BaseRevId": 2736,
+        "SourceRevId": 3861,
+        "DestinationRevId": 2736
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/CustomLightingPBRAmbient.shadersubgraph",
+        "ItemId": 1481,
+        "ParentItemId": 1290,
+        "BaseRevId": 2737,
+        "SourceRevId": 3862,
+        "DestinationRevId": 2737
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/CustomLightingPBRAmbient.shadersubgraph.meta",
+        "ItemId": 1482,
+        "ParentItemId": 1290,
+        "BaseRevId": 2738,
+        "SourceRevId": 3863,
+        "DestinationRevId": 2738
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/DecalEdgeMask.shadersubgraph",
+        "ItemId": 1483,
+        "ParentItemId": 1290,
+        "BaseRevId": 2739,
+        "SourceRevId": 3864,
+        "DestinationRevId": 2739
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/DecalEdgeMask.shadersubgraph.meta",
+        "ItemId": 1484,
+        "ParentItemId": 1290,
+        "BaseRevId": 2740,
+        "SourceRevId": 3865,
+        "DestinationRevId": 2740
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/DepthFade.shadersubgraph",
+        "ItemId": 1485,
+        "ParentItemId": 1290,
+        "BaseRevId": 2741,
+        "SourceRevId": 3866,
+        "DestinationRevId": 2741
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/DepthFade.shadersubgraph.meta",
+        "ItemId": 1486,
+        "ParentItemId": 1290,
+        "BaseRevId": 2742,
+        "SourceRevId": 3867,
+        "DestinationRevId": 2742
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/DistanceCutoff.shadersubgraph",
+        "ItemId": 1487,
+        "ParentItemId": 1290,
+        "BaseRevId": 2743,
+        "SourceRevId": 3868,
+        "DestinationRevId": 2743
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/DistanceCutoff.shadersubgraph.meta",
+        "ItemId": 1488,
+        "ParentItemId": 1290,
+        "BaseRevId": 2744,
+        "SourceRevId": 3869,
+        "DestinationRevId": 2744
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/DistanceMask.shadersubgraph",
+        "ItemId": 1489,
+        "ParentItemId": 1290,
+        "BaseRevId": 2745,
+        "SourceRevId": 3870,
+        "DestinationRevId": 2745
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/DistanceMask.shadersubgraph.meta",
+        "ItemId": 1490,
+        "ParentItemId": 1290,
+        "BaseRevId": 2746,
+        "SourceRevId": 3871,
+        "DestinationRevId": 2746
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/ExpandVec2.shadersubgraph",
+        "ItemId": 1491,
+        "ParentItemId": 1290,
+        "BaseRevId": 2747,
+        "SourceRevId": 3872,
+        "DestinationRevId": 2747
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/ExpandVec2.shadersubgraph.meta",
+        "ItemId": 1492,
+        "ParentItemId": 1290,
+        "BaseRevId": 2748,
+        "SourceRevId": 3873,
+        "DestinationRevId": 2748
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/ExpandVec4.shadersubgraph",
+        "ItemId": 1493,
+        "ParentItemId": 1290,
+        "BaseRevId": 2749,
+        "SourceRevId": 3874,
+        "DestinationRevId": 2749
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/ExpandVec4.shadersubgraph.meta",
+        "ItemId": 1494,
+        "ParentItemId": 1290,
+        "BaseRevId": 2750,
+        "SourceRevId": 3875,
+        "DestinationRevId": 2750
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/FaceNormal.shadersubgraph",
+        "ItemId": 1495,
+        "ParentItemId": 1290,
+        "BaseRevId": 2751,
+        "SourceRevId": 3876,
+        "DestinationRevId": 2751
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/FaceNormal.shadersubgraph.meta",
+        "ItemId": 1496,
+        "ParentItemId": 1290,
+        "BaseRevId": 2752,
+        "SourceRevId": 3877,
+        "DestinationRevId": 2752
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/FlowMapTime.shadersubgraph",
+        "ItemId": 1497,
+        "ParentItemId": 1290,
+        "BaseRevId": 2753,
+        "SourceRevId": 3878,
+        "DestinationRevId": 2753
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/FlowMapTime.shadersubgraph.meta",
+        "ItemId": 1498,
+        "ParentItemId": 1290,
+        "BaseRevId": 2754,
+        "SourceRevId": 3879,
+        "DestinationRevId": 2754
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/FoliageWind.shadersubgraph",
+        "ItemId": 1499,
+        "ParentItemId": 1290,
+        "BaseRevId": 2755,
+        "SourceRevId": 3880,
+        "DestinationRevId": 2755
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/FoliageWind.shadersubgraph.meta",
+        "ItemId": 1500,
+        "ParentItemId": 1290,
+        "BaseRevId": 2756,
+        "SourceRevId": 3881,
+        "DestinationRevId": 2756
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/GerstnerWave.shadersubgraph",
+        "ItemId": 1501,
+        "ParentItemId": 1290,
+        "BaseRevId": 2757,
+        "SourceRevId": 3882,
+        "DestinationRevId": 2757
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/GerstnerWave.shadersubgraph.meta",
+        "ItemId": 1502,
+        "ParentItemId": 1290,
+        "BaseRevId": 2758,
+        "SourceRevId": 3883,
+        "DestinationRevId": 2758
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/Hash11.shadersubgraph",
+        "ItemId": 1503,
+        "ParentItemId": 1290,
+        "BaseRevId": 2759,
+        "SourceRevId": 3884,
+        "DestinationRevId": 2759
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/Hash11.shadersubgraph.meta",
+        "ItemId": 1504,
+        "ParentItemId": 1290,
+        "BaseRevId": 2760,
+        "SourceRevId": 3885,
+        "DestinationRevId": 2760
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/Hash21.shadersubgraph",
+        "ItemId": 1505,
+        "ParentItemId": 1290,
+        "BaseRevId": 2761,
+        "SourceRevId": 3886,
+        "DestinationRevId": 2761
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/Hash21.shadersubgraph.meta",
+        "ItemId": 1506,
+        "ParentItemId": 1290,
+        "BaseRevId": 2762,
+        "SourceRevId": 3887,
+        "DestinationRevId": 2762
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/Hash23.shadersubgraph",
+        "ItemId": 1507,
+        "ParentItemId": 1290,
+        "BaseRevId": 2763,
+        "SourceRevId": 3888,
+        "DestinationRevId": 2763
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/Hash23.shadersubgraph.meta",
+        "ItemId": 1508,
+        "ParentItemId": 1290,
+        "BaseRevId": 2764,
+        "SourceRevId": 3889,
+        "DestinationRevId": 2764
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/Hash31.shadersubgraph",
+        "ItemId": 1509,
+        "ParentItemId": 1290,
+        "BaseRevId": 2765,
+        "SourceRevId": 3890,
+        "DestinationRevId": 2765
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/Hash31.shadersubgraph.meta",
+        "ItemId": 1510,
+        "ParentItemId": 1290,
+        "BaseRevId": 2766,
+        "SourceRevId": 3891,
+        "DestinationRevId": 2766
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/Hash33.shadersubgraph",
+        "ItemId": 1511,
+        "ParentItemId": 1290,
+        "BaseRevId": 2767,
+        "SourceRevId": 3892,
+        "DestinationRevId": 2767
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/Hash33.shadersubgraph.meta",
+        "ItemId": 1512,
+        "ParentItemId": 1290,
+        "BaseRevId": 2768,
+        "SourceRevId": 3893,
+        "DestinationRevId": 2768
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/HeightMask.shadersubgraph",
+        "ItemId": 1513,
+        "ParentItemId": 1290,
+        "BaseRevId": 2769,
+        "SourceRevId": 3894,
+        "DestinationRevId": 2769
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/HeightMask.shadersubgraph.meta",
+        "ItemId": 1514,
+        "ParentItemId": 1290,
+        "BaseRevId": 2770,
+        "SourceRevId": 3895,
+        "DestinationRevId": 2770
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/HexGrid.shadersubgraph",
+        "ItemId": 1515,
+        "ParentItemId": 1290,
+        "BaseRevId": 2771,
+        "SourceRevId": 3896,
+        "DestinationRevId": 2771
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/HexGrid.shadersubgraph.meta",
+        "ItemId": 1516,
+        "ParentItemId": 1290,
+        "BaseRevId": 2772,
+        "SourceRevId": 3897,
+        "DestinationRevId": 2772
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/Levels.shadersubgraph",
+        "ItemId": 1517,
+        "ParentItemId": 1290,
+        "BaseRevId": 2773,
+        "SourceRevId": 3898,
+        "DestinationRevId": 2773
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/Levels.shadersubgraph.meta",
+        "ItemId": 1518,
+        "ParentItemId": 1290,
+        "BaseRevId": 2774,
+        "SourceRevId": 3899,
+        "DestinationRevId": 2774
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/MainLight.shadersubgraph",
+        "ItemId": 1519,
+        "ParentItemId": 1290,
+        "BaseRevId": 2775,
+        "SourceRevId": 3900,
+        "DestinationRevId": 2775
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/MainLight.shadersubgraph.meta",
+        "ItemId": 1520,
+        "ParentItemId": 1290,
+        "BaseRevId": 2776,
+        "SourceRevId": 3901,
+        "DestinationRevId": 2776
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/MotionChaos.shadersubgraph",
+        "ItemId": 1521,
+        "ParentItemId": 1290,
+        "BaseRevId": 2777,
+        "SourceRevId": 3902,
+        "DestinationRevId": 2777
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/MotionChaos.shadersubgraph.meta",
+        "ItemId": 1522,
+        "ParentItemId": 1290,
+        "BaseRevId": 2778,
+        "SourceRevId": 3903,
+        "DestinationRevId": 2778
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/PixelClip.shadersubgraph",
+        "ItemId": 1523,
+        "ParentItemId": 1290,
+        "BaseRevId": 2779,
+        "SourceRevId": 3904,
+        "DestinationRevId": 2779
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/PixelClip.shadersubgraph.meta",
+        "ItemId": 1524,
+        "ParentItemId": 1290,
+        "BaseRevId": 2780,
+        "SourceRevId": 3905,
+        "DestinationRevId": 2780
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/PseudoSubsurface.hlsl",
+        "ItemId": 1525,
+        "ParentItemId": 1290,
+        "BaseRevId": 2781,
+        "SourceRevId": 3906,
+        "DestinationRevId": 2781
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/PseudoSubsurface.hlsl.meta",
+        "ItemId": 1526,
+        "ParentItemId": 1290,
+        "BaseRevId": 2782,
+        "SourceRevId": 3907,
+        "DestinationRevId": 2782
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/PseudoSubsurface.shadersubgraph",
+        "ItemId": 1527,
+        "ParentItemId": 1290,
+        "BaseRevId": 2783,
+        "SourceRevId": 3908,
+        "DestinationRevId": 2783
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/PseudoSubsurface.shadersubgraph.meta",
+        "ItemId": 1528,
+        "ParentItemId": 1290,
+        "BaseRevId": 2784,
+        "SourceRevId": 3909,
+        "DestinationRevId": 2784
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/RandomFromPosition.shadersubgraph",
+        "ItemId": 1529,
+        "ParentItemId": 1290,
+        "BaseRevId": 2785,
+        "SourceRevId": 3910,
+        "DestinationRevId": 2785
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/RandomFromPosition.shadersubgraph.meta",
+        "ItemId": 1530,
+        "ParentItemId": 1290,
+        "BaseRevId": 2786,
+        "SourceRevId": 3911,
+        "DestinationRevId": 2786
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/SampleReflectionProbes.hlsl",
+        "ItemId": 1531,
+        "ParentItemId": 1290,
+        "BaseRevId": 2787,
+        "SourceRevId": 3912,
+        "DestinationRevId": 2787
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/SampleReflectionProbes.hlsl.meta",
+        "ItemId": 1532,
+        "ParentItemId": 1290,
+        "BaseRevId": 2788,
+        "SourceRevId": 3913,
+        "DestinationRevId": 2788
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/SampleReflectionProbes.shadersubgraph",
+        "ItemId": 1533,
+        "ParentItemId": 1290,
+        "BaseRevId": 2789,
+        "SourceRevId": 3914,
+        "DestinationRevId": 2789
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/SampleReflectionProbes.shadersubgraph.meta",
+        "ItemId": 1534,
+        "ParentItemId": 1290,
+        "BaseRevId": 2790,
+        "SourceRevId": 3915,
+        "DestinationRevId": 2790
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/Switch4.shadersubgraph",
+        "ItemId": 1535,
+        "ParentItemId": 1290,
+        "BaseRevId": 2791,
+        "SourceRevId": 3916,
+        "DestinationRevId": 2791
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/Switch4.shadersubgraph.meta",
+        "ItemId": 1536,
+        "ParentItemId": 1290,
+        "BaseRevId": 2792,
+        "SourceRevId": 3917,
+        "DestinationRevId": 2792
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/Switch6.shadersubgraph",
+        "ItemId": 1537,
+        "ParentItemId": 1290,
+        "BaseRevId": 2793,
+        "SourceRevId": 3918,
+        "DestinationRevId": 2793
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/Switch6.shadersubgraph.meta",
+        "ItemId": 1538,
+        "ParentItemId": 1290,
+        "BaseRevId": 2794,
+        "SourceRevId": 3919,
+        "DestinationRevId": 2794
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/Switch7.shadersubgraph",
+        "ItemId": 1539,
+        "ParentItemId": 1290,
+        "BaseRevId": 2795,
+        "SourceRevId": 3920,
+        "DestinationRevId": 2795
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/Switch7.shadersubgraph.meta",
+        "ItemId": 1540,
+        "ParentItemId": 1290,
+        "BaseRevId": 2796,
+        "SourceRevId": 3921,
+        "DestinationRevId": 2796
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/TriplanarDirectionMasks.shadersubgraph",
+        "ItemId": 1541,
+        "ParentItemId": 1290,
+        "BaseRevId": 2797,
+        "SourceRevId": 3922,
+        "DestinationRevId": 2797
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/TriplanarDirectionMasks.shadersubgraph.meta",
+        "ItemId": 1542,
+        "ParentItemId": 1290,
+        "BaseRevId": 2798,
+        "SourceRevId": 3923,
+        "DestinationRevId": 2798
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/UnpackCSNOH.shadersubgraph",
+        "ItemId": 1543,
+        "ParentItemId": 1290,
+        "BaseRevId": 2799,
+        "SourceRevId": 3924,
+        "DestinationRevId": 2799
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/UnpackCSNOH.shadersubgraph.meta",
+        "ItemId": 1544,
+        "ParentItemId": 1290,
+        "BaseRevId": 2800,
+        "SourceRevId": 3925,
+        "DestinationRevId": 2800
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/UnpackDetailNOS.shadersubgraph",
+        "ItemId": 1545,
+        "ParentItemId": 1290,
+        "BaseRevId": 2801,
+        "SourceRevId": 3926,
+        "DestinationRevId": 2801
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/UnpackDetailNOS.shadersubgraph.meta",
+        "ItemId": 1546,
+        "ParentItemId": 1290,
+        "BaseRevId": 2802,
+        "SourceRevId": 3927,
+        "DestinationRevId": 2802
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/UVFlowMap.shadersubgraph",
+        "ItemId": 1547,
+        "ParentItemId": 1290,
+        "BaseRevId": 2803,
+        "SourceRevId": 3928,
+        "DestinationRevId": 2803
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/UVFlowMap.shadersubgraph.meta",
+        "ItemId": 1548,
+        "ParentItemId": 1290,
+        "BaseRevId": 2804,
+        "SourceRevId": 3929,
+        "DestinationRevId": 2804
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/UVInteriorCubemap.shadersubgraph",
+        "ItemId": 1549,
+        "ParentItemId": 1290,
+        "BaseRevId": 2805,
+        "SourceRevId": 3930,
+        "DestinationRevId": 2805
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/UVInteriorCubemap.shadersubgraph.meta",
+        "ItemId": 1550,
+        "ParentItemId": 1290,
+        "BaseRevId": 2806,
+        "SourceRevId": 3931,
+        "DestinationRevId": 2806
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/UVLatLong.shadersubgraph",
+        "ItemId": 1551,
+        "ParentItemId": 1290,
+        "BaseRevId": 2807,
+        "SourceRevId": 3932,
+        "DestinationRevId": 2807
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/UVLatLong.shadersubgraph.meta",
+        "ItemId": 1552,
+        "ParentItemId": 1290,
+        "BaseRevId": 2808,
+        "SourceRevId": 3933,
+        "DestinationRevId": 2808
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/UVSphereMap.shadersubgraph",
+        "ItemId": 1553,
+        "ParentItemId": 1290,
+        "BaseRevId": 2809,
+        "SourceRevId": 3934,
+        "DestinationRevId": 2809
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/UVSphereMap.shadersubgraph.meta",
+        "ItemId": 1554,
+        "ParentItemId": 1290,
+        "BaseRevId": 2810,
+        "SourceRevId": 3935,
+        "DestinationRevId": 2810
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/UVTriplanar.shadersubgraph",
+        "ItemId": 1555,
+        "ParentItemId": 1290,
+        "BaseRevId": 2811,
+        "SourceRevId": 3936,
+        "DestinationRevId": 2811
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/UVTriplanar.shadersubgraph.meta",
+        "ItemId": 1556,
+        "ParentItemId": 1290,
+        "BaseRevId": 2812,
+        "SourceRevId": 3937,
+        "DestinationRevId": 2812
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/UVTriplanarNormalTransform.shadersubgraph",
+        "ItemId": 1557,
+        "ParentItemId": 1290,
+        "BaseRevId": 2813,
+        "SourceRevId": 3938,
+        "DestinationRevId": 2813
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/UVTriplanarNormalTransform.shadersubgraph.meta",
+        "ItemId": 1558,
+        "ParentItemId": 1290,
+        "BaseRevId": 2814,
+        "SourceRevId": 3939,
+        "DestinationRevId": 2814
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/Wind.shadersubgraph",
+        "ItemId": 1559,
+        "ParentItemId": 1290,
+        "BaseRevId": 2815,
+        "SourceRevId": 3940,
+        "DestinationRevId": 2815
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Subgraphs/Wind.shadersubgraph.meta",
+        "ItemId": 1560,
+        "ParentItemId": 1290,
+        "BaseRevId": 2816,
+        "SourceRevId": 3941,
+        "DestinationRevId": 2816
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures.meta",
+        "ItemId": 1295,
+        "ParentItemId": 1254,
+        "BaseRevId": 2817,
+        "SourceRevId": 3942,
+        "DestinationRevId": 2817
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/cloud.png.meta",
+        "ItemId": 1562,
+        "ParentItemId": 1293,
+        "BaseRevId": 2818,
+        "SourceRevId": 3943,
+        "DestinationRevId": 2818
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/Cloud04_8x8.png.meta",
+        "ItemId": 1564,
+        "ParentItemId": 1293,
+        "BaseRevId": 2819,
+        "SourceRevId": 3944,
+        "DestinationRevId": 2819
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/cobblestones_d.png.meta",
+        "ItemId": 1566,
+        "ParentItemId": 1293,
+        "BaseRevId": 2820,
+        "SourceRevId": 3945,
+        "DestinationRevId": 2820
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/cobblestones_detail.png.meta",
+        "ItemId": 1568,
+        "ParentItemId": 1293,
+        "BaseRevId": 2821,
+        "SourceRevId": 3946,
+        "DestinationRevId": 2821
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/cobblestones_e.png.meta",
+        "ItemId": 1570,
+        "ParentItemId": 1293,
+        "BaseRevId": 2822,
+        "SourceRevId": 3947,
+        "DestinationRevId": 2822
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/cobblestones_h1.png.meta",
+        "ItemId": 1572,
+        "ParentItemId": 1293,
+        "BaseRevId": 2823,
+        "SourceRevId": 3948,
+        "DestinationRevId": 2823
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/cobblestones_mohs.png.meta",
+        "ItemId": 1574,
+        "ParentItemId": 1293,
+        "BaseRevId": 2824,
+        "SourceRevId": 3949,
+        "DestinationRevId": 2824
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/cobblestones_n.png.meta",
+        "ItemId": 1576,
+        "ParentItemId": 1293,
+        "BaseRevId": 2825,
+        "SourceRevId": 3950,
+        "DestinationRevId": 2825
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/Explosion02_5x5.png.meta",
+        "ItemId": 1578,
+        "ParentItemId": 1293,
+        "BaseRevId": 2826,
+        "SourceRevId": 3951,
+        "DestinationRevId": 2826
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/FlipbookTest.png.meta",
+        "ItemId": 1580,
+        "ParentItemId": 1293,
+        "BaseRevId": 2827,
+        "SourceRevId": 3952,
+        "DestinationRevId": 2827
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/flowmap.png.meta",
+        "ItemId": 1582,
+        "ParentItemId": 1293,
+        "BaseRevId": 2828,
+        "SourceRevId": 3953,
+        "DestinationRevId": 2828
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/interior_cube_sample.png.meta",
+        "ItemId": 1584,
+        "ParentItemId": 1293,
+        "BaseRevId": 2829,
+        "SourceRevId": 3954,
+        "DestinationRevId": 2829
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/matcap_example2.png.meta",
+        "ItemId": 1586,
+        "ParentItemId": 1293,
+        "BaseRevId": 2830,
+        "SourceRevId": 3955,
+        "DestinationRevId": 2830
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/MipChecker.dds.meta",
+        "ItemId": 1588,
+        "ParentItemId": 1293,
+        "BaseRevId": 2831,
+        "SourceRevId": 3956,
+        "DestinationRevId": 2831
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/Moss_CO.png.meta",
+        "ItemId": 1590,
+        "ParentItemId": 1293,
+        "BaseRevId": 2832,
+        "SourceRevId": 3957,
+        "DestinationRevId": 2832
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/Moss_N.png.meta",
+        "ItemId": 1592,
+        "ParentItemId": 1293,
+        "BaseRevId": 2833,
+        "SourceRevId": 3958,
+        "DestinationRevId": 2833
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/Rock_A_CS.png.meta",
+        "ItemId": 1594,
+        "ParentItemId": 1293,
+        "BaseRevId": 2834,
+        "SourceRevId": 3959,
+        "DestinationRevId": 2834
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/Rock_A_NO.png.meta",
+        "ItemId": 1596,
+        "ParentItemId": 1293,
+        "BaseRevId": 2835,
+        "SourceRevId": 3960,
+        "DestinationRevId": 2835
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/Rock_Macro_NOS.png.meta",
+        "ItemId": 1598,
+        "ParentItemId": 1293,
+        "BaseRevId": 2836,
+        "SourceRevId": 3961,
+        "DestinationRevId": 2836
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/Rock_Micro_NOS.png.meta",
+        "ItemId": 1600,
+        "ParentItemId": 1293,
+        "BaseRevId": 2837,
+        "SourceRevId": 3962,
+        "DestinationRevId": 2837
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/Rock_Projection_01.png.meta",
+        "ItemId": 1602,
+        "ParentItemId": 1293,
+        "BaseRevId": 2838,
+        "SourceRevId": 3963,
+        "DestinationRevId": 2838
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/SmallNoiseMask.tga.meta",
+        "ItemId": 1604,
+        "ParentItemId": 1293,
+        "BaseRevId": 2839,
+        "SourceRevId": 3964,
+        "DestinationRevId": 2839
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/SoftNoise.tga.meta",
+        "ItemId": 1606,
+        "ParentItemId": 1293,
+        "BaseRevId": 2840,
+        "SourceRevId": 3965,
+        "DestinationRevId": 2840
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/sunset_sky_02.png.meta",
+        "ItemId": 1608,
+        "ParentItemId": 1293,
+        "BaseRevId": 2841,
+        "SourceRevId": 3966,
+        "DestinationRevId": 2841
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain.meta",
+        "ItemId": 1611,
+        "ParentItemId": 1293,
+        "BaseRevId": 2842,
+        "SourceRevId": 3967,
+        "DestinationRevId": 2842
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/dry_soil.meta",
+        "ItemId": 1842,
+        "ParentItemId": 1609,
+        "BaseRevId": 2843,
+        "SourceRevId": 3968,
+        "DestinationRevId": 2843
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/dry_soil/dry_soil.terrainlayer",
+        "ItemId": 2011,
+        "ParentItemId": 1840,
+        "BaseRevId": 2844,
+        "SourceRevId": 3969,
+        "DestinationRevId": 2844
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/dry_soil/dry_soil.terrainlayer.meta",
+        "ItemId": 2012,
+        "ParentItemId": 1840,
+        "BaseRevId": 2845,
+        "SourceRevId": 3970,
+        "DestinationRevId": 2845
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/dry_soil/dry_soil_c.png.meta",
+        "ItemId": 2014,
+        "ParentItemId": 1840,
+        "BaseRevId": 2846,
+        "SourceRevId": 3971,
+        "DestinationRevId": 2846
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/dry_soil/dry_soil_m.png.meta",
+        "ItemId": 2016,
+        "ParentItemId": 1840,
+        "BaseRevId": 2847,
+        "SourceRevId": 3972,
+        "DestinationRevId": 2847
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/dry_soil/dry_soil_n.png.meta",
+        "ItemId": 2018,
+        "ParentItemId": 1840,
+        "BaseRevId": 2848,
+        "SourceRevId": 3973,
+        "DestinationRevId": 2848
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/ground_grass_fells_mossy.meta",
+        "ItemId": 1845,
+        "ParentItemId": 1609,
+        "BaseRevId": 2849,
+        "SourceRevId": 3974,
+        "DestinationRevId": 2849
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/ground_grass_fells_mossy/ground_grass_fells_mossy.terrainlayer",
+        "ItemId": 2019,
+        "ParentItemId": 1843,
+        "BaseRevId": 2850,
+        "SourceRevId": 3975,
+        "DestinationRevId": 2850
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/ground_grass_fells_mossy/ground_grass_fells_mossy.terrainlayer.meta",
+        "ItemId": 2020,
+        "ParentItemId": 1843,
+        "BaseRevId": 2851,
+        "SourceRevId": 3976,
+        "DestinationRevId": 2851
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/ground_grass_fells_mossy/ground_grass_fells_mossy_c.png.meta",
+        "ItemId": 2022,
+        "ParentItemId": 1843,
+        "BaseRevId": 2852,
+        "SourceRevId": 3977,
+        "DestinationRevId": 2852
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/ground_grass_fells_mossy/ground_grass_fells_mossy_m.png.meta",
+        "ItemId": 2024,
+        "ParentItemId": 1843,
+        "BaseRevId": 2853,
+        "SourceRevId": 3978,
+        "DestinationRevId": 2853
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/ground_grass_fells_mossy/ground_grass_fells_mossy_n.png.meta",
+        "ItemId": 2026,
+        "ParentItemId": 1843,
+        "BaseRevId": 2854,
+        "SourceRevId": 3979,
+        "DestinationRevId": 2854
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/ground_rockgrass_fellsdirty.meta",
+        "ItemId": 1848,
+        "ParentItemId": 1609,
+        "BaseRevId": 2855,
+        "SourceRevId": 3980,
+        "DestinationRevId": 2855
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/ground_rockgrass_fellsdirty/ground_rockgrass_fellsdirty.terrainlayer",
+        "ItemId": 2027,
+        "ParentItemId": 1846,
+        "BaseRevId": 2856,
+        "SourceRevId": 3981,
+        "DestinationRevId": 2856
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/ground_rockgrass_fellsdirty/ground_rockgrass_fellsdirty.terrainlayer.meta",
+        "ItemId": 2028,
+        "ParentItemId": 1846,
+        "BaseRevId": 2857,
+        "SourceRevId": 3982,
+        "DestinationRevId": 2857
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/ground_rockgrass_fellsdirty/ground_rockgrass_fellsdirty_c.png.meta",
+        "ItemId": 2030,
+        "ParentItemId": 1846,
+        "BaseRevId": 2858,
+        "SourceRevId": 3983,
+        "DestinationRevId": 2858
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/ground_rockgrass_fellsdirty/ground_rockgrass_fellsdirty_m.png.meta",
+        "ItemId": 2032,
+        "ParentItemId": 1846,
+        "BaseRevId": 2859,
+        "SourceRevId": 3984,
+        "DestinationRevId": 2859
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/ground_rockgrass_fellsdirty/ground_rockgrass_fellsdirty_n.png.meta",
+        "ItemId": 2034,
+        "ParentItemId": 1846,
+        "BaseRevId": 2860,
+        "SourceRevId": 3985,
+        "DestinationRevId": 2860
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/stone_ground.meta",
+        "ItemId": 1851,
+        "ParentItemId": 1609,
+        "BaseRevId": 2861,
+        "SourceRevId": 3986,
+        "DestinationRevId": 2861
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/stone_ground/stone_ground.terrainlayer",
+        "ItemId": 2035,
+        "ParentItemId": 1849,
+        "BaseRevId": 2862,
+        "SourceRevId": 3987,
+        "DestinationRevId": 2862
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/stone_ground/stone_ground.terrainlayer.meta",
+        "ItemId": 2036,
+        "ParentItemId": 1849,
+        "BaseRevId": 2863,
+        "SourceRevId": 3988,
+        "DestinationRevId": 2863
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/stone_ground/stone_ground_c.png.meta",
+        "ItemId": 2038,
+        "ParentItemId": 1849,
+        "BaseRevId": 2864,
+        "SourceRevId": 3989,
+        "DestinationRevId": 2864
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/stone_ground/stone_ground_m.png.meta",
+        "ItemId": 2040,
+        "ParentItemId": 1849,
+        "BaseRevId": 2865,
+        "SourceRevId": 3990,
+        "DestinationRevId": 2865
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/terrain/stone_ground/stone_ground_n.png.meta",
+        "ItemId": 2042,
+        "ParentItemId": 1849,
+        "BaseRevId": 2866,
+        "SourceRevId": 3991,
+        "DestinationRevId": 2866
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/test_texture.png.meta",
+        "ItemId": 1613,
+        "ParentItemId": 1293,
+        "BaseRevId": 2867,
+        "SourceRevId": 3992,
+        "DestinationRevId": 2867
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/water_churn_8x4.png.meta",
+        "ItemId": 1615,
+        "ParentItemId": 1293,
+        "BaseRevId": 2868,
+        "SourceRevId": 3993,
+        "DestinationRevId": 2868
+      },
+      {
+        "Path": "/Assets/Samples/Shader Graph/Common/Textures/windows_d.png.meta",
+        "ItemId": 1617,
+        "ParentItemId": 1293,
+        "BaseRevId": 2869,
+        "SourceRevId": 3994,
+        "DestinationRevId": 2869
+      },
+      {
+        "Path": "/Assets/Samples.meta",
+        "ItemId": 1152,
+        "ParentItemId": 198,
+        "BaseRevId": 2187,
+        "SourceRevId": 3312,
+        "DestinationRevId": 2187
+      },
+      {
+        "Path": "/Assets/SceneTemplateAssets/Common.meta",
+        "ItemId": 1237,
+        "ParentItemId": 1154,
+        "BaseRevId": 2874,
+        "SourceRevId": 4169,
+        "DestinationRevId": 2874
+      },
+      {
+        "Path": "/Assets/SceneTemplateAssets/Common/Models.meta",
+        "ItemId": 1259,
+        "ParentItemId": 1235,
+        "BaseRevId": 2875,
+        "SourceRevId": 4170,
+        "DestinationRevId": 2875
+      },
+      {
+        "Path": "/Assets/SceneTemplateAssets/Common/Models/UnityMaterialBall.fbx.meta",
+        "ItemId": 1297,
+        "ParentItemId": 1257,
+        "BaseRevId": 2876,
+        "SourceRevId": 4171,
+        "DestinationRevId": 2876
+      },
+      {
+        "Path": "/Assets/SceneTemplateAssets.meta",
+        "ItemId": 1156,
+        "ParentItemId": 198,
+        "BaseRevId": 2873,
+        "SourceRevId": 4168,
+        "DestinationRevId": 2873
+      },
+      {
+        "Path": "/Assets/Scripts/MeshGeneratorV2.cs",
+        "ItemId": 1238,
+        "ParentItemId": 1157,
+        "BaseRevId": 2878,
+        "SourceRevId": 4173,
+        "DestinationRevId": 2878
+      },
+      {
+        "Path": "/Assets/Scripts/MeshGeneratorV2.cs.meta",
+        "ItemId": 1239,
+        "ParentItemId": 1157,
+        "BaseRevId": 2879,
+        "SourceRevId": 4174,
+        "DestinationRevId": 2879
+      },
+      {
+        "Path": "/Assets/Scripts/MeshMat.mat",
+        "ItemId": 1240,
+        "ParentItemId": 1157,
+        "BaseRevId": 2880,
+        "SourceRevId": 4175,
+        "DestinationRevId": 2880
+      },
+      {
+        "Path": "/Assets/Scripts/MeshMat.mat.meta",
+        "ItemId": 1241,
+        "ParentItemId": 1157,
+        "BaseRevId": 2881,
+        "SourceRevId": 4176,
+        "DestinationRevId": 2881
+      },
+      {
+        "Path": "/Assets/Scripts/Objects.cs",
+        "ItemId": 1244,
+        "ParentItemId": 1157,
+        "BaseRevId": 2882,
+        "SourceRevId": 4177,
+        "DestinationRevId": 2882
+      },
+      {
+        "Path": "/Assets/Scripts/Objects.cs.meta",
+        "ItemId": 1245,
+        "ParentItemId": 1157,
+        "BaseRevId": 2883,
+        "SourceRevId": 4178,
+        "DestinationRevId": 2883
+      },
+      {
+        "Path": "/Assets/Scripts/TerrainShader.shadergraph",
+        "ItemId": 1246,
+        "ParentItemId": 1157,
+        "BaseRevId": 2884,
+        "SourceRevId": 4179,
+        "DestinationRevId": 2884
+      },
+      {
+        "Path": "/Assets/Scripts/TerrainShader.shadergraph.meta",
+        "ItemId": 1247,
+        "ParentItemId": 1157,
+        "BaseRevId": 2885,
+        "SourceRevId": 4180,
+        "DestinationRevId": 2885
+      },
+      {
+        "Path": "/Assets/Scripts.meta",
+        "ItemId": 1159,
+        "ParentItemId": 198,
+        "BaseRevId": 2877,
+        "SourceRevId": 4172,
+        "DestinationRevId": 2877
+      },
+      {
+        "Path": "/Assets/TerrainData_0385c389-c1b0-4d8b-b353-3c9788fd23d1.asset.meta",
+        "ItemId": 1161,
+        "ParentItemId": 198,
+        "BaseRevId": 2887,
+        "SourceRevId": 4181,
+        "DestinationRevId": 2887
+      },
+      {
+        "Path": "/Assets/TerrainData_0393eae9-0d81-4596-8109-cac0edd5b8fa.asset.meta",
+        "ItemId": 1163,
+        "ParentItemId": 198,
+        "BaseRevId": 2888,
+        "SourceRevId": 4182,
+        "DestinationRevId": 2888
+      },
+      {
+        "Path": "/Assets/TerrainData_05d24a78-5f9b-4533-bc18-aee37d83d406.asset.meta",
+        "ItemId": 1165,
+        "ParentItemId": 198,
+        "BaseRevId": 2889,
+        "SourceRevId": 4183,
+        "DestinationRevId": 2889
+      },
+      {
+        "Path": "/Assets/TerrainData_0c54ae7b-b50d-4d1f-a989-ad45409ad573.asset.meta",
+        "ItemId": 1167,
+        "ParentItemId": 198,
+        "BaseRevId": 2890,
+        "SourceRevId": 4184,
+        "DestinationRevId": 2890
+      },
+      {
+        "Path": "/Assets/TerrainData_0d4d4b11-9d2e-4f42-932b-79fa48f4a611.asset.meta",
+        "ItemId": 1169,
+        "ParentItemId": 198,
+        "BaseRevId": 2891,
+        "SourceRevId": 4185,
+        "DestinationRevId": 2891
+      },
+      {
+        "Path": "/Assets/TerrainData_2d8cf689-30ee-47a8-8b15-660b67c3f633.asset.meta",
+        "ItemId": 1171,
+        "ParentItemId": 198,
+        "BaseRevId": 2892,
+        "SourceRevId": 4186,
+        "DestinationRevId": 2892
+      },
+      {
+        "Path": "/Assets/TerrainData_300fc7d2-0148-49be-9a80-90974a184934.asset.meta",
+        "ItemId": 1173,
+        "ParentItemId": 198,
+        "BaseRevId": 2893,
+        "SourceRevId": 4187,
+        "DestinationRevId": 2893
+      },
+      {
+        "Path": "/Assets/TerrainData_31b3b1a4-efe9-436f-8e8e-bbdd38ccbacc.asset.meta",
+        "ItemId": 1175,
+        "ParentItemId": 198,
+        "BaseRevId": 2894,
+        "SourceRevId": 4188,
+        "DestinationRevId": 2894
+      },
+      {
+        "Path": "/Assets/TerrainData_4545ff82-868c-442e-b8fd-d07fb5fe072f.asset.meta",
+        "ItemId": 1177,
+        "ParentItemId": 198,
+        "BaseRevId": 2895,
+        "SourceRevId": 4189,
+        "DestinationRevId": 2895
+      },
+      {
+        "Path": "/Assets/TerrainData_4a6ec7dc-6b8a-4a53-8eaa-1d89d00beb31.asset.meta",
+        "ItemId": 1179,
+        "ParentItemId": 198,
+        "BaseRevId": 2896,
+        "SourceRevId": 4190,
+        "DestinationRevId": 2896
+      },
+      {
+        "Path": "/Assets/TerrainData_4b0197c1-3def-492f-a67c-380e30a42c16.asset.meta",
+        "ItemId": 1181,
+        "ParentItemId": 198,
+        "BaseRevId": 2897,
+        "SourceRevId": 4191,
+        "DestinationRevId": 2897
+      },
+      {
+        "Path": "/Assets/TerrainData_596fae51-7e10-4694-80a4-ed815971c806.asset.meta",
+        "ItemId": 1183,
+        "ParentItemId": 198,
+        "BaseRevId": 2898,
+        "SourceRevId": 4192,
+        "DestinationRevId": 2898
+      },
+      {
+        "Path": "/Assets/TerrainData_655bfbfc-999b-4c82-bcbe-81d8a95299d6.asset.meta",
+        "ItemId": 1185,
+        "ParentItemId": 198,
+        "BaseRevId": 2899,
+        "SourceRevId": 4193,
+        "DestinationRevId": 2899
+      },
+      {
+        "Path": "/Assets/TerrainData_660435de-6cdf-40c7-8768-49a02c4a786b.asset.meta",
+        "ItemId": 1187,
+        "ParentItemId": 198,
+        "BaseRevId": 2900,
+        "SourceRevId": 4194,
+        "DestinationRevId": 2900
+      },
+      {
+        "Path": "/Assets/TerrainData_6d8c8839-2e47-47c0-9ebb-33b7665a7e68.asset.meta",
+        "ItemId": 1189,
+        "ParentItemId": 198,
+        "BaseRevId": 2901,
+        "SourceRevId": 4195,
+        "DestinationRevId": 2901
+      },
+      {
+        "Path": "/Assets/TerrainData_70694373-7b26-4e74-9194-4ca8b855a59e.asset.meta",
+        "ItemId": 1191,
+        "ParentItemId": 198,
+        "BaseRevId": 2902,
+        "SourceRevId": 4196,
+        "DestinationRevId": 2902
+      },
+      {
+        "Path": "/Assets/TerrainData_911a2971-0e5e-419d-899b-f9d6b8dcc6b9.asset.meta",
+        "ItemId": 1193,
+        "ParentItemId": 198,
+        "BaseRevId": 2903,
+        "SourceRevId": 4197,
+        "DestinationRevId": 2903
+      },
+      {
+        "Path": "/Assets/TerrainData_b8f30c79-cec3-4f71-911c-ba184f060963.asset.meta",
+        "ItemId": 1195,
+        "ParentItemId": 198,
+        "BaseRevId": 2904,
+        "SourceRevId": 4198,
+        "DestinationRevId": 2904
+      },
+      {
+        "Path": "/Assets/TerrainData_ba64f822-0447-4093-805f-bd5a1b42f331.asset.meta",
+        "ItemId": 1197,
+        "ParentItemId": 198,
+        "BaseRevId": 2905,
+        "SourceRevId": 4199,
+        "DestinationRevId": 2905
+      },
+      {
+        "Path": "/Assets/TerrainData_c81575c2-328f-414c-aa51-0553a1ae2e56.asset.meta",
+        "ItemId": 1199,
+        "ParentItemId": 198,
+        "BaseRevId": 2906,
+        "SourceRevId": 4200,
+        "DestinationRevId": 2906
+      },
+      {
+        "Path": "/Assets/TerrainData_d2825789-350f-4dbe-926f-fc666802076b.asset.meta",
+        "ItemId": 1201,
+        "ParentItemId": 198,
+        "BaseRevId": 2907,
+        "SourceRevId": 4201,
+        "DestinationRevId": 2907
+      },
+      {
+        "Path": "/Assets/TerrainData_d54165ff-cc76-4cff-a637-80dd29a2b113.asset.meta",
+        "ItemId": 1203,
+        "ParentItemId": 198,
+        "BaseRevId": 2908,
+        "SourceRevId": 4202,
+        "DestinationRevId": 2908
+      },
+      {
+        "Path": "/Assets/TerrainData_d9ee2b42-a415-44ff-82cc-3deda20a0702.asset.meta",
+        "ItemId": 1205,
+        "ParentItemId": 198,
+        "BaseRevId": 2909,
+        "SourceRevId": 4203,
+        "DestinationRevId": 2909
+      },
+      {
+        "Path": "/Assets/TerrainData_ee6e8ef1-bca6-42bc-83c5-acb9ad906562.asset.meta",
+        "ItemId": 1207,
+        "ParentItemId": 198,
+        "BaseRevId": 2910,
+        "SourceRevId": 4204,
+        "DestinationRevId": 2910
+      },
+      {
+        "Path": "/Assets/Scenes/Untitled 1.obj.meta",
+        "ItemId": 1232,
+        "ParentItemId": 204,
+        "BaseRevId": 2870,
+        "SourceRevId": 4167,
+        "DestinationRevId": 2870
+      },
+      {
+        "Path": "/Assets/Scenes/Vietnam.unity.meta",
+        "ItemId": 1234,
+        "ParentItemId": 204,
+        "BaseRevId": 2872,
+        "SourceRevId": 4166,
+        "DestinationRevId": 2872
+      }
+    ]
+  }
+]

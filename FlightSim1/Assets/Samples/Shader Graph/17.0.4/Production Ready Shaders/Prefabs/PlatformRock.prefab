@@ -196,12 +196,12 @@ MonoBehaviour:
     performance, the shader has an LOD0 boolean parameter exposed to the material.
     For materials applied to LOD0 of your rocks, this should be true.  For materials
     applied to the other LODs, this boolean should be false. This feature turns off
-    extra features that are only visible when the rock is close so that non-LOD0
-    versions of your rocks render faster.\n\r\nAdditionally, this shader branches
-    using the Material Quality built-in keyword. This means that the shader is set
-    up to create a low quality, medium quality, and high quality version depending
-    on project settings. Features will be turned on and off, or different variations
-    of features will be used depending on the project\u2019s Material Quality setting.\r\n"
+    extra features that are only visible when the rock is close so that non-LOD0 versions
+    of your rocks render faster.\n\r\nAdditionally, this shader branches using the
+    Material Quality built-in keyword. This means that the shader is set up to create
+    a low quality, medium quality, and high quality version depending on project settings.
+    Features will be turned on and off, or different variations of features will be
+    used depending on the project\u2019s Material Quality setting.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2f7116f10747a67409388e93052ae222, type: 2}
   m_sharedMaterial: {fileID: -6055507529455485361, guid: 2f7116f10747a67409388e93052ae222, type: 2}
@@ -1574,7 +1574,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3580610915091520067, guid: 217c64a5792b3cd45bbca2d0a6a3e16c, type: 3}
       propertyPath: m_text
-      value: "The Micro Detail module adds small-scale details to the  base material. 
+      value: "The Micro Detail module adds small-scale details to the  base material.
         Up close, the base textures look blurry or blocky. The Micro Detail solves
         this by adding high res micro detail to the surface.\r\n\rThis feature references
         Rock_Micro_NOS, or you can create your own.  The texture format is as follows:\r\n\r\nRG:
@@ -1741,16 +1741,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2759006676346111776, guid: 6c40ad478ff0e5a4c91d0b78f29e80e2, type: 3}
       propertyPath: m_text
-      value: "This is a modular rock shader that can be used for everything from
-        small pebbles to boulders up to large cliff faces. It has features that can
-        be turned on and off depending on the application. Each feature is encapsulated
-        in a subgraph so it\u2019s easy to remove features you don\u2019t need. 
-        You can also add new features in the chain of modules if you need something
-        else. \n\r\nTo help with performance, the shader has an LOD0 boolean parameter
-        exposed to the material. For materials applied to LOD0 of your rocks, this
-        should be true.  For materials applied to the other LODs, this boolean should
-        be false. This feature turns off extra features that are only visible when
-        the rock is close so that non-LOD0 versions of your rocks render faster.\n\r\nAdditionally,
+      value: "This is a modular rock shader that can be used for everything from small
+        pebbles to boulders up to large cliff faces. It has features that can be turned
+        on and off depending on the application. Each feature is encapsulated in a
+        subgraph so it\u2019s easy to remove features you don\u2019t need. You can
+        also add new features in the chain of modules if you need something else.
+        \n\r\nTo help with performance, the shader has an LOD0 boolean parameter exposed
+        to the material. For materials applied to LOD0 of your rocks, this should
+        be true.  For materials applied to the other LODs, this boolean should be
+        false. This feature turns off extra features that are only visible when the
+        rock is close so that non-LOD0 versions of your rocks render faster.\n\r\nAdditionally,
         this shader branches using the Material Quality built-in keyword. This means
         that the shader is set up to create a low quality, medium quality, and high
         quality version depending on project settings. Features will be turned on
@@ -1839,23 +1839,23 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2300002, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 1309c8fb36c7db54bb4ca21fe933b1ca, type: 2}
     - target: {fileID: 2300004, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 1309c8fb36c7db54bb4ca21fe933b1ca, type: 2}
     - target: {fileID: 2300006, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 1309c8fb36c7db54bb4ca21fe933b1ca, type: 2}
     - target: {fileID: 2300008, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 1309c8fb36c7db54bb4ca21fe933b1ca, type: 2}
     - target: {fileID: 2300010, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 1309c8fb36c7db54bb4ca21fe933b1ca, type: 2}
     m_RemovedComponents: []
@@ -1893,9 +1893,8 @@ PrefabInstance:
       value: "For large rocks, Macro Detail adds large-scale detail to the base material.
         For rocks smaller than 1 meter cubed, this feature should be turned off.\r\n\rThis
         feature references Rock_Macro_NOS, or you can create your own.  The texture
-        format is as follows:\r\n\r\nRG: normal XY\r\nB: ambient occlusion\r\nA:
-        smoothness/color overlay\r\n\r\nUse Default 2D format with Compression set
-        to High Quality.\r\n"
+        format is as follows:\r\n\r\nRG: normal XY\r\nB: ambient occlusion\r\nA: smoothness/color
+        overlay\r\n\r\nUse Default 2D format with Compression set to High Quality.\r\n"
       objectReference: {fileID: 0}
     - target: {fileID: 4995077095936682008, guid: 217c64a5792b3cd45bbca2d0a6a3e16c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2180,23 +2179,23 @@ PrefabInstance:
       value: 93.235
       objectReference: {fileID: 0}
     - target: {fileID: 2300002, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: d1f0f9a545ad0984abc81d7437be5d55, type: 2}
     - target: {fileID: 2300004, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: f199ead0874998f4ca39e4847be159f4, type: 2}
     - target: {fileID: 2300006, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: f199ead0874998f4ca39e4847be159f4, type: 2}
     - target: {fileID: 2300008, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: f199ead0874998f4ca39e4847be159f4, type: 2}
     - target: {fileID: 2300010, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: f199ead0874998f4ca39e4847be159f4, type: 2}
     m_RemovedComponents: []
@@ -2234,11 +2233,10 @@ PrefabInstance:
       value: "For large boulders, you can add colored effects to the rocks such as
         bleaching with the Color Projection module. It projects color alterations
         using world space. If your rock formation is made up of multiple rocks, the
-        color projection will tie them together and make them feel more cohesive
-        - as if they\u2019re one unified formation rather than just a collection
-        of jammed-together rocks.\r\n\r\nThis effect uses 5 texture samples, so if
-        you don\u2019t need it, you should turn it off in the material to improve
-        performance.\r\n"
+        color projection will tie them together and make them feel more cohesive -
+        as if they\u2019re one unified formation rather than just a collection of
+        jammed-together rocks.\r\n\r\nThis effect uses 5 texture samples, so if you
+        don\u2019t need it, you should turn it off in the material to improve performance.\r\n"
       objectReference: {fileID: 0}
     - target: {fileID: 4995077095936682008, guid: 217c64a5792b3cd45bbca2d0a6a3e16c, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -2623,23 +2621,23 @@ PrefabInstance:
       value: 93.235
       objectReference: {fileID: 0}
     - target: {fileID: 2300002, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: bfd8dbfa18f37834c917a1348779823c, type: 2}
     - target: {fileID: 2300004, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: bfd8dbfa18f37834c917a1348779823c, type: 2}
     - target: {fileID: 2300006, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: bfd8dbfa18f37834c917a1348779823c, type: 2}
     - target: {fileID: 2300008, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: bfd8dbfa18f37834c917a1348779823c, type: 2}
     - target: {fileID: 2300010, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: bfd8dbfa18f37834c917a1348779823c, type: 2}
     m_RemovedComponents: []
@@ -2972,23 +2970,23 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2300002, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 2f23e371304cd884b86bfd3e58e4df77, type: 2}
     - target: {fileID: 2300004, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 2f23e371304cd884b86bfd3e58e4df77, type: 2}
     - target: {fileID: 2300006, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 2f23e371304cd884b86bfd3e58e4df77, type: 2}
     - target: {fileID: 2300008, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 2f23e371304cd884b86bfd3e58e4df77, type: 2}
     - target: {fileID: 2300010, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 2f23e371304cd884b86bfd3e58e4df77, type: 2}
     m_RemovedComponents: []
@@ -3066,23 +3064,23 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2300002, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 2de1b47b84fd08243a053659d02e30f8, type: 2}
     - target: {fileID: 2300004, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 2de1b47b84fd08243a053659d02e30f8, type: 2}
     - target: {fileID: 2300006, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 2de1b47b84fd08243a053659d02e30f8, type: 2}
     - target: {fileID: 2300008, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 2de1b47b84fd08243a053659d02e30f8, type: 2}
     - target: {fileID: 2300010, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 2de1b47b84fd08243a053659d02e30f8, type: 2}
     m_RemovedComponents: []
@@ -3160,23 +3158,23 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2300002, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 8754a35d483edef4fb9ef58cf52423dc, type: 2}
     - target: {fileID: 2300004, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 8754a35d483edef4fb9ef58cf52423dc, type: 2}
     - target: {fileID: 2300006, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 8754a35d483edef4fb9ef58cf52423dc, type: 2}
     - target: {fileID: 2300008, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 8754a35d483edef4fb9ef58cf52423dc, type: 2}
     - target: {fileID: 2300010, guid: 3bb55b9dc42e34c47b35dea94575a162, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
+      propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 8754a35d483edef4fb9ef58cf52423dc, type: 2}
     m_RemovedComponents: []
