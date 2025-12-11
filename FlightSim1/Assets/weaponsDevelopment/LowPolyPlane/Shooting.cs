@@ -10,7 +10,7 @@ public class Shooting : MonoBehaviour
     public TargetLock TargetLock;
     public float fireRate = 0.01f;
     public float fireRate_M = 0.01f;
-
+    public Transform Enemy;
     private float nextFireTime = 0f;
     private float nextFireTime_M = 0f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -41,7 +41,8 @@ public class Shooting : MonoBehaviour
 
     void Shoot()
     {
-        Instantiate(bullets, shootPoint.position,shootPoint.rotation);
+        GameObject m = Instantiate(bullets, shootPoint.position,shootPoint.rotation);
+       
         Instantiate(blast, shootPoint.position, Quaternion.identity);
     }
 

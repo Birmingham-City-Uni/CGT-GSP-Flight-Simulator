@@ -2,8 +2,9 @@ using UnityEngine;
 
 public class Missile : MonoBehaviour
 {
-    public float speed_M = 40f;
+    public float speed_M = 5f;
     public float delay_M = 10f;
+    public float rotateSpeed = 5f;
     public Transform target;
     public GameObject blast;
     public GameObject blast2;
@@ -18,6 +19,9 @@ public class Missile : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        Vector3 dir = (target.position - transform.position).normalized;
+
+        transform.forward = Vector3.Lerp(transform.forward, dir, rotateSpeed * Time.deltaTime);
         //transform.Translate(Vector3.forward * speed_M * Time.deltaTime);
         transform.position += transform.forward * speed_M * Time.deltaTime;
     }
