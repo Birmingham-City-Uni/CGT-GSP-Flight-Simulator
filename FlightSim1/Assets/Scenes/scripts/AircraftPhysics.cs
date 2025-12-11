@@ -7,6 +7,8 @@ using UnityEngine;
 public class AircraftPhysics : MonoBehaviour
 {
 
+
+
     const float PredictionTimeStepFraction = 0.5f;
     [SerializeField] float thrust = 0;
     [SerializeField] List<AeroSurf> aerodynamicSurfaces = null;
@@ -72,17 +74,5 @@ public class AircraftPhysics : MonoBehaviour
         angularVelocityChangeInDiagonalSpace.z = torqueInDiagonalSpace.z / rb.inertiaTensor.z;
 
         return rb.angularVelocity + Time.fixedDeltaTime * PredictionTimeStepFraction * (intertiaTensorWorldRotation * angularVelocityChangeInDiagonalSpace);
-    }
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }

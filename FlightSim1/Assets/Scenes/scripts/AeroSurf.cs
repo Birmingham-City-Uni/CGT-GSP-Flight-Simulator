@@ -9,7 +9,7 @@ public class AeroSurf : MonoBehaviour
     [SerializeField] AeroSurfConfig2 config = null;
     public bool IsControlSurface;
     public ControlInputType InputType;
-    public float InputMultipyer = 1;
+    public float inputMultiplier = 1;
     private float flapAngle;
 
     public void SetFlapAngle(float angle)

@@ -2,6 +2,7 @@ using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 
+
 [CreateAssetMenu(fileName = "AeroSurfConfig2", menuName = "Scriptable Objects/AeroSurfConfig2")]
 public class AeroSurfConfig2 : ScriptableObject
 {
