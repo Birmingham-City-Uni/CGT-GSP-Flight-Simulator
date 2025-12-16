@@ -522,6 +522,9 @@ MonoBehaviour:
   midThrottle: {fileID: 8300000, guid: ec8607b497ea1b843a7e0cd2bbb47a79, type: 3}
   highThrottle: {fileID: 8300000, guid: 7ba31fddcad6bf04da0dd54c9e93619d, type: 3}
   highThrottleVTOL: {fileID: 8300000, guid: 205df11c5bd0c74428ea4c32ff9191e0, type: 3}
+  acceleration: {fileID: 8300000, guid: 64681f1a75b4ed84b9ea008623937d63, type: 3}
+  takeOff: {fileID: 8300000, guid: 4a5b5b9594ac23a4c8c25919f0ae6d22, type: 3}
+  taxi: {fileID: 8300000, guid: 43e12fdb65e9f9a47b741dd04a56413b, type: 3}
   enemy: {fileID: 1814169942}
 --- !u!4 &653853138
 Transform:
