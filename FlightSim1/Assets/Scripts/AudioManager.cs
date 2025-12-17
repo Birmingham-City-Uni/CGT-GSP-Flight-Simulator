@@ -12,13 +12,16 @@ public class AudioManager : MonoBehaviour
     // Attach the sound effects to this
     [SerializeField] AudioSource SFXSource;
 
-    [Header("-----------Clips Source-----------")]
-    //public AudioClip backgroundMusic;   // [EXAMPLE]
-    //public AudioClip crash;             // [EXAMPLE]
+    [Header("-----------Harrier Sound Clips-----------")]
     public AudioClip lowThrottle;
     public AudioClip midThrottle;
     public AudioClip highThrottle;
     public AudioClip highThrottleVTOL;
+
+    [Header("-----------Phantom Sound Clips-----------")]
+    public AudioClip acceleration;
+    public AudioClip takeOff;
+    public AudioClip taxi;
 
     [Header("-----------Player & Enemy references-----------")]
     public EnemyAI enemy;
