@@ -39,7 +39,7 @@ public class AirplaneControl : MonoBehaviour
     {
         pitch = Input.GetAxis("Vertical");
         roll = Input.GetAxis("Horizontal");
-        yaw = Input.GetAxis("Yaw");
+        //yaw = Input.GetAxis("Yaw");
     
         if (Input.GetKeyDown(KeyCode.Space))
         {
