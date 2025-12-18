@@ -54,10 +54,10 @@ public class AudioManager : MonoBehaviour
         }
 
         //Debug.Log("Playing sound: " + SFXSource.clip);
-        //Debug.Log("[CURRENT ENGINE STATE: " + currentState + "]");
+        Debug.Log("[CURRENT ENGINE STATE: " + currentState + "]");
     }
 
-    // Plays the low throttle sound
+    // Plays the low throttle sound - [speed of 4 or slower]
     void LowEngine()
     {
         if (SFXSource.clip != lowThrottle)
@@ -67,13 +67,13 @@ public class AudioManager : MonoBehaviour
             SFXSource.Play();
         }
 
-        // The mid range speed
-        if (enemy.moveSpeed > 4)
+        // Go up to mid throttle sound
+        if (enemy.moveSpeed >= 5 && enemy.moveSpeed < 8)
         {
             currentState = EngineState.MID;
         }
     }
-    // Plays the mid throttle sound
+    // Plays the mid throttle sound - [speed of 5 - 7]
     void MidEngine()
     {
         if (SFXSource.clip != midThrottle)
@@ -83,18 +83,18 @@ public class AudioManager : MonoBehaviour
             SFXSource.Play();
         }
 
-        // The high range speed
-        if (enemy.moveSpeed > 5)
-        {
-            currentState = EngineState.HIGH;
-        }
-        // The low range speed
-        if (enemy.moveSpeed < 5)
+        // Go down to low throttle sound
+        if (enemy.moveSpeed > 0 && enemy.moveSpeed <= 4)
         {
             currentState = EngineState.LOW;
         }
+        // Go up to high throttle sound
+        if (enemy.moveSpeed >= 8)
+        {
+            currentState = EngineState.HIGH;
+        }
     }
-    // Plays the high throttle sound (for regular planes)
+    // Plays the high throttle sound (for regular planes) - [speed of 8 or higher]
     void HighEngine()
     {
         if (SFXSource.clip != highThrottle)
@@ -104,13 +104,13 @@ public class AudioManager : MonoBehaviour
             SFXSource.Play();
         }
 
-        // The mid range speed
-        if (enemy.moveSpeed < 6)
+        // Go down to mid throttle sound
+        if (enemy.moveSpeed >= 5 && enemy.moveSpeed <= 7)
         {
             currentState = EngineState.MID;
         }
     }
-    // Plays the high throttle sound (for VTOL planes)
+    // Plays the high throttle sound (for VTOL planes) - [speed of 8 or higher]
     void HighVTOLEngine()
     {
         if (SFXSource.clip != highThrottleVTOL)
@@ -120,8 +120,8 @@ public class AudioManager : MonoBehaviour
             SFXSource.Play();
         }
 
-        // The mid range speed
-        if (enemy.moveSpeed < 6)
+        // Go down to mid throttle sound
+        if (enemy.moveSpeed >= 5 && enemy.moveSpeed <= 7)
         {
             currentState = EngineState.MID;
         }
