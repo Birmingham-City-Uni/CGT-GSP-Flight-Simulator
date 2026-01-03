@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 54fd7f20ca2e6fb4780092eda0059187
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303983
+  packageName: ocean&lake shaders | URP
+  packageVersion: 1.0
+  assetPath: Assets/ocean&lakeShaderPack/sampleScene/oceanSampleScene.unity
+  uploadId: 717021
