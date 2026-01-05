@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 839bce8dd04164744846a74d99e8fe1b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 303983
+  packageName: ocean&lake shaders | URP
+  packageVersion: 1.0
+  assetPath: Assets/ocean&lakeShaderPack/shaders/ocean/seaMatirial.mat
+  uploadId: 717021
