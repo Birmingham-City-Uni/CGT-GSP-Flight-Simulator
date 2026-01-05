@@ -4,8 +4,12 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - Enemy
-  - DebugText2
+  - ThrottleSlider
+  - AmmoCounter
+  - LevelTimeLabel
+  - AltitudeLabel
+  - SpeedLabel
+  - HealthSlider
   layers:
   - Default
   - TransparentFX
