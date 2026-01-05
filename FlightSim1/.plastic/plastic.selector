@@ -1,4 +1,0 @@
-repository "Abyssal Journey/FlightSim1@5773743083853@cloud"
-  path "/"
-    br "/main"
-    co "/main"
